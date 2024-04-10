@@ -29,7 +29,7 @@
 
   &:-ms-input-placeholder,
   &::-webkit-input-placeholder {
-    color: $gray;
+    color: orangered;
     opacity: 0.7;
   }
 
@@ -40,7 +40,6 @@
       font-size: 18px;
       line-height: 1.66666666667;
       border-radius: 06px;
-      color:orange
     }
   }
 }
