@@ -31,9 +31,6 @@ baseurl: "/forever-jekyll"
 
 # Navigation menu
 navigation_links:
-  - title: Home
-    url: /
-
   - title: Archive
     url: /archive
 
