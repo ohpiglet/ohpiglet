@@ -7,6 +7,15 @@ We went hiking with Pol and Gina and Donnacha to the refuge J.M. Blanc in the Ai
 
 ![](images/20230705_105400-1024x461.jpg)
 
+
+[![sometitle](images/20230705_105400-1024x461.jpg)](images/20230705_105400-1024x461.jpg){:.glightbox}
+
+
+[![sometitle](images/20230705_105400-1024x461.jpg)](images/20230705_105400-1024x461.jpg){:.glightbox}
+
+
+[![sometitle](images/20230705_105400-1024x461.jpg)](images/20230705_105400-1024x461.jpg){:.glightbox}
+
 It's probably the best-appointed hostel in the mountains. That's it there at the edge of the lake. Beautiful photograph from Rebecca.
 
 ![](images/20230705_150851-1024x461.jpg)
