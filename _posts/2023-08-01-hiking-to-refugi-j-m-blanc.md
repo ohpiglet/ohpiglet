@@ -11,12 +11,19 @@ _posts/images/IMG-20230727-WA0004.jpg
 
 /Users/jimkennedy/Desktop/githublocal/forever-jekyll/_posts/images/IMG-20230727-WA0004.jpg
 
+1
 
-[![sometitle](/images/IMG-20230727-WA0004.jpg)](/images/IMG-20230727-WA0004.jpg){:.glightbox}
+[![sometitle](/forever-jekyll/images/IMG-20230727-WA0004.jpg)](/images/IMG-20230727-WA0004.jpg){:.glightbox}
 
+2
+
+[![sometitle](/{{  site.title }}/images/IMG-20230727-WA0004.jpg)](/images/IMG-20230727-WA0004.jpg){:.glightbox}
+
+3
 
 [![sometitle](/_posts/images/20230705_105400-1024x461.jpg)](_posts/images/20230705_105400-1024x461.jpg){:.glightbox}
 
+4
 
 [![sometitle](images/20230705_105400-1024x461.jpg)](images/20230705_105400-1024x461.jpg){:.glightbox}
 
