@@ -17,7 +17,7 @@ _posts/images/IMG-20230727-WA0004.jpg
 
 2
 
-[![sometitle](/{{  site.title }}/images/IMG-20230727-WA0004.jpg)](/images/IMG-20230727-WA0004.jpg){:.glightbox}
+[![sometitle]({{  baseurl }}/images/IMG-20230727-WA0004.jpg)](/images/IMG-20230727-WA0004.jpg){:.glightbox}
 
 3
 
