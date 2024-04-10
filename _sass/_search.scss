@@ -23,13 +23,13 @@
   }
 
   &::-moz-placeholder {
-    color: $blue;
+    color: $gray;
     opacity: 0.7;
   }
 
   &:-ms-input-placeholder,
   &::-webkit-input-placeholder {
-    color: $blue;
+    color: $gray;
     opacity: 0.7;
   }
 
