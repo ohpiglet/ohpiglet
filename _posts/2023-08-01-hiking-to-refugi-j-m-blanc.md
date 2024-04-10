@@ -13,7 +13,6 @@ B
 
 ![](/forever-jekyll/images/20230705_150851-1024x461.jpg)
 
-
 _posts/images/IMG-20230727-WA0004.jpg
 
 /Users/jimkennedy/Desktop/githublocal/forever-jekyll/_posts/images/IMG-20230727-WA0004.jpg
