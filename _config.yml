@@ -99,7 +99,3 @@ exclude:
 # Robots are welcome
 include:
   - robots.txt
-
-# Excerpt separator
-excerpt_separator: <!--more-->
-
