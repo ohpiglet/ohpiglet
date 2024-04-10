@@ -11,7 +11,7 @@ A
 
 B
 
-![](..images/IMG-20230727-WA0004.jpg)
+![](/forever-jekyll/images/IMG-20230727-WA0004.jpg)
 
 _posts/images/IMG-20230727-WA0004.jpg
 
