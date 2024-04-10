@@ -5,7 +5,13 @@ date: "2023-08-01"
 
 We went hiking with Pol and Gina and Donnacha to the refuge J.M. Blanc in the Aigüestortes National Park.
 
-![](/images/IMG-20230727-WA0004.jpg)
+A
+
+![](/forever-jekyll/images/IMG-20230727-WA0004.jpg)
+
+B
+
+![](..images/IMG-20230727-WA0004.jpg)
 
 _posts/images/IMG-20230727-WA0004.jpg
 
