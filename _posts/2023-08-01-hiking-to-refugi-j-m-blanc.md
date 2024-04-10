@@ -13,11 +13,11 @@ _posts/images/IMG-20230727-WA0004.jpg
 
 1
 
-[![sometitle](/forever-jekyll/images/IMG-20230727-WA0004.jpg)](/images/IMG-20230727-WA0004.jpg){:.glightbox}
+[![sometitle](/forever-jekyll/images/IMG-20230727-WA0004.jpg)](/forever-jekyll/images/IMG-20230727-WA0004.jpg){:.glightbox}
 
 2
 
-[![sometitle]({{  baseurl }}/images/IMG-20230727-WA0004.jpg)](/images/IMG-20230727-WA0004.jpg){:.glightbox}
+[![sometitle]({{ baseurl }}/images/IMG-20230727-WA0004.jpg)]({{ baseurl }}/images/IMG-20230727-WA0004.jpg){:.glightbox}
 
 3
 
