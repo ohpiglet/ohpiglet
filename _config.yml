@@ -31,7 +31,7 @@ baseurl: "/forever-jekyll"
 
 # Navigation menu
 navigation_links:
-  - title: Blog
+  - title: Home
     url: /
 
   - title: Archive
@@ -66,7 +66,7 @@ kramdown:
     css_class: 'highlight'
 
 # Pagination
-paginate: 5
+paginate: 6
 paginate_path: "/page/:num/"
 
 # Set the Sass partials directory, as we're using @imports
