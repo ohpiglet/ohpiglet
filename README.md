@@ -30,6 +30,13 @@ jekyll serve
 
 ### Migrate content from wordpress
 
+### Fix imges links
+
+- Change to:
+```
+![]({{ site.baseurl }}/images/filename.jpg)
+```
+
 ### Enable comments
 
 ### Enable web analytics
