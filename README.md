@@ -11,7 +11,7 @@ For now this repo builds at [jimken123.github.io/forever-jekyll/](https://jimken
 Images display easily using this code:
 
   ```
-![]({{ site.baseurl }}/imagesfilename.jpg)
+![]({{ site.baseurl }}/images/filename.jpg)
   ```
 
 ## Build locally first
