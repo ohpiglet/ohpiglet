@@ -24,8 +24,23 @@ jekyll serve
 
 ### Add favicons
 
+### Find/Replace all 'forever-jekyll' link prepends with {{ site.baseurl}}
+
+### Replace 'forever-jekyll' with 'ohpiglet'
+
 ### Migrate content from wordpress
 
 ### Enable comments
 
 ### Enable web analytics
+
+### Add Year table to Archive page
+
+### Add 'Back to Top' button in the footer
+
+### Fix Search box placeholder text in darkMode to be visible
+
+### Consider removing 'Read more' button
+
+- If I remove the 'Read more' functionality it will display all content by default.
+- Easiest way to do this is set the 'Read more' number super high.
