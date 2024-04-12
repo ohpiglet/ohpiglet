@@ -4,7 +4,7 @@ This repo is a fork of [Forever Jekyll - A simple, elegant & full featured Jekyl
 
 I am using it to migrate my **/ohpiglet** blog away from WordPress and into Jekyll
 
-For now this repo builds at [jimken123.github.io/forever-jekyll/](jimken123.github.io/forever-jekyll/) but eventually it will go to [mananamanana.com/ohpiglet/](mananamanana.com/ohpiglet/).
+For now this repo builds at [jimken123.github.io/forever-jekyll/](https://jimken123.github.io/forever-jekyll/) but eventually it will go to [mananamanana.com/ohpiglet/](https://mananamanana.com/ohpiglet/).
 
 ## Notes to self
 
@@ -23,6 +23,8 @@ jekyll serve
 ## TODO
 
 ### Add favicons
+
+### Migrate content from wordpress
 
 ### Enable comments
 
