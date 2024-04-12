@@ -31,7 +31,7 @@ kjgdhgkdfhgdfgh
   {% for year in postsInYear %}
     <li>
       <a href="#{{ year.name }}">
-        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items }}</span>
+        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
       </a>
     </li>
   {% endfor %}
