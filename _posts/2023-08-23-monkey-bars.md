@@ -5,4 +5,4 @@ date: "2023-08-23"
 
 Monkeys on bars.
 
-![](images/IMG-20230715-WA0002-1024x576.jpg)
+![]({{ site.baseurl }}/IMG-20230715-WA0002-1024x576.jpg)

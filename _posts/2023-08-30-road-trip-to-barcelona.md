@@ -5,4 +5,4 @@ date: "2023-08-30"
 
 Papa and Pau went to Barcelona to pick up Noah and Caleb. We had a big sandwich in Agramunt.
 
-![](images/IMG-20230808-WA0003-576x1024.jpeg)
+![]({{ site.baseurl }}/IMG-20230808-WA0003-576x1024.jpeg)

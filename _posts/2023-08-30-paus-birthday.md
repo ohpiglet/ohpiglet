@@ -5,8 +5,8 @@ date: "2023-08-30"
 
 Pau is ten! We went to La Taverna.
 
-![](images/20230811_212007-1024x461.jpg)
+![]({{ site.baseurl }}/20230811_212007-1024x461.jpg)
 
 Xavi and Gina were there too.
 
-![](images/20230811_234235-1024x461.jpg)
+![]({{ site.baseurl }}/20230811_234235-1024x461.jpg)

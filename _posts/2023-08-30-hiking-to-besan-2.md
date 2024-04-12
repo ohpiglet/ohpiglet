@@ -5,10 +5,10 @@ date: "2023-08-30"
 
 We went hiking with Xavi and Gemma and Pol and Gina.
 
-![](images/20230828_111824-1024x461.jpg)
+![]({{ site.baseurl }}/20230828_111824-1024x461.jpg)
 
-![](images/20230828_123710-461x1024.jpg)
+![]({{ site.baseurl }}/20230828_123710-461x1024.jpg)
 
-![](images/20230828_123759-461x1024.jpg)
+![]({{ site.baseurl }}/20230828_123759-461x1024.jpg)
 
-![](images/20230828_123911-461x1024.jpg)
+![]({{ site.baseurl }}/20230828_123911-461x1024.jpg)

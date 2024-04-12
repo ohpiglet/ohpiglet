@@ -5,4 +5,4 @@ date: "2023-08-29"
 
 It's time to move on from the strider bike.
 
-![](images/20230806_110105-461x1024.jpg)
+![]({{ site.baseurl }}/20230806_110105-461x1024.jpg)
