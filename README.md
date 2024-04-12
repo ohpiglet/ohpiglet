@@ -1,6 +1,6 @@
 # README
 
-This repo is a fork of [Forever Jekyll - A simple, elegant & full featured Jekyll theme](https://forever-jekyll.github.io) and, minimalist at that origin repo is, I've removed a bunch of stuff that I don't need.
+This repo is a fork of [Forever Jekyll](https://forever-jekyll.github.io) and, minimalist at that origin repo is, I've removed a bunch of stuff that I don't need.
 
 I am using it to migrate my **/ohpiglet** blog away from WordPress and into Jekyll.
 
@@ -24,7 +24,7 @@ jekyll serve
 
 ### Add favicons
 
-### Find/Replace all 'forever-jekyll' link prepends with {{ site.baseurl}}
+### Find/Replace all 'forever-jekyll' link prepends with {{ site.baseurl }}
 
 ### Replace 'forever-jekyll' with 'ohpiglet'
 
@@ -40,7 +40,11 @@ jekyll serve
 
 ### Fix Search box placeholder text in darkMode to be visible
 
+- Make the input text colour/opacity same as placeholder text colour/opacity
+
 ### Consider removing 'Read more' button
 
 - If I remove the 'Read more' functionality it will display all content by default.
 - Easiest way to do this is set the 'Read more' number super high.
+
+### Consider adding gradient div bar in the footer
