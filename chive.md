@@ -7,7 +7,7 @@ title: Chive
 
 Browse all posts by month and year.
 
-{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}=
 
 CCCCC
 
@@ -18,7 +18,7 @@ CCCCC
   <h2>{{ yearMonth.name }}</h2>
   <ul>
     {% for post in yearMonth.items %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date }}{{ post.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-d %B %Y" }}{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
