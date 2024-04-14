@@ -22,24 +22,6 @@ Browse all posts by year.
 
 ddong
 
-{% comment %}Calucate the post count for each year{% endcomment %}
-{% assign count = 1 %}
-{% assign year_cnt = "" %}
-{% for post in site.posts reversed %}
-    {% assign year = post.date | date: '%Y' %}
-    {% assign nyear = post.next.date | date: '%Y' %}
-    {% if year != nyear %}
-        {% assign count = count | append: ', ' %}
-        {% assign counts = counts | append: count %}
-		{% assign year_cnt = year_cnt | append: year | append: ', ' %}
-		{% assign years = years | append: year_cnt %}
-		{% assign year_cnt = "" %}
-        {% assign count = 1 %}
-    {% else %}
-        {% assign count = count | plus: 1 %}
-    {% endif %}
-{% endfor %}
-
 {% comment %}show navigation tag here{% endcomment %}
 <div class="archive-label-meta" style ="margin-top:25px">
 {% assign i = 0 %}
