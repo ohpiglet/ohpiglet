@@ -13,6 +13,8 @@ CCCCC
 
 
 {% for yearMonth in postsByYearMonth %}
+  <h2>{{ year.name }}</h2>
+
   <h2>{{ yearMonth.name }}</h2>
   <ul>
     {% for post in yearMonth.items %}
