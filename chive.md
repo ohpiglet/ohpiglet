@@ -11,6 +11,18 @@ Browse all posts by month and year.
 
 CCCCC
 
+<ul class="taxonomy-index">
+  {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% for year in postsInYear %}
+    <li>
+      <a href="#{{ year.name }}">
+        <strong>{{ year.name }}</strong> <span class="taxonomy-count">{{ year.items | size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+fffff
 
 {% for yearMonth in postsByYearMonth %}
   <h2>{{ year.name }}</h2>
@@ -18,7 +30,7 @@ CCCCC
   <h2>{{ yearMonth.name }}</h2>
   <ul>
     {% for post in yearMonth.items %}
-      <li><b>{{ post.date | date: "%B %-d %Y" }} -</b> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      <li><b>{{ post.date | date: "%B %-d %Y" }}</b> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
