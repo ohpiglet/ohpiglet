@@ -19,5 +19,3 @@ Browse all posts by month and year.
     {% endfor %}
   </ul>
 {% endfor %}
-
-{{ content }}
