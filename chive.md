@@ -49,7 +49,6 @@ hgjkshglfdghldfgldfgd
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <li><div class="entries-{{ entries_layout }}">
       {% for post in year.items %}
-        {% include archive-single.html type=entries_layout %}
       {% endfor %}
     </div></li>
   </section>
