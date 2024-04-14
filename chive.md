@@ -7,7 +7,7 @@ title: Chive
 
 Browse all posts by month and year.
 
-{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 CCCCC
 
