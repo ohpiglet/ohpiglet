@@ -15,7 +15,7 @@ Browse all posts by year.
   <h2>{{ yearMonth.name }}</h2>
   <ul>
     {% for post in yearMonth.items %}
-      <li><i>{{ post.date | date: "%B %-d %Y" }}</i> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      <li><i>{{ post.date | date: "%B %-d %Y" }}</i> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - <i>{{ post.date | date: "%B %-d %Y" }}</i></li>
     {% endfor %}
   </ul>
 {% endfor %}
