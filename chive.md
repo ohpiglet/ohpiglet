@@ -9,92 +9,6 @@ Browse all posts by month and year.
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
-CCCCC
-
-<ul class="taxonomy-index">
-  {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-  {% for year in postsInYear %}
-    <li>
-      <a href="#{{ year.name }}">
-        <strong>{{ year.name }}</strong> <span class="taxonomy-count">{{ year.items | size }}</span>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
-
-fffff
-g
-dsg
-dfsg
-dfg
-
-g
-
-g
-
-g
-
-
-
-g
-dfg
-
-
-fg
-fg
-
-gf
-
-fg
-
-gfgdf
-gfh
-
-fhdg
-
-fdh
-
-hf
-hfh
-
-fdh
-dh
-hd
-hd
-hdd
-
-hhd
-
-hh
-
-hdh
-
-h
-
-h
-
-hdh
-hd
-d
-d
-d
-d
-
-d
-
-d
-
-d
-
-d
-
-d
-
-ddd
-
-d
-
-
 {% for yearMonth in postsByYearMonth %}
   <h2>{{ year.name }}</h2>
 
@@ -106,21 +20,4 @@ d
   </ul>
 {% endfor %}
 
-kjgdhgkdfhgdfgh
-
-
 {{ content }}
-
-<ul class="taxonomy__index">
-  {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-  {% for year in postsInYear %}
-    
-      <a href="#{{ year.name }}">
-        <strong>{{ year.name }}</strong> <span class="taxonomy__count"></span>
-      </a>
-    
-  {% endfor %}
-</ul>
-
-hgjkshglfdghldfgldfgd
-
