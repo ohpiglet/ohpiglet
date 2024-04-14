@@ -18,7 +18,7 @@ CCCCC
   <h2>{{ yearMonth.name }}</h2>
   <ul>
     {% for post in yearMonth.items %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date }}{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
