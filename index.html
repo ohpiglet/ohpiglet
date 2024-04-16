@@ -17,12 +17,12 @@ layout: default
 
       {% else %}
 
-      {{ post.excerpt | markdownify | strip_html | truncate: 50 }}
+      {{ post.excerpt | markdownify }}
 
       {% endif %}
     </div>
 
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Rghghghghead more</a>
+    <a href="{{ site.baseurl }}{{ post.url }}"</a>
   </article>
   {% endfor %}
 
