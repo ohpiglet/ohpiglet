@@ -24,11 +24,9 @@ jekyll serve
 
 ### Add favicons
 
-### Replace 'fordever-jekyll' with 'ohpiglet'
-
 ### Migrate content from wordpress
 
-### Fix imges links
+### Fix images links
 
 - Change to:
 ```
@@ -41,15 +39,6 @@ jekyll serve
 
 ### Add Year table to Archive page
 
-### Add 'Back to Top' button in the footer
-
 ### Fix Search box placeholder text in darkMode to be visible
 
 - Make the input text colour/opacity same as placeholder text colour/opacity
-
-### Consider removing 'Read more' button
-
-- If I remove the 'Read more' functionality it will display all content by default.
-- Easiest way to do this is set the 'Read more' number super high.
-
-### Consider adding gradient div bar in the footer
