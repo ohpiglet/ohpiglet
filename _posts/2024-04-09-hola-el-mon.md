@@ -4,8 +4,15 @@ title: Hola el mon
 ---
 
 Hello hello petrol.
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
+Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. 
+
+![]({{ site.baseurl }}/images/IMG-20230710-WA0004-1024x768.jpg)
+
+/Users/jimkennedy/Desktop/githublocal/ohpiglet/images/IMG-20230710-WA0004-1024x768.jpg
+
+Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
+## Check for long titles and how they might break layouts.
+
 ~1 min read October 5, 2009
 Antidisestablishmentarianism
 This post title has a long word that could potentially overflow the content area.
