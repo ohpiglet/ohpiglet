@@ -10,7 +10,7 @@
     <title>{{ site.description }}&#32;&#45;&#32;{{ site.title }}</title>
     {% endif %}
 
-    <link rel="stylesheet" href="https://jimken123.github.io/forever-jekyll/assets/style.css"/>
+    <link rel="stylesheet" href="https://jimken123.github.io/ohpiglet/assets/style.css"/>
     <link rel="apple-touch-icon" sizes="57x57" href="/assets/image/favicon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/assets/image/favicon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/assets/image/favicon-72x72.png">
@@ -78,9 +78,7 @@
 
           <div class="copyright">
             {% if site.copyright %}
-            {{ site.copyright | markdownify }}
-            {% else %}
-            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title | default: site.title }}. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/forever-jekyll/forever-jekyll" rel="nofollow">Forever Jekyll</a>.</p>
+            {{ site.copyright | markdownify }} 
             {% endif %}
           </div>
         </footer>

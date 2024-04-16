@@ -16,7 +16,7 @@ Baaaaa
 fdfgfd
 _posts/images/IMG-20230727-WA0004.jpg
 
-/Users/jimkennedy/Desktop/githublocal/forever-jekyll/_posts/images/IMG-20230727-WA0004.jpg
+
 
 1
 
