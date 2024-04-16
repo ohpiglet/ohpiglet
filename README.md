@@ -22,8 +22,6 @@ jekyll serve
 
 ## TODO
 
-### Add favicons
-
 ### Migrate content from wordpress
 
 ### Fix images links
@@ -38,7 +36,3 @@ jekyll serve
 ### Enable web analytics
 
 ### Add Year table to Archive page
-
-### Fix Search box placeholder text in darkMode to be visible
-
-- Make the input text colour/opacity same as placeholder text colour/opacity
