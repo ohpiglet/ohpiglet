@@ -9,6 +9,7 @@ layout: default
   <article class="post">
 
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <h4><i>{{ post.date | date: "%B %-d, %Y" }}</i></h4>
 
     <div class="entry">
       {% if post.content contains '<!--more-->' %}
