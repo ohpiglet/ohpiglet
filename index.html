@@ -17,7 +17,7 @@ layout: default
 
       {% else %}
 
-      {{ post.excerpt | markdownify | strip_html | truncate: 999 }}
+      {{ post.excerpt | markdownify | strip_html | truncate: 50 }}
 
       {% endif %}
     </div>
