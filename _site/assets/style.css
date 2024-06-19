@@ -88,14 +88,14 @@ small, .text_small {
 }
 
 a {
-  color: #4183C4;
+  color: #ff6900;
   text-decoration: none;
 }
 a:visited {
-  color: #4141C4;
+  color: #ff6900;
 }
 a:hover {
-  color: #4183C4;
+  color: #ff6900;
   text-decoration: underline;
 }
 
