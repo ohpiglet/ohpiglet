@@ -235,12 +235,12 @@ hr {
 
 ::-moz-selection {
   color: #FFFFFF;
-  background: #4183C4;
+  background: #ff6900;
 }
 
 ::selection {
   color: #FFFFFF;
-  background: #4183C4;
+  background: #ff6900;
 }
 
 blockquote {
