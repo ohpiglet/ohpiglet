@@ -1,0 +1,8 @@
+---
+title: "Jaume on his roof"
+date: "2024-04-08"
+---
+
+OH HAI JAUME I SEE YOU CLIMBING ON YOUR ROOF THERE.
+
+![](images/20240408_0801245446466003312776948-461x1024.jpg)
