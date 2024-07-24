@@ -88,14 +88,14 @@ small, .text_small {
 }
 
 a {
-  color: #ff6900;
+  color: #4183C4;
   text-decoration: none;
 }
 a:visited {
   color: #ff6900;
 }
 a:hover {
-  color: #ff6900;
+  color: #4183C4;
   text-decoration: underline;
 }
 
@@ -235,12 +235,12 @@ hr {
 
 ::-moz-selection {
   color: #FFFFFF;
-  background: #ff6900;
+  background: #4183C4;
 }
 
 ::selection {
   color: #FFFFFF;
-  background: #ff6900;
+  background: #4183C4;
 }
 
 blockquote {
@@ -1124,7 +1124,7 @@ green     #859900  operators, other keywords
   width: 30px;
 }
 .Pagination-link:hover {
-  color: #4183C4;
+  color: #ffA700;
 }
 @media screen and (max-width: 640px) {
   .Pagination-link {
@@ -1145,7 +1145,7 @@ green     #859900  operators, other keywords
 
 .Pagination-link--active,
 .Pagination-link--active:hover {
-  background: #4183C4;
+  background: #ff6900;
   color: #FFFFFF;
   font-weight: bold;
   margin: 0 3px;
@@ -1223,7 +1223,7 @@ green     #859900  operators, other keywords
 
 .Pagination-link:hover .Pagination-arrow::before,
 .Pagination-link:hover .Pagination-arrow::after {
-  background: #4183C4;
+  background: #ffA700;
 }
 
 .map {

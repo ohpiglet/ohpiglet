@@ -9,4 +9,12 @@ Lovely day for a jaunt on the Noguera Pallaresa.
 
 Bye bye.
 
-![](images/img-20240528-wa00048201141672328558205-1024x461.jpg)
+![](/images/img-20240528-wa00048201141672328558205-1024x461.jpg)
+
+TESTING
+
+![]({{ site.baseurl }}/images/img-20240528-wa000175489866475837154-1024x461.jpg)
+
+![]({{ site.baseurl }}/images/filename.jpg)
+
+![]({{ site.baseurl }}/images/filename.jpg)

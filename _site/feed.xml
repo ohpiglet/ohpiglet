@@ -1,326 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ohpiglet/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ohpiglet/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-04-18T17:40:35+02:00</updated><id>http://localhost:4000/ohpiglet/feed.xml</id><title type="html">ohpiglet</title><subtitle>Three monkeys we found up a tree and a woodland creature of the forest floor</subtitle><entry><title type="html">Hola el mon</title><link href="http://localhost:4000/ohpiglet/2024/04/09/hola-el-mon/" rel="alternate" type="text/html" title="Hola el mon" /><published>2024-04-09T00:00:00+02:00</published><updated>2024-04-09T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2024/04/09/hola-el-mon</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2024/04/09/hola-el-mon/"><![CDATA[<p>Hello hello petrol.
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ohpiglet/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ohpiglet/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-07-24T12:41:47+02:00</updated><id>http://localhost:4000/ohpiglet/feed.xml</id><title type="html">ohpiglet</title><subtitle>Three monkeys we found up a tree and a woodland creature of the forest floor</subtitle><entry><title type="html">Pinkie out</title><link href="http://localhost:4000/ohpiglet/2024/06/03/pinkie-out/" rel="alternate" type="text/html" title="Pinkie out" /><published>2024-06-03T00:00:00+02:00</published><updated>2024-06-03T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2024/06/03/pinkie-out</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2024/06/03/pinkie-out/"><![CDATA[<p><img src="images/20240603_1410484030477035471484962-461x1024.jpg" alt="" /></p>
 
-<p><img src="/ohpiglet/images/IMG-20230710-WA0004-1024x768.jpg" alt="" /></p>
+<p><img src="/ohpiglet/images/IMG-20230727-WA0004.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Lunch at my desk</title><link href="http://localhost:4000/ohpiglet/2024/06/03/lunch-at-my-desk/" rel="alternate" type="text/html" title="Lunch at my desk" /><published>2024-06-03T00:00:00+02:00</published><updated>2024-06-03T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2024/06/03/lunch-at-my-desk</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2024/06/03/lunch-at-my-desk/"><![CDATA[<p>Saoirse brought sushi, toast, and coffee.</p>
 
-<p>/Users/jimkennedy/Desktop/githublocal/ohpiglet/images/IMG-20230710-WA0004-1024x768.jpg</p>
+<p><img src="images/20240603_0905164168798534850340673-1024x461.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Saoirse brought sushi, toast, and coffee.]]></summary></entry><entry><title type="html">Traffic jam</title><link href="http://localhost:4000/ohpiglet/2024/06/01/traffic-jam/" rel="alternate" type="text/html" title="Traffic jam" /><published>2024-06-01T00:00:00+02:00</published><updated>2024-06-01T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2024/06/01/traffic-jam</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2024/06/01/traffic-jam/"><![CDATA[<p>Busy on the road to Lleida.</p>
 
-<p>Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid</p>
-<h2 id="check-for-long-titles-and-how-they-might-break-layouts">Check for long titles and how they might break layouts.</h2>
+<p><img src="images/20240601_0813043375882130008853389-1024x461.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Busy on the road to Lleida.]]></summary></entry><entry><title type="html">A day in Lleida</title><link href="http://localhost:4000/ohpiglet/2024/06/01/a-day-in-lleida/" rel="alternate" type="text/html" title="A day in Lleida" /><published>2024-06-01T00:00:00+02:00</published><updated>2024-06-01T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2024/06/01/a-day-in-lleida</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2024/06/01/a-day-in-lleida/"><![CDATA[<p>We went for ramen.</p>
 
-<p>~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
-~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
-~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
-~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
-~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
-~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
-~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
-~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
-~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
-~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
-~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009
-Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid
-Check for long titles and how they might break layouts.
-~1 min read October 5, 2009
-Antidisestablishmentarianism
-This post title has a long word that could potentially overflow the content area.
-~1 min read October 5, 2009
-Edge Case No Yaml Title
-This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.
-~1 min read September 5, 2009
-Edge Case: No Body Content
-This post has no body content and should be blank on the post’s page.
-~1 min read August 6, 2009
-Edge Case: Many Categories
-This post has many categories.
-~1 min read July 2, 2009
-Edge Case: Many Tags
-This post has many tags.
-~1 min read June 1, 2009
-Edge Case: Nested and Mixed Lists
-Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
-~1 min read May 15, 2009</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Hello hello petrol. Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante.]]></summary></entry><entry><title type="html">Super blue moon</title><link href="http://localhost:4000/ohpiglet/2023/08/31/super-blue-moon/" rel="alternate" type="text/html" title="Super blue moon" /><published>2023-08-31T00:00:00+02:00</published><updated>2023-08-31T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2023/08/31/super-blue-moon</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2023/08/31/super-blue-moon/"><![CDATA[<p>Here it comes, rising over Roc Roi.</p>
+<p><img src="images/20240601_1525188639913027191253023-461x1024.jpg" alt="" /></p>
 
-<p><img src="/ohpiglet/images/20230711_144618.jpg" alt="" /></p>
+<p>No trip to Lleida is complete without a trip to Decathlon.</p>
 
-<p>;dfjdsf
-df</p>
+<p><img src="images/20240601_1709525967813997721749401-1024x461.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[We went for ramen.]]></summary></entry><entry><title type="html">We love it when friends visit from Ireland</title><link href="http://localhost:4000/ohpiglet/2024/05/29/we-love-it-when-friends-visit-from-ireland/" rel="alternate" type="text/html" title="We love it when friends visit from Ireland" /><published>2024-05-29T00:00:00+02:00</published><updated>2024-05-29T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2024/05/29/we-love-it-when-friends-visit-from-ireland</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2024/05/29/we-love-it-when-friends-visit-from-ireland/"><![CDATA[<p><img src="images/20240529_1031372013886767366867827-1024x461.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Papa and Mama go kayaking</title><link href="http://localhost:4000/ohpiglet/2024/05/29/papa-and-mama-go-kayaking/" rel="alternate" type="text/html" title="Papa and Mama go kayaking" /><published>2024-05-29T00:00:00+02:00</published><updated>2024-05-29T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2024/05/29/papa-and-mama-go-kayaking</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2024/05/29/papa-and-mama-go-kayaking/"><![CDATA[<p>For the first time this season, Papa and Mama go kayaking.</p>
 
-<p>fds
-f
-dsfg
-dsfg
-ds
-fds
-fs
-df</p>
+<p><img src="images/img-20240529-wa00092398345010633230387-768x1024.jpg" alt="" /></p>
 
-<ul>
-  <li>sg</li>
-</ul>
+<p>She looks good on the water.</p>
 
-<p>d
-f
-sfsd
-fds
-f
-dfdsf
-d</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Here it comes, rising over Roc Roi.]]></summary></entry><entry><title type="html">Turquiose Land Rover</title><link href="http://localhost:4000/ohpiglet/2023/08/30/turquiose-land-rover/" rel="alternate" type="text/html" title="Turquiose Land Rover" /><published>2023-08-30T00:00:00+02:00</published><updated>2023-08-30T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2023/08/30/turquiose-land-rover</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2023/08/30/turquiose-land-rover/"><![CDATA[<p>More fun with Defenders.</p>
+<p><img src="images/img-20240529-wa001131663134360747730-1024x768.jpg" alt="" /></p>
 
-<p><img src="/ohpiglet/images/20230825_163626_resized-1024x579.jpg" alt="" /></p>
+<p><img src="images/img-20240529-wa00142757091791649100140-768x1024.jpg" alt="" /></p>
 
-<p><img src="/ohpiglet/images/20230825_163651-1024x461.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[More fun with Defenders.]]></summary></entry><entry><title type="html">Road trip to Barcelona</title><link href="http://localhost:4000/ohpiglet/2023/08/30/road-trip-to-barcelona/" rel="alternate" type="text/html" title="Road trip to Barcelona" /><published>2023-08-30T00:00:00+02:00</published><updated>2023-08-30T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2023/08/30/road-trip-to-barcelona</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2023/08/30/road-trip-to-barcelona/"><![CDATA[<p>Papa and Pau went to Barcelona to pick up Noah and Caleb. We had a big sandwich in Agramunt.</p>
+<p><img src="images/img-20240531-wa00012286790535127655762-1024x768.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[For the first time this season, Papa and Mama go kayaking.]]></summary></entry><entry><title type="html">Kayaking with Donnacha</title><link href="http://localhost:4000/ohpiglet/2024/05/28/kayaking-with-donnacha/" rel="alternate" type="text/html" title="Kayaking with Donnacha" /><published>2024-05-28T00:00:00+02:00</published><updated>2024-05-28T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2024/05/28/kayaking-with-donnacha</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2024/05/28/kayaking-with-donnacha/"><![CDATA[<p>Lovely day for a jaunt on the Noguera Pallaresa.</p>
 
-<p><img src="/ohpiglet/images/IMG-20230808-WA0003-576x1024.jpeg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Papa and Pau went to Barcelona to pick up Noah and Caleb. We had a big sandwich in Agramunt.]]></summary></entry><entry><title type="html">Pau’s birthday</title><link href="http://localhost:4000/ohpiglet/2023/08/30/paus-birthday/" rel="alternate" type="text/html" title="Pau’s birthday" /><published>2023-08-30T00:00:00+02:00</published><updated>2023-08-30T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2023/08/30/paus-birthday</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2023/08/30/paus-birthday/"><![CDATA[<p>Pau is ten! We went to La Taverna.</p>
+<p><img src="images/img-20240528-wa000175489866475837154-1024x461.jpg" alt="" /></p>
 
-<p><img src="/ohpiglet/images/20230811_212007-1024x461.jpg" alt="" /></p>
+<p>Bye bye.</p>
 
-<p>Xavi and Gina were there too.</p>
+<p><img src="/images/img-20240528-wa00048201141672328558205-1024x461.jpg" alt="" /></p>
 
-<p><img src="/ohpiglet/images/20230811_234235-1024x461.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Pau is ten! We went to La Taverna.]]></summary></entry><entry><title type="html">More painted stones</title><link href="http://localhost:4000/ohpiglet/2023/08/30/more-painted-stones/" rel="alternate" type="text/html" title="More painted stones" /><published>2023-08-30T00:00:00+02:00</published><updated>2023-08-30T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2023/08/30/more-painted-stones</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2023/08/30/more-painted-stones/"><![CDATA[<p><img src="/ohpiglet/images/IMG-20230802-WA0002-1024x576.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">More from Pau’s birthday</title><link href="http://localhost:4000/ohpiglet/2023/08/30/more-from-paus-birthday/" rel="alternate" type="text/html" title="More from Pau’s birthday" /><published>2023-08-30T00:00:00+02:00</published><updated>2023-08-30T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2023/08/30/more-from-paus-birthday</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2023/08/30/more-from-paus-birthday/"><![CDATA[<p><img src="/ohpiglet/images/IMG-20230813-WA0003-576x1024.jpg" alt="" /></p>
+<p>TESTING</p>
 
-<p><img src="/ohpiglet/images/IMG-20230813-WA0001-1024x576.jpg" alt="" /></p>
+<p><img src="/ohpiglet/images/img-20240528-wa000175489866475837154-1024x461.jpg" alt="" /></p>
 
-<p><img src="/ohpiglet/images/IMG-20230813-WA0005-1024x576.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Meteorite shower</title><link href="http://localhost:4000/ohpiglet/2023/08/30/meteorite-shower/" rel="alternate" type="text/html" title="Meteorite shower" /><published>2023-08-30T00:00:00+02:00</published><updated>2023-08-30T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2023/08/30/meteorite-shower</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2023/08/30/meteorite-shower/"><![CDATA[<p>We went to the Bosc de Viros to see the meteorite shower.</p>
+<p><img src="/ohpiglet/images/filename.jpg" alt="" /></p>
 
-<p><img src="/ohpiglet/images/20230820_200352-1024x461.jpg" alt="" /></p>
+<p><img src="/ohpiglet/images/filename.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Lovely day for a jaunt on the Noguera Pallaresa.]]></summary></entry><entry><title type="html">Danny McCasco</title><link href="http://localhost:4000/ohpiglet/2024/05/28/danny-mccasco/" rel="alternate" type="text/html" title="Danny McCasco" /><published>2024-05-28T00:00:00+02:00</published><updated>2024-05-28T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2024/05/28/danny-mccasco</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2024/05/28/danny-mccasco/"><![CDATA[<p>Saoirse is a menace on her bicycle.</p>
 
-<p><img src="/ohpiglet/images/20230820_211406-461x1024.jpg" alt="" /></p>
+<p>VID-20240528-WA0014.mp4</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Saoirse is a menace on her bicycle.]]></summary></entry><entry><title type="html">Helping to build the shed</title><link href="http://localhost:4000/ohpiglet/2024/05/26/helping-to-build-the-shed/" rel="alternate" type="text/html" title="Helping to build the shed" /><published>2024-05-26T00:00:00+02:00</published><updated>2024-05-26T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2024/05/26/helping-to-build-the-shed</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2024/05/26/helping-to-build-the-shed/"><![CDATA[<p>Riu is helping paint the shed in camouflage green.</p>
 
-<p><img src="/ohpiglet/images/20230820_211216-1024x461.jpg" alt="" /></p>
+<p><img src="images/20240526_1623111477583435309844321-461x1024.jpg" alt="" /></p>
 
-<p><img src="/ohpiglet/images/20230820_205948-1024x461.jpg" alt="" /></p>
+<p>Donnacha is helping in a different way.</p>
 
-<p><img src="/ohpiglet/images/20230820_201144-1024x461.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[We went to the Bosc de Viros to see the meteorite shower.]]></summary></entry><entry><title type="html">Hiking to Besan</title><link href="http://localhost:4000/ohpiglet/2023/08/30/hiking-to-besan-2/" rel="alternate" type="text/html" title="Hiking to Besan" /><published>2023-08-30T00:00:00+02:00</published><updated>2023-08-30T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2023/08/30/hiking-to-besan-2</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2023/08/30/hiking-to-besan-2/"><![CDATA[<p>We went hiking with Xavi and Gemma and Pol and Gina.</p>
+<p><img src="images/20240526_1638286514067597148365752-461x1024.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Riu is helping paint the shed in camouflage green.]]></summary></entry><entry><title type="html">Pre-teen</title><link href="http://localhost:4000/ohpiglet/2024/05/25/pre-teen/" rel="alternate" type="text/html" title="Pre-teen" /><published>2024-05-25T00:00:00+02:00</published><updated>2024-05-25T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2024/05/25/pre-teen</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2024/05/25/pre-teen/"><![CDATA[<p>The almost-teenager has a phone.</p>
 
-<p><img src="/ohpiglet/images/20230828_111824-1024x461.jpg" alt="" /></p>
-
-<p><img src="/ohpiglet/images/20230828_123710-461x1024.jpg" alt="" /></p>
-
-<p><img src="/ohpiglet/images/20230828_123759-461x1024.jpg" alt="" /></p>
-
-<p><img src="/ohpiglet/images/20230828_123911-461x1024.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[We went hiking with Xavi and Gemma and Pol and Gina.]]></summary></entry><entry><title type="html">Girls and sunglasses</title><link href="http://localhost:4000/ohpiglet/2023/08/30/girls-and-sunglasses/" rel="alternate" type="text/html" title="Girls and sunglasses" /><published>2023-08-30T00:00:00+02:00</published><updated>2023-08-30T00:00:00+02:00</updated><id>http://localhost:4000/ohpiglet/2023/08/30/girls-and-sunglasses</id><content type="html" xml:base="http://localhost:4000/ohpiglet/2023/08/30/girls-and-sunglasses/"><![CDATA[<p><img src="/ohpiglet/images/20230820_200240-1024x768.jpg" alt="" /></p>
-
-<p><img src="/ohpiglet/images/20230820_200252-1024x768.jpg" alt="" /></p>
-
-<p><img src="/ohpiglet/images/20230820_200306-1024x768.jpg" alt="" /></p>
-
-<p><img src="/ohpiglet/images/20230820_200311-1024x768.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+<p><img src="images/20240525_2146266853524612453264636-461x1024.jpg" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[The almost-teenager has a phone.]]></summary></entry></feed>
