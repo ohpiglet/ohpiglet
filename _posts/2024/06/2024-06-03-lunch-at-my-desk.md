@@ -5,4 +5,4 @@ date: "2024-06-03"
 
 Saoirse brought sushi, toast, and coffee.
 
-![image]({{ site.baseurl }}/assets/images/20240603_0905164168798534850340673.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/20240603_0905164168798534850340673.jpg)

@@ -10,19 +10,9 @@ For now this repo builds at [jimken123.github.io/ohpiglet/](https://jimken123.gi
 
 Images display easily using this code:
 
-  ```
-![]({{ site.baseurl }}/images/filename.jpg)
-  ```
-
-By default images import in the form:
-
-![](images/20240603_1410484030477035471484962-461x1024.jpg)
-
-But you need to change them to be of the form:
-
-![]({{ site.baseurl }}/images/IMG-20230727-WA0004.jpg)
-
-That is to say, replace 
+```
+![yo yo]({{ site.baseurl }}/assets/images/2024/foo.jpg)
+```
 
 ## Build locally first
 
@@ -38,7 +28,7 @@ jekyll serve
 
 - Change to:
 ```
-![]({{ site.baseurl }}/images/filename.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/foo.jpg)
 ```
 
 ### Enable comments

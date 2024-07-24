@@ -3,4 +3,4 @@ title: "Smiling Saoirse"
 date: "2024-05-24"
 ---
 
-![](images/20240524_211130982927108268334610-768x1024.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/20240524_211130982927108268334610-768x1024.jpg)

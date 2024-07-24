@@ -5,7 +5,7 @@ date: "2024-05-28"
 
 Lovely day for a jaunt on the Noguera Pallaresa.
 
-![](images/img-20240531-wa00012286790535127655762.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/img-20240531-wa00012286790535127655762.jpg)
 
 Bye bye.
 

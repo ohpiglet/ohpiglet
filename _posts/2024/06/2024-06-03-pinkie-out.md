@@ -5,7 +5,7 @@ date: "2024-06-03"
 
 1
 
-![](images/IMG-20230727-WA0004.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/IMG-20230727-WA0004.jpg)
 
 2
 
