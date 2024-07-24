@@ -26,7 +26,10 @@ jekyll serve
 
 ### Fix images links
 
-- Change to:
+Images by default are of this form: ![](images/foo.jpg)
+
+You will need to change them as follows (note the 'year'):
+
 ```
 ![yo yo]({{ site.baseurl }}/assets/images/2024/foo.jpg)
 ```
@@ -36,3 +39,27 @@ jekyll serve
 ### Enable web analytics
 
 ### Add Year table to Archive page
+
+### Unsorted
+
+- videos
+
+-- make csv of wp videos
+
+-- find md syntax for adding videos
+
+-- Add video line to ~155 md files
+
+- Find a link checker
+
+- Deploy a link checker
+
+- split /images into /images/year etc.
+
+- find and replace broken image syntax with correct image syntax
+
+- add /output to /ohpiglet
+
+- build
+
+- test
