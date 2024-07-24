@@ -42,7 +42,11 @@ You will need to change them as follows (note the 'year'):
 
 ### Unsorted
 
-- videos
+- videos - try with <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe> or {% youtube oHg5SJYRHA0 %} or <video muted autoplay controls>
+    <source src="{{ site.my-media-path }}/myvideo.mp4" type="video/mp4">
+</video> or <video width="100%" preload="auto" muted controls>
+    <source src="{{ include.src }}" type="video/mp4"/>
+</video>
 
 -- make csv of wp videos
 
