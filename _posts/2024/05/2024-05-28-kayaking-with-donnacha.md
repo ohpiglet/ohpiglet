@@ -5,20 +5,26 @@ date: "2024-05-28"
 
 Lovely day for a jaunt on the Noguera Pallaresa.
 
-![](images/img-20240528-wa000175489866475837154-1024x461.jpg)
+![](images/img-20240531-wa00012286790535127655762.jpg)
 
 Bye bye.
 
-![](/images/img-20240528-wa00048201141672328558205-1024x461.jpg)
+![](/images/img-20240531-wa00012286790535127655762.jpg)
 
 TESTING
 
-![]({{ site.baseurl }}/images/img-20240528-wa000175489866475837154-1024x461.jpg)
+1
 
-![]({{ site.baseurl }}/images/filename.jpg)
+![]({{ site.baseurl }}/images/img-20240531-wa00012286790535127655762.jpg)
 
-![]({{ site.baseurl }}/images/filename.jpg)
+2
 
-ffff
+![]({{ site.baseurl }}/images/img-20240531-wa00012286790535127655762.jpg)
 
-![](images/IMG-20230727-WA0004.jpg)
+3
+
+![]({{ site.baseurl }}/images/img-20240531-wa00012286790535127655762.jpg)
+
+4
+
+_posts/2024/05/images/img-20240531-wa00012286790535127655762.jpg
