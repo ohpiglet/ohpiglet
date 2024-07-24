@@ -14,6 +14,16 @@ Images display easily using this code:
 ![]({{ site.baseurl }}/images/filename.jpg)
   ```
 
+By default images import in the form:
+
+![](images/20240603_1410484030477035471484962-461x1024.jpg)
+
+But you need to change them to be of the form:
+
+![]({{ site.baseurl }}/images/IMG-20230727-WA0004.jpg)
+
+That is to say, replace 
+
 ## Build locally first
 
  ```
