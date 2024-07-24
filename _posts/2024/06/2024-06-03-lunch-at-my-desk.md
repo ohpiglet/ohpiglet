@@ -14,3 +14,7 @@ Saoirse brought sushi, toast, and coffee.
 2
 
 ![]({{ site.baseurl }}/_posts/2024/06/images/orange.jpg)
+
+ffffff
+
+![image](/assets/images/20230711_144618.jpg)
