@@ -6,9 +6,7 @@ youtubeId: xwYGtbSmJqnKxQc8
 
 The newly expanded skatepark in Sort is a big success. All four of the monkeys in this video!
 
-https://mananahhhhhh 
-
-manana.com/ohpiglet/wp-content/uploads/2024/05/20240523_180828.mp4
+https://mananamanana.com/ohpiglet/wp-content/uploads/2024/05/20240523_180828.mp4
 
 All you ever do is walk away
 
@@ -19,3 +17,7 @@ All you ever do is walk away
 2
 
 {% include youtubePlayer.html id=page.xwYGtbSmJqnKxQc8 %}
+
+3
+
+<iframe width="560" height="315" src="https://mananamanana.com/ohpiglet/wp-content/uploads/2024/05/20240523_180828.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
