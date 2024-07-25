@@ -1,7 +1,7 @@
 ---
 title: "New skatepark in Sort"
 date: "2024-05-23"
-youtubeId: lC5bgX1MXYo
+youtubeId: xwYGtbSmJqnKxQc8
 ---
 
 The newly expanded skatepark in Sort is a big success. All four of the monkeys in this video!
@@ -18,4 +18,4 @@ All you ever do is walk away
 
 2
 
-{% include youtubePlayer.html id=page.lC5bgX1MXYo %}
+{% include youtubePlayer.html id=page.xwYGtbSmJqnKxQc8 %}
