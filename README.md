@@ -40,7 +40,7 @@ You will need to change them as follows (note the 'year'):
 
 ### Add Year table to Archive page
 
-### Unsorted
+### Video
 
 - videos - try with
 
@@ -70,13 +70,25 @@ or
 
 - Add video line to ~155 md files
 
+### Link Checker
+
 - Find a link checker
 
 - Deploy a link checker
 
+### Housekeeping
+
 - split /images into /images/year etc.
 
 - find and replace broken image syntax with correct image syntax, all years
+
+### Dark Mode snag
+
+- Input Search-box text is invisible in Dark Mode 
+
+- fix it in css
+
+### Build out
 
 - add /output to /ohpiglet, all years
 
@@ -85,5 +97,3 @@ or
 - test
 
 - Add 2023 ... 2010 one year at a time.
-
-- Input Search-box text is invisible in Dark Mode 
