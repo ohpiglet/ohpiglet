@@ -42,17 +42,33 @@ You will need to change them as follows (note the 'year'):
 
 ### Unsorted
 
-- videos - try with <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe> or {% youtube oHg5SJYRHA0 %} or <video muted autoplay controls>
+- videos - try with
+
+```
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+or 
+
+{% youtube oHg5SJYRHA0 %} 
+
+or 
+
+<video muted autoplay controls>
     <source src="{{ site.my-media-path }}/myvideo.mp4" type="video/mp4">
-</video> or <video width="100%" preload="auto" muted controls>
-    <source src="{{ include.src }}" type="video/mp4"/>
 </video>
 
--- make csv of wp videos
+or 
 
--- find md syntax for adding videos
+<video width="100%" preload="auto" muted controls>
+    <source src="{{ include.src }}" type="video/mp4"/>
+</video>
+```
 
--- Add video line to ~155 md files
+- make csv of wp videos
+
+- find md syntax for adding videos
+
+- Add video line to ~155 md files
 
 - Find a link checker
 
@@ -60,10 +76,14 @@ You will need to change them as follows (note the 'year'):
 
 - split /images into /images/year etc.
 
-- find and replace broken image syntax with correct image syntax
+- find and replace broken image syntax with correct image syntax, all years
 
-- add /output to /ohpiglet
+- add /output to /ohpiglet, all years
 
 - build
 
 - test
+
+- Add 2023 ... 2010 one year at a time.
+
+- Input Search-box text is invisible in Dark Mode 
