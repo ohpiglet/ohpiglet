@@ -2,7 +2,7 @@
 date: "2013-08-30"
 ---
 
-![](images/tumblr_msd411OGfs1r16syio1_1280-1024x576.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2013/tumblr_msd411OGfs1r16syio1_1280-1024x576.jpg)
 
 When you sleep.
 

@@ -5,4 +5,4 @@ date: "2013-10-03"
 
 Sitting on the bean bag.
 
-![](images/tumblr_inline_mtzmwshdq41qlj3bd.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2013/tumblr_inline_mtzmwshdq41qlj3bd.jpg)

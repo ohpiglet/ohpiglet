@@ -2,6 +2,6 @@
 date: "2013-11-02"
 ---
 
-![](images/tumblr_mvmltvNPLV1r16syio1_1280-1024x576.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2013/tumblr_mvmltvNPLV1r16syio1_1280-1024x576.jpg)
 
 Thiago came to visit.

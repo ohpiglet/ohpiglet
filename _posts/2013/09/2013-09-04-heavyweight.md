@@ -5,4 +5,4 @@ date: "2013-09-04"
 
 4.150 kg already.
 
-![](images/tumblr_inline_msadfqnhu31qz4rgp.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2013/tumblr_inline_msadfqnhu31qz4rgp.jpg)

@@ -15,8 +15,8 @@ Auntie Anne standing very close to the edge.
 
 Riu guides everyone safely back to Rupit.
 
-![](images/tumblr_inline_mivi6zzNuC1qz4rgp.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2013/tumblr_inline_mivi6zzNuC1qz4rgp.jpg)
 
 Another job well done.
 
-![](images/tumblr_inline_mivibivE5Z1qz4rgp.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2013/tumblr_inline_mivibivE5Z1qz4rgp.jpg)

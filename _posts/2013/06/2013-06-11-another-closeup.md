@@ -5,6 +5,6 @@ date: "2013-06-11"
 
 Close…
 
-![](images/tumblr_inline_mo8dclIV6Y1qz4rgp.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2013/tumblr_inline_mo8dclIV6Y1qz4rgp.jpg)
 
 …up.

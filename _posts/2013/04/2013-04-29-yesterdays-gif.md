@@ -7,6 +7,6 @@ Apologies about that, it was all a tad unnecessary, what with the moving around 
 
 Here’s a still picture:
 
-![](images/tumblr_inline_mlyy8gPkQs1qz4rgp.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2013/tumblr_inline_mlyy8gPkQs1qz4rgp.jpg)
 
 Friends again?

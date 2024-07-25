@@ -9,6 +9,6 @@ OH HAI, JUST DRIVING THE VAN.
 
 A quick snack before we´re off. 
 
-![](images/tumblr_inline_mwbabwk4zl1qlj3bd.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2013/tumblr_inline_mwbabwk4zl1qlj3bd.jpg)
 
 JUMP IN.

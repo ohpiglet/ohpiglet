@@ -5,4 +5,4 @@ date: "2013-11-21"
 
 Pau being sociable.
 
-![](images/tumblr_inline_mwlyqt4sfm1qlj3bd.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2013/tumblr_inline_mwlyqt4sfm1qlj3bd.jpg)
