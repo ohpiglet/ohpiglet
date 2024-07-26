@@ -24,6 +24,10 @@ jekyll serve
 
 ### Migrate content from wordpress
 
+### [gallery] 
+
+The [gallery] issue is still there in 2018
+
 ### Fix images links
 
 Images by default are of this form: ![](images/foo.jpg)
