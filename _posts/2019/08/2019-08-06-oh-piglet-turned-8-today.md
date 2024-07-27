@@ -5,6 +5,6 @@ tags:
   - "tumblr-milestone"
 ---
 
-\[gallery\]
+![yo yo]({{ site.baseurl }}/assets/images/2019/birthday8_1280-768x920.jpg)
 
 Oh Piglet… turned 8 today!

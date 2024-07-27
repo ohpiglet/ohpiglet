@@ -26,7 +26,7 @@ jekyll serve
 
 ### [gallery] 
 
-The [gallery] issue is still there in 2018
+The [gallery] issue is still there across the 2018 blogposts, and minorly in other years (like, 20 blogposts). Need to do the tedious manual fix.
 
 ### Fix images links
 
@@ -46,7 +46,7 @@ You will need to change them as follows (note the 'year'):
 
 ### Video
 
-- videos - try with
+- videos - there are 155 broken video links, try fixing with
 
 ```
 <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
@@ -74,6 +74,8 @@ or
 
 - Add video line to ~155 md files
 
+- might have to host the 155 videos on youtube
+
 ### Link Checker
 
 - Find a link checker
@@ -82,22 +84,16 @@ or
 
 ### Housekeeping
 
-- split /images into /images/year etc.
-
-- find and replace broken image syntax with correct image syntax, all years
+- find and replace broken image syntax with correct image syntax, 2018, but check all years
 
 ### Dark Mode snag
 
 - Input Search-box text is invisible in Dark Mode 
 
-- fix it in css
-
 ### Build out
 
-- add /output to /ohpiglet, all years
+- add /output to /ohpiglet, 2018
 
 - build
 
 - test
-
-- Add 2023 ... 2018 one year at a time.
