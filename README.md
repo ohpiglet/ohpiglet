@@ -26,7 +26,9 @@ jekyll serve
 
 ### [gallery] 
 
-The [gallery] issue is still there across the 2018 blogposts, and minorly in other years (like, 20 blogposts). Need to do the tedious manual fix.
+The [gallery] issue is still there across the 2018 blogposts. Need to do the tedious manual fix in wp and reexport for the 2018 part. 
+
+Manually fixed 20 files in this commit: https://github.com/jimken123/ohpiglet/commit/3fa8ca64b99171093f32c8bc9ae0e39b3ac95c93 but the relevant images are missing. I need to find those images and add them to assets/images/YYYY as appropriate.
 
 ### Fix images links
 
@@ -81,6 +83,12 @@ or
 - Find a link checker
 
 - Deploy a link checker
+
+- https://www.deadlinkchecker.com/
+
+### Pagination
+
+- add pagination, make shorter number
 
 ### Housekeeping
 
