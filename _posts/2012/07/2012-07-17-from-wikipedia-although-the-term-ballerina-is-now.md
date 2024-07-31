@@ -8,3 +8,7 @@ From Wikipedia, _Although the term ballerina is now commonly used to describe an
 I think we can all agree she’s quite the exceptional ballerina.
 
 _Tutu from Fiona_
+
+fixvideo
+
+http://mananamanana.com/ohpiglet/wp-content/uploads/2022/07/tumblr_m7bdg7XnOl1r16syi.mp4

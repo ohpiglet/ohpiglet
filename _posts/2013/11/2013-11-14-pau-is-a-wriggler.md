@@ -6,3 +6,7 @@ tags:
 ---
 
 Pau is a wriggler.
+
+fixvideo
+
+http://mananamanana.com/ohpiglet/wp-content/uploads/2022/07/VA%C2%ADdeo.mp4

@@ -7,4 +7,8 @@ Piglet has started to go down the tobogans (or slides if you prefer). She’s qu
 
 Enjoy her latest video.
 
+fixvideo
+
+http://mananamanana.com/ohpiglet/wp-content/uploads/2013/04/riu_goes_for_a_slide-480p.mp4?_=1
+
 \[video width="640" height="480" mp4="http://mananamanana.com/ohpiglet/wp-content/uploads/2013/04/riu\_goes\_for\_a\_slide-480p.mp4"\]\[/video\]

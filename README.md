@@ -48,7 +48,13 @@ You will need to change them as follows (note the 'year'):
 
 ### Video
 
-- videos - there are 155 broken video links, try fixing with
+- videos - there are 155 broken video link.
+
+- all wp videos are now added to assets/videos and /extravideos
+
+THey are listed here: https://mananamanana.com/ohpiglet/wp-admin/upload.php?mode=list&attachment-filter=post_mime_type%3Avideo&m=0&filter_action=Filter&s&action=-1&paged=1&action2=-1&affected&_ajax_nonce=e5398c9030&ps
+
+Try fixing with:
 
 ```
 <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
@@ -70,11 +76,7 @@ or
 </video>
 ```
 
-- make csv of wp videos
-
 - find md syntax for adding videos
-
-- Add video line to ~155 md files
 
 - might have to host the 155 videos on youtube
 
@@ -92,15 +94,13 @@ or
 
 ### Housekeeping
 
-- find and replace broken image syntax with correct image syntax, 2018, but check all years
+- find and replace broken image syntax with correct image syntax for all years
 
 ### Dark Mode snag
 
 - Input Search-box text is invisible in Dark Mode 
 
 ### Build out
-
-- add /output to /ohpiglet, 2018
 
 - build
 

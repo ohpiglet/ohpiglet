@@ -10,3 +10,7 @@ First she would cruise along holding on to chairs and things with both hands. Th
 Now she charges off on her own, only looking back to check that we are still following.
 
 This is her latest video…
+
+http://mananamanana.com/ohpiglet/wp-content/uploads/2022/07/riu_goes_for_a_walk-360p.mp4
+
+fixvideo
