@@ -44,7 +44,7 @@ Videos should be uploaded to Vimeo and then displayed using the default embed co
 Built a totally unreliable local build:
 
  ```
-jekyll serve
+bundle exec jekyll serve
  ```
 
 ## Link Checker
