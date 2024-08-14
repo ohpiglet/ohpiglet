@@ -1,12 +1,12 @@
 [
   
   {
-    "title"    : "Foo",
+    "title"    : "Foo bar",
     "category" : "",
     "url"      : "/2024/06/20/foo/",
     "date"     : "June 20, 2024",
-    "excerpt"  : "foo\n\n\n",
-    "content"  : "foo\n\n\n"
+    "excerpt"  : "foo  and bar\n\n\n",
+    "content"  : "foo  and bar\n\n\n"
 } ,
   
   {
