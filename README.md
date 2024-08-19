@@ -60,7 +60,7 @@ Search for wp-content as a string to find all stray photo links:
 
 Yes:
  ```
-[![yo yo]({{ site.baseurl }}/assets/images/2016/tumblr_o9sj8aC6U51r16syio1_1280-768x1024.jpg)]
+![yo yo]({{ site.baseurl }}/assets/images/2016/tumblr_o9sj8aC6U51r16syio1_1280-768x1024.jpg)]
  ```
 
 No:
@@ -78,7 +78,7 @@ No:
 
 Videos should be uploaded to Vimeo and then displayed using the default embed code.
 
-- there are ~70 broken video link.
+- there are 296 fixvideo strings.
 
 - all wp videos are now added to assets/videos and /extravideos
 
