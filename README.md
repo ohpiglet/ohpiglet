@@ -54,6 +54,20 @@ bundle exec jekyll serve
 
 ## TODO
 
+### wp string
+
+Search for wp-content as a string to find all stray photo links:
+
+Yes:
+ ```
+[![yo yo]({{ site.baseurl }}/assets/images/2016/tumblr_o9sj8aC6U51r16syio1_1280-768x1024.jpg)]
+ ```
+
+No:
+ ```
+(https://mananamanana.com/ohpiglet/wp-content/uploads/2016/07/tumblr_o9sj8aC6U51r16syio1_1280.jpg)
+ ```
+
 ### Enable comments
 
 ### Enable web analytics
@@ -68,7 +82,7 @@ Videos should be uploaded to Vimeo and then displayed using the default embed co
 
 - all wp videos are now added to assets/videos and /extravideos
 
-- the fix is to upload to vimeo and display withe the default embed code.
+- the fix is to upload to vimeo and display with the default embed code.
 
 ### Pagination
 
