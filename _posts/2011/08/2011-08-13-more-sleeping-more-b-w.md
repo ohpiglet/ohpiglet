@@ -1,5 +1,6 @@
 ---
 title: "More Sleeping, More B+W"
+layout: post
 date: "2011-08-13"
 ---
 

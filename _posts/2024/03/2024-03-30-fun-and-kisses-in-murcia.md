@@ -1,5 +1,6 @@
 ---
 title: "Fun and kisses in Murcia"
+layout: post
 date: "2024-03-30"
 ---
 

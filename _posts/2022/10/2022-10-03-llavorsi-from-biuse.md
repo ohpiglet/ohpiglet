@@ -1,5 +1,6 @@
 ---
 title: "Llavorsí from Biuse"
+layout: post
 date: "2022-10-03"
 ---
 

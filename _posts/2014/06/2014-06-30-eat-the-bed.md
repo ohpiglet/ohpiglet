@@ -1,5 +1,6 @@
 ---
 title: "Eat the Bed"
+layout: post
 date: "2014-06-30"
 ---
 

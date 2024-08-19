@@ -1,5 +1,6 @@
 ---
 title: "Per molt anys Rayane!"
+layout: post
 date: "2024-02-06"
 ---
 

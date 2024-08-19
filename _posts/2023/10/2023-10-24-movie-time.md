@@ -1,5 +1,6 @@
 ---
 title: "Movie time"
+layout: post
 date: "2023-10-24"
 ---
 

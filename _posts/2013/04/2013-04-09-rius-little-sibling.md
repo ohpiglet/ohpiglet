@@ -1,5 +1,6 @@
 ---
 title: "Riu's Little Sibling"
+layout: post
 date: "2013-04-09"
 ---
 

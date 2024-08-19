@@ -1,5 +1,6 @@
 ---
 title: "Birthday Present"
+layout: post
 date: "2012-07-29"
 ---
 

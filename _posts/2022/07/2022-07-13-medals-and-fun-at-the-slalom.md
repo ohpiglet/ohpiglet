@@ -1,5 +1,6 @@
 ---
 title: "Medals and fun at the slalom"
+layout: post
 date: "2022-07-13"
 ---
 

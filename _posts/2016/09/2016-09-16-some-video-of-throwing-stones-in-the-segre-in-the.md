@@ -1,5 +1,6 @@
 ---
 title: "Throwing stones in the Segre"
+layout: post
 date: "2016-09-16"
 ---
 

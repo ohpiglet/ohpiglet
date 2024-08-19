@@ -1,5 +1,6 @@
 ---
 title: "Frikandel"
+layout: post
 date: "2023-05-10"
 ---
 

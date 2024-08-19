@@ -1,5 +1,6 @@
 ---
 title: "Happy Christmas from Riu"
+layout: post
 date: "2012-12-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "More from La Marelle"
+layout: post
 date: "2013-07-29"
 ---
 

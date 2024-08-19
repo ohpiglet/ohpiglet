@@ -1,5 +1,6 @@
 ---
 title: "Hiking above Gerri de la Sal"
+layout: post
 date: "2024-05-12"
 ---
 

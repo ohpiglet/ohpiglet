@@ -1,5 +1,6 @@
 ---
 title: "Sunday Walk"
+layout: post
 date: "2013-03-14"
 ---
 

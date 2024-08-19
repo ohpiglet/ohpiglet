@@ -1,5 +1,6 @@
 ---
 title: "St Jean Pied de Port"
+layout: post
 date: "2011-11-08"
 ---
 

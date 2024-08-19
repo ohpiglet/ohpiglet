@@ -1,5 +1,6 @@
 ---
 title: "Meteorite shower"
+layout: post
 date: "2023-08-30"
 ---
 

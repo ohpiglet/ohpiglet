@@ -1,5 +1,6 @@
 ---
 title: "Riu and the Dragon"
+layout: post
 date: "2013-08-20"
 ---
 

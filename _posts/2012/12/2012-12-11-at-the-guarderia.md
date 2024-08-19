@@ -1,5 +1,6 @@
 ---
 title: "At the Guarderia"
+layout: post
 date: "2012-12-11"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Sorry We're Skating"
+layout: post
 date: "2024-04-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Hiking the civil war trail"
+layout: post
 date: "2022-08-30"
 ---
 

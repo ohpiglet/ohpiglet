@@ -1,5 +1,6 @@
 ---
 title: "Little Legs"
+layout: post
 date: "2013-09-01"
 ---
 

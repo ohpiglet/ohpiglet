@@ -1,5 +1,6 @@
 ---
 title: "Rebecca stacked all the firewood"
+layout: post
 date: "2022-12-25"
 ---
 

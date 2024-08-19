@@ -1,5 +1,6 @@
 ---
 title: "Los Granizados"
+layout: post
 date: "2011-08-24"
 ---
 

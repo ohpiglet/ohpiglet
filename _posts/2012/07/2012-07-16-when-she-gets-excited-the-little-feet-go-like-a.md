@@ -1,5 +1,6 @@
 ---
 title: "When she gets excited"
+layout: post
 date: "2012-07-16"
 ---
 

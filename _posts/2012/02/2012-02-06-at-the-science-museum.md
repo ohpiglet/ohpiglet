@@ -1,5 +1,6 @@
 ---
 title: "At the Science Museum"
+layout: post
 date: "2012-02-06"
 ---
 

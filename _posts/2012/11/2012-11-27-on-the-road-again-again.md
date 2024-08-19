@@ -1,5 +1,6 @@
 ---
 title: "On The Road Again, Again"
+layout: post
 date: "2012-11-27"
 ---
 

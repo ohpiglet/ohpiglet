@@ -1,5 +1,6 @@
 ---
 title: "Luxembourg safari park"
+layout: post
 date: "2023-05-11"
 ---
 

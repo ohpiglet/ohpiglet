@@ -1,5 +1,6 @@
 ---
 title: "Movie at Guindàvols"
+layout: post
 date: "2017-10-17"
 ---
 

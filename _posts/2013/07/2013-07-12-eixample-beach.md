@@ -1,5 +1,6 @@
 ---
 title: "Eixample Beach"
+layout: post
 date: "2013-07-12"
 ---
 

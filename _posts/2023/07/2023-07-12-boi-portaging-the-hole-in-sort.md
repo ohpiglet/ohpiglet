@@ -1,5 +1,6 @@
 ---
 title: "Boí portaging the hole in Sort"
+layout: post
 date: "2023-07-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Stuck Piglet"
+layout: post
 date: "2011-10-05"
 ---
 

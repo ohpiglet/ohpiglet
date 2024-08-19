@@ -1,5 +1,6 @@
 ---
 title: "Mexican Oilcloth"
+layout: post
 date: "2012-10-05"
 ---
 

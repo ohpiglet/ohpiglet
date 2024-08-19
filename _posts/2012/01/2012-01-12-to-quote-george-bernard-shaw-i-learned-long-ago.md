@@ -1,5 +1,6 @@
 ---
 title: "To quote George Bernard Shaw"
+layout: post
 date: "2012-01-12"
 ---
 

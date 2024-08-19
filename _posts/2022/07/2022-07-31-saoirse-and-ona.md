@@ -1,5 +1,6 @@
 ---
 title: "Saoirse and Ona"
+layout: post
 date: "2022-07-31"
 ---
 

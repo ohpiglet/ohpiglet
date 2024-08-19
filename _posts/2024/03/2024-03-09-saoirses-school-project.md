@@ -1,5 +1,6 @@
 ---
 title: "Saoirse's school project"
+layout: post
 date: "2024-03-09"
 ---
 

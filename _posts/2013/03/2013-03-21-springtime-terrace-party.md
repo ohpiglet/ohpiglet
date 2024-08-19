@@ -1,5 +1,6 @@
 ---
 title: "Springtime Terrace Party"
+layout: post
 date: "2013-03-21"
 ---
 

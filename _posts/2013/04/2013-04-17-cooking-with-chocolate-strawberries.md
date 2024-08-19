@@ -1,5 +1,6 @@
 ---
 title: "Cooking With Chocolate Strawberries"
+layout: post
 date: "2013-04-17"
 ---
 

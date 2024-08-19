@@ -1,5 +1,6 @@
 ---
 title: "Saoirse at the lake"
+layout: post
 date: "2022-07-23"
 ---
 

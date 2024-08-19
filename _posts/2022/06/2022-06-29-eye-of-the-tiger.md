@@ -1,5 +1,6 @@
 ---
 title: "Eye of the tiger"
+layout: post
 date: "2022-06-29"
 ---
 

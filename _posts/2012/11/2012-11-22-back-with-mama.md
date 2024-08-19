@@ -1,5 +1,6 @@
 ---
 title: "Back With Mama"
+layout: post
 date: "2012-11-22"
 ---
 

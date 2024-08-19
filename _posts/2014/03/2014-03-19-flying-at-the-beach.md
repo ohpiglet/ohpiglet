@@ -1,5 +1,6 @@
 ---
 title: "Flying at the Beach"
+layout: post
 date: "2014-03-19"
 ---
 

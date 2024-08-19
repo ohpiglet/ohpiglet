@@ -1,5 +1,6 @@
 ---
 title: "Llavorsí horse fair"
+layout: post
 date: "2023-06-19"
 ---
 

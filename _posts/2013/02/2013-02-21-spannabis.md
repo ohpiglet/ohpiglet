@@ -1,5 +1,6 @@
 ---
 title: "Spannabis"
+layout: post
 date: "2013-02-21"
 ---
 

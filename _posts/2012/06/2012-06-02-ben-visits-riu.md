@@ -1,5 +1,6 @@
 ---
 title: "Ben Visits Riu"
+layout: post
 date: "2012-06-02"
 ---
 

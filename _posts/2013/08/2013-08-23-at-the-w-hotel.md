@@ -1,5 +1,6 @@
 ---
 title: "At the W Hotel"
+layout: post
 date: "2013-08-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Going skiing with Rayane"
+layout: post
 date: "2024-01-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Separated at Birth"
+layout: post
 date: "2012-06-16"
 ---
 

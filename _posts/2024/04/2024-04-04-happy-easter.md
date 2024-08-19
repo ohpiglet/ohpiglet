@@ -1,5 +1,6 @@
 ---
 title: "Happy Easter"
+layout: post
 date: "2024-04-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Riu Gets Ready To Go To Ireland"
+layout: post
 date: "2013-12-03"
 ---
 

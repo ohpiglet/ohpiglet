@@ -1,5 +1,6 @@
 ---
 title: "Pau working with Xavi"
+layout: post
 date: "2022-07-12"
 ---
 

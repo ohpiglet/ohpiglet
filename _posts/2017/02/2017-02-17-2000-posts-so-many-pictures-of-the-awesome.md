@@ -1,4 +1,5 @@
 ---
+layout: post
 date: "2017-02-17"
 tags: 
   - "2000-posts"

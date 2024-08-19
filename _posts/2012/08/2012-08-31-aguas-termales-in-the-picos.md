@@ -1,5 +1,6 @@
 ---
 title: "Aguas Termales in the Picos"
+layout: post
 date: "2012-08-31"
 ---
 

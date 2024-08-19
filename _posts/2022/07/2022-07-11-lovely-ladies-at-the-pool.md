@@ -1,5 +1,6 @@
 ---
 title: "Lovely ladies at the pool"
+layout: post
 date: "2022-07-11"
 ---
 

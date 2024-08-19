@@ -1,5 +1,6 @@
 ---
 title: "Life Skills with Papa"
+layout: post
 date: "2013-07-25"
 ---
 

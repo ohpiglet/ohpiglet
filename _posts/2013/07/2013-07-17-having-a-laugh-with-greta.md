@@ -1,5 +1,6 @@
 ---
 title: "Having a Laugh with Greta"
+layout: post
 date: "2013-07-17"
 ---
 

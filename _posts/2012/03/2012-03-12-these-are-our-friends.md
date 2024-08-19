@@ -1,5 +1,6 @@
 ---
 title: "These are our friends"
+layout: post
 date: "2012-03-12"
 ---
 

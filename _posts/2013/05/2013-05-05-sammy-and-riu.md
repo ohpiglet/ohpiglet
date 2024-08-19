@@ -1,5 +1,6 @@
 ---
 title: "Sammy and Riu"
+layout: post
 date: "2013-05-05"
 ---
 

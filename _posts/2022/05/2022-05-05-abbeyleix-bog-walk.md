@@ -1,5 +1,6 @@
 ---
 title: "Abbeyleix bog walk"
+layout: post
 date: "2022-05-05"
 ---
 

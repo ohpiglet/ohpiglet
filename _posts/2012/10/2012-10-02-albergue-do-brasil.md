@@ -1,5 +1,6 @@
 ---
 title: "Albergue do Brasil"
+layout: post
 date: "2012-10-02"
 ---
 

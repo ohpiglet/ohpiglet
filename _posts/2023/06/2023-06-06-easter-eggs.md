@@ -1,5 +1,6 @@
 ---
 title: "Easter eggs"
+layout: post
 date: "2023-06-06"
 ---
 

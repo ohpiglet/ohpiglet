@@ -1,5 +1,6 @@
 ---
 title: "Crowded dinner table!"
+layout: post
 date: "2022-09-04"
 ---
 

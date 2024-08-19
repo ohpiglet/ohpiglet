@@ -1,5 +1,6 @@
 ---
 title: "Happy Birthday Granizado Kennedy!"
+layout: post
 date: "2013-03-01"
 ---
 

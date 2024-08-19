@@ -1,5 +1,6 @@
 ---
 title: "Lost in the Supermercado"
+layout: post
 date: "2013-03-11"
 ---
 

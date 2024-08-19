@@ -1,5 +1,6 @@
 ---
 title: "Los Juegos Olimpicos"
+layout: post
 date: "2012-07-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Two monkeys"
+layout: post
 date: "2022-08-01"
 ---
 

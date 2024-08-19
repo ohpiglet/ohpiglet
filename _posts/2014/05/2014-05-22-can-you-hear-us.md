@@ -1,5 +1,6 @@
 ---
 title: "Can you hear us?"
+layout: post
 date: "2014-05-22"
 ---
 

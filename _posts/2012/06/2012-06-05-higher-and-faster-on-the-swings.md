@@ -1,5 +1,6 @@
 ---
 title: "Higher and Faster on the Swings"
+layout: post
 date: "2012-06-05"
 ---
 

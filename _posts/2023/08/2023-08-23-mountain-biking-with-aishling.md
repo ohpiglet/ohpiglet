@@ -1,5 +1,6 @@
 ---
 title: "Mountain biking with Aishling"
+layout: post
 date: "2023-08-23"
 ---
 

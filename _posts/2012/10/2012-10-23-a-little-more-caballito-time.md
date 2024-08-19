@@ -1,5 +1,6 @@
 ---
 title: "A Little More Caballito Time"
+layout: post
 date: "2012-10-23"
 ---
 

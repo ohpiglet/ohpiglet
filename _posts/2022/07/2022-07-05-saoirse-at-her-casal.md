@@ -1,5 +1,6 @@
 ---
 title: "Saoirse at her casal"
+layout: post
 date: "2022-07-05"
 ---
 

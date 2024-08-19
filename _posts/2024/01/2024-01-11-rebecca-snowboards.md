@@ -1,5 +1,6 @@
 ---
 title: "Rebecca snowboards"
+layout: post
 date: "2024-01-11"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Granny and Ben and Connie"
+layout: post
 date: "2022-07-30"
 ---
 

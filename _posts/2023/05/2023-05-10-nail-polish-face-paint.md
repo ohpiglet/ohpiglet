@@ -1,5 +1,6 @@
 ---
 title: "Nail polish face paint"
+layout: post
 date: "2023-05-10"
 ---
 

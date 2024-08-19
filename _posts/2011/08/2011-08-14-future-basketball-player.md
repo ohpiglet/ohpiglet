@@ -1,5 +1,6 @@
 ---
 title: "Future Basketball Player"
+layout: post
 date: "2011-08-14"
 ---
 

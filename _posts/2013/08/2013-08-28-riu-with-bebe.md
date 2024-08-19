@@ -1,5 +1,6 @@
 ---
 title: "Riu with ´Bebe´"
+layout: post
 date: "2013-08-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Riu's Flight is Delayed"
+layout: post
 date: "2014-01-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Girls and sunglasses"
+layout: post
 date: "2023-08-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Hidden Polar Bear Cub"
+layout: post
 date: "2014-01-02"
 ---
 

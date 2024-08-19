@@ -1,5 +1,6 @@
 ---
 title: "Adventures in Sandymount"
+layout: post
 date: "2022-05-09"
 ---
 

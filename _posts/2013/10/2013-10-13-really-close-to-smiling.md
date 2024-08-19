@@ -1,5 +1,6 @@
 ---
 title: "Really Close To Smiling"
+layout: post
 date: "2013-10-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Banana for a Monkey"
+layout: post
 date: "2013-07-23"
 ---
 

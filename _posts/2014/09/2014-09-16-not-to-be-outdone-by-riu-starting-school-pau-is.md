@@ -1,5 +1,6 @@
 ---
 title: "Baby steps"
+layout: post
 date: "2014-09-16"
 ---
 

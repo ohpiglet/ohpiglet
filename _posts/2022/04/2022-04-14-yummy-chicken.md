@@ -1,5 +1,6 @@
 ---
 title: "Yummy chicken"
+layout: post
 date: "2022-04-14"
 ---
 

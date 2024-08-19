@@ -1,5 +1,6 @@
 ---
 title: "Growing Baby"
+layout: post
 date: "2012-10-03"
 ---
 

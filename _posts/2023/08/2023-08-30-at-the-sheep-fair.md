@@ -1,5 +1,6 @@
 ---
 title: "At the sheep fair"
+layout: post
 date: "2023-08-30"
 ---
 

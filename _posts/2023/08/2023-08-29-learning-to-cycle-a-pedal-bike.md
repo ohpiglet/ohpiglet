@@ -1,5 +1,6 @@
 ---
 title: "Learning to cycle a pedal bike"
+layout: post
 date: "2023-08-29"
 ---
 

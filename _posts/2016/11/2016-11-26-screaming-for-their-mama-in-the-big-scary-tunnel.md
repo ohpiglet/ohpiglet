@@ -1,5 +1,6 @@
 ---
 title: "Screaming for their Mama"
+layout: post
 date: "2016-11-26"
 ---
 

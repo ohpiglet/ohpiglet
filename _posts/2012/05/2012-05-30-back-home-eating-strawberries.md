@@ -1,5 +1,6 @@
 ---
 title: "Back Home Eating Strawberries"
+layout: post
 date: "2012-05-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Springtime - a Time for Boats"
+layout: post
 date: "2014-03-20"
 ---
 

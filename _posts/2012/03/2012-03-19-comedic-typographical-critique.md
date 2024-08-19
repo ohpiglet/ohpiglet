@@ -1,5 +1,6 @@
 ---
 title: "Comedic Typographical Critique"
+layout: post
 date: "2012-03-19"
 ---
 

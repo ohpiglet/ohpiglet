@@ -1,5 +1,6 @@
 ---
 title: "Grandad Comes to Town"
+layout: post
 date: "2011-08-14"
 ---
 

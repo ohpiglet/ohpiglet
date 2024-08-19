@@ -1,5 +1,6 @@
 ---
 title: "Where’s baby Boí?"
+layout: post
 date: "2016-06-16"
 ---
 

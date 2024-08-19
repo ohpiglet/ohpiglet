@@ -1,5 +1,6 @@
 ---
 title: "At Arfa with Lion"
+layout: post
 date: "2022-10-25"
 ---
 

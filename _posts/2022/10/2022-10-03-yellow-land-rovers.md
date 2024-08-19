@@ -1,5 +1,6 @@
 ---
 title: "Yellow Land Rovers"
+layout: post
 date: "2022-10-03"
 ---
 

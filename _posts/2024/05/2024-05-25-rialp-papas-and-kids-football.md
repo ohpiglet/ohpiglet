@@ -1,5 +1,6 @@
 ---
 title: "Rialp papas and kids football"
+layout: post
 date: "2024-05-25"
 ---
 

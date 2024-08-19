@@ -1,5 +1,6 @@
 ---
 title: "Papa and Roz"
+layout: post
 date: "2022-09-04"
 ---
 

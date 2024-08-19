@@ -1,5 +1,6 @@
 ---
 title: "The Littlest Pilgrim"
+layout: post
 date: "2011-11-08"
 ---
 

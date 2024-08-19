@@ -1,5 +1,6 @@
 ---
 title: "Upcoming Events"
+layout: post
 date: "2013-01-22"
 ---
 

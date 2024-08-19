@@ -1,5 +1,6 @@
 ---
 title: "Everything Begins at Logroño"
+layout: post
 date: "2012-05-28"
 ---
 

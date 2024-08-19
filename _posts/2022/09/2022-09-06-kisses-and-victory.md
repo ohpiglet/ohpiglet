@@ -1,5 +1,6 @@
 ---
 title: "Kisses and victory"
+layout: post
 date: "2022-09-06"
 ---
 

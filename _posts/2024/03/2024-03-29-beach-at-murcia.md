@@ -1,5 +1,6 @@
 ---
 title: "Beach at Murcia"
+layout: post
 date: "2024-03-29"
 ---
 

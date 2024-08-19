@@ -1,5 +1,6 @@
 ---
 title: "Kayaking with Donnacha"
+layout: post
 date: "2024-05-28"
 ---
 

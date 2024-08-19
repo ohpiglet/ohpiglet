@@ -1,5 +1,6 @@
 ---
 title: "Chilling by the River"
+layout: post
 date: "2012-09-29"
 ---
 

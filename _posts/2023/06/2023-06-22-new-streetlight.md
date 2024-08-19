@@ -1,5 +1,6 @@
 ---
 title: "New streetlight"
+layout: post
 date: "2023-06-22"
 ---
 

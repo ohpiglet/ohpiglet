@@ -1,5 +1,6 @@
 ---
 title: "Piglet Meets Heffalump"
+layout: post
 date: "2011-09-14"
 ---
 

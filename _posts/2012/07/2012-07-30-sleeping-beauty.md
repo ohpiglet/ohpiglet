@@ -1,5 +1,6 @@
 ---
 title: "Sleeping Beauty"
+layout: post
 date: "2012-07-30"
 ---
 

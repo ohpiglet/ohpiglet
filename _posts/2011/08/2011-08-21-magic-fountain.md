@@ -1,5 +1,6 @@
 ---
 title: "Magic Fountain"
+layout: post
 date: "2011-08-21"
 ---
 

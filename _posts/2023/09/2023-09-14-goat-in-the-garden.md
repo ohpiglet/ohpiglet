@@ -1,5 +1,6 @@
 ---
 title: "Goat in the garden"
+layout: post
 date: "2023-09-14"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Camp Nou Museum"
+layout: post
 date: "2013-08-01"
 ---
 

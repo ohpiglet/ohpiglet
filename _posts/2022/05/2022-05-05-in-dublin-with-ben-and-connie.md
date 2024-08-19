@@ -1,5 +1,6 @@
 ---
 title: "In Dublin with Ben and Connie"
+layout: post
 date: "2022-05-05"
 ---
 

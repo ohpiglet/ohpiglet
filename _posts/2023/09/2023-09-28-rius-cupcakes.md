@@ -1,5 +1,6 @@
 ---
 title: "Riu's cupcakes"
+layout: post
 date: "2023-09-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Mirador at Port Aine"
+layout: post
 date: "2023-11-26"
 ---
 

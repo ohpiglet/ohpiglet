@@ -1,5 +1,6 @@
 ---
 title: "Brushing our teeth"
+layout: post
 date: "2023-06-30"
 ---
 

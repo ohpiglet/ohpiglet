@@ -1,5 +1,6 @@
 ---
 title: "M'agrada el Jujol!"
+layout: post
 date: "2015-02-25"
 ---
 

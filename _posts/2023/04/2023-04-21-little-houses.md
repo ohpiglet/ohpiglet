@@ -1,5 +1,6 @@
 ---
 title: "Little houses"
+layout: post
 date: "2023-04-21"
 ---
 

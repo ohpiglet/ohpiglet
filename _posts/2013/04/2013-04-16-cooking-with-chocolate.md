@@ -1,5 +1,6 @@
 ---
 title: "Cooking With Chocolate"
+layout: post
 date: "2013-04-16"
 ---
 

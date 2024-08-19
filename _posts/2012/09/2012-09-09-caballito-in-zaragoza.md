@@ -1,5 +1,6 @@
 ---
 title: "Caballito in Zaragoza"
+layout: post
 date: "2012-09-09"
 ---
 

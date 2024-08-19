@@ -1,5 +1,6 @@
 ---
 title: "Més Que Un Club"
+layout: post
 date: "2013-08-02"
 ---
 

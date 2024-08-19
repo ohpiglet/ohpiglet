@@ -1,5 +1,6 @@
 ---
 title: "Smiling Saoirse"
+layout: post
 date: "2024-05-24"
 ---
 

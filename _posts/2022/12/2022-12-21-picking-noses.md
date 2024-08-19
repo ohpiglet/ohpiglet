@@ -1,5 +1,6 @@
 ---
 title: "Picking noses"
+layout: post
 date: "2022-12-21"
 ---
 

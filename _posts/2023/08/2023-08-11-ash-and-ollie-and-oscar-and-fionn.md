@@ -1,5 +1,6 @@
 ---
 title: "Ash and Ollie and Oscar and Fionn"
+layout: post
 date: "2023-08-11"
 ---
 

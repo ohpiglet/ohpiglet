@@ -1,5 +1,6 @@
 ---
 title: "Learning signs in school"
+layout: post
 date: "2017-05-26"
 ---
 

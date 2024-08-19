@@ -1,5 +1,6 @@
 ---
 title: "Jump into a pool"
+layout: post
 date: "2013-08-23"
 ---
 

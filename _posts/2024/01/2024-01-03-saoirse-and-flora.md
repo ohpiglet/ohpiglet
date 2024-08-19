@@ -1,5 +1,6 @@
 ---
 title: "Saoirse and Flora"
+layout: post
 date: "2024-01-03"
 ---
 

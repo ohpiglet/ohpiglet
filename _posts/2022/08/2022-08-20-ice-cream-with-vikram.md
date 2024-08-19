@@ -1,5 +1,6 @@
 ---
 title: "Ice-cream with Vikram"
+layout: post
 date: "2022-08-20"
 ---
 

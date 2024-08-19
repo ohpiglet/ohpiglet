@@ -1,5 +1,6 @@
 ---
 title: "We are going kayaking"
+layout: post
 date: "2023-08-30"
 ---
 

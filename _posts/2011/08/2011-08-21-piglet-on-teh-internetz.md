@@ -1,5 +1,6 @@
 ---
 title: "Piglet on Teh Internetz"
+layout: post
 date: "2011-08-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Greetings from Arfa"
+layout: post
 date: "2023-06-30"
 ---
 

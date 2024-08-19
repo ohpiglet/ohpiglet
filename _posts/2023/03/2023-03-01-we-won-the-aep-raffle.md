@@ -1,5 +1,6 @@
 ---
 title: "We won the AEP raffle!"
+layout: post
 date: "2023-03-01"
 ---
 

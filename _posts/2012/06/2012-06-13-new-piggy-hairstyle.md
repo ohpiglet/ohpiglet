@@ -1,5 +1,6 @@
 ---
 title: "New Piggy Hairstyle"
+layout: post
 date: "2012-06-13"
 ---
 

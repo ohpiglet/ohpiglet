@@ -1,5 +1,6 @@
 ---
 title: "Riu sleeping"
+layout: post
 date: "2022-12-04"
 ---
 

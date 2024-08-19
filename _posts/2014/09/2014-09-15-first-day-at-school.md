@@ -1,5 +1,6 @@
 ---
 title: "First Day at School"
+layout: post
 date: "2014-09-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Buen Camino, Buen Hecho"
+layout: post
 date: "2012-10-26"
 ---
 

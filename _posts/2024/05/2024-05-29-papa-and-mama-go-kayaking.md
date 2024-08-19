@@ -1,5 +1,6 @@
 ---
 title: "Papa and Mama go kayaking"
+layout: post
 date: "2024-05-29"
 ---
 

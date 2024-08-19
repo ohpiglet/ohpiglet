@@ -1,5 +1,6 @@
 ---
 title: "Boí, a beautiful flower"
+layout: post
 date: "2023-06-22"
 ---
 

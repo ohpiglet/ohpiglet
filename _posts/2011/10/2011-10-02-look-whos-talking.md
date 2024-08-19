@@ -1,5 +1,6 @@
 ---
 title: "Look Who's Talking"
+layout: post
 date: "2011-10-02"
 ---
 

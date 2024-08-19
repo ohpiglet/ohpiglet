@@ -1,5 +1,6 @@
 ---
 title: "Sant Jordi"
+layout: post
 date: "2023-06-09"
 ---
 

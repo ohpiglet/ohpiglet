@@ -1,5 +1,6 @@
 ---
 title: "Local Graffitti"
+layout: post
 date: "2014-06-28"
 ---
 

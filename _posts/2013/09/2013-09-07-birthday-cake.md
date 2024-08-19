@@ -1,5 +1,6 @@
 ---
 title: "Birthday Cake"
+layout: post
 date: "2013-09-07"
 ---
 

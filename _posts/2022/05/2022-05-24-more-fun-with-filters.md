@@ -1,5 +1,6 @@
 ---
 title: "More fun with filters"
+layout: post
 date: "2022-05-24"
 ---
 

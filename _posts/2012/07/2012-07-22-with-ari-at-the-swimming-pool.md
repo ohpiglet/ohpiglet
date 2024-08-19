@@ -1,5 +1,6 @@
 ---
 title: "With Ari at the Swimming Pool"
+layout: post
 date: "2012-07-22"
 ---
 

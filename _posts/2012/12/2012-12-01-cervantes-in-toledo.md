@@ -1,5 +1,6 @@
 ---
 title: "Cervantes in Toledo"
+layout: post
 date: "2012-12-01"
 ---
 

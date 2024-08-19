@@ -1,5 +1,6 @@
 ---
 title: "Boí and Pau on the beach"
+layout: post
 date: "2022-12-16"
 ---
 

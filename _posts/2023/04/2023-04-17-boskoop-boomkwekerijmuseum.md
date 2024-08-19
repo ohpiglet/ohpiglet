@@ -1,5 +1,6 @@
 ---
 title: "Boskoop Boomkwekerijmuseum"
+layout: post
 date: "2023-04-17"
 ---
 

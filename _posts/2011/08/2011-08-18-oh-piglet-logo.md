@@ -1,5 +1,6 @@
 ---
 title: "Oh Piglet Logo"
+layout: post
 date: "2011-08-18"
 ---
 

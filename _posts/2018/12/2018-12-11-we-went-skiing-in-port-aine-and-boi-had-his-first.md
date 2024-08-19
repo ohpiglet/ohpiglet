@@ -1,5 +1,6 @@
 ---
 title: "Boí first skiing adventure"
+layout: post
 date: "2018-12-11"
 ---
 

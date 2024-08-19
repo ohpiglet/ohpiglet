@@ -1,5 +1,6 @@
 ---
 title: "Happy Birthday Riu!"
+layout: post
 date: "2014-08-23"
 ---
 

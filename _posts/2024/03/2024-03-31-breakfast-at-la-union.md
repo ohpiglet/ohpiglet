@@ -1,5 +1,6 @@
 ---
 title: "Breakfast at La Unión"
+layout: post
 date: "2024-03-31"
 ---
 

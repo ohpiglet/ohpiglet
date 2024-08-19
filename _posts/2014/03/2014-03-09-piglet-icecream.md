@@ -1,5 +1,6 @@
 ---
 title: "Piglet + Icecream"
+layout: post
 date: "2014-03-09"
 ---
 

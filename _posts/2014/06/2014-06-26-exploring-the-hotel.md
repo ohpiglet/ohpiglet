@@ -1,5 +1,6 @@
 ---
 title: "Exploring the Hotel"
+layout: post
 date: "2014-06-26"
 ---
 

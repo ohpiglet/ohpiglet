@@ -1,5 +1,6 @@
 ---
 title: "Rebecca went for a walk"
+layout: post
 date: "2023-01-25"
 ---
 

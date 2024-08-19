@@ -1,5 +1,6 @@
 ---
 title: "Papa went to Ireland"
+layout: post
 date: "2022-10-16"
 ---
 

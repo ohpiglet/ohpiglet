@@ -1,5 +1,6 @@
 ---
 title: "Reviewing from One's Balcony"
+layout: post
 date: "2012-07-15"
 ---
 

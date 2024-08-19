@@ -1,5 +1,6 @@
 ---
 title: "OH HAI, on my Caballito"
+layout: post
 date: "2012-08-25"
 ---
 

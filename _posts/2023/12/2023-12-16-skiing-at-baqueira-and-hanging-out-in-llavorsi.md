@@ -1,5 +1,6 @@
 ---
 title: "Skiing at Baqueira and hanging out in Llavorsí"
+layout: post
 date: "2023-12-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "My little duckie friend"
+layout: post
 date: "2012-06-30"
 ---
 

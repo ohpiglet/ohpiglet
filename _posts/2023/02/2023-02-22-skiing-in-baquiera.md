@@ -1,5 +1,6 @@
 ---
 title: "Skiing in Baquiera"
+layout: post
 date: "2023-02-22"
 ---
 

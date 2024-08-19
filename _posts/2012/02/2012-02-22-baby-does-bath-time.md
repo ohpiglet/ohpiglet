@@ -1,5 +1,6 @@
 ---
 title: "Baby does Bath-time"
+layout: post
 date: "2012-02-22"
 ---
 

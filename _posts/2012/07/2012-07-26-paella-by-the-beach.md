@@ -1,5 +1,6 @@
 ---
 title: "Paella by the Beach"
+layout: post
 date: "2012-07-26"
 ---
 

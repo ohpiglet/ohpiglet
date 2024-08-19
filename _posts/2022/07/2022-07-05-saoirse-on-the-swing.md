@@ -1,5 +1,6 @@
 ---
 title: "Saoirse on the swing"
+layout: post
 date: "2022-07-05"
 ---
 

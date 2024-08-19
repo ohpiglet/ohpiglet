@@ -1,5 +1,6 @@
 ---
 title: "Blaugrana"
+layout: post
 date: "2011-10-17"
 ---
 

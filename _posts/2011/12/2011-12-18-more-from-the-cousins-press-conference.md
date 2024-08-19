@@ -1,5 +1,6 @@
 ---
 title: "More From the Cousins' Press Conference"
+layout: post
 date: "2011-12-18"
 ---
 

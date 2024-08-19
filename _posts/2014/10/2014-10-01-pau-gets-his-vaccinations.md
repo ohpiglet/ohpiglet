@@ -1,5 +1,6 @@
 ---
 title: "Pau gets his vaccinations"
+layout: post
 date: "2014-10-01"
 ---
 

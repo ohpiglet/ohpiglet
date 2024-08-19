@@ -1,5 +1,6 @@
 ---
 title: "The road home"
+layout: post
 date: "2022-05-10"
 ---
 

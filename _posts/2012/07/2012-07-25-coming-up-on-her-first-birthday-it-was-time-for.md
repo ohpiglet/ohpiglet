@@ -1,5 +1,6 @@
 ---
 title: "Coming up on her first birthday"
+layout: post
 date: "2012-07-25"
 ---
 

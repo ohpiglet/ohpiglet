@@ -1,5 +1,6 @@
 ---
 title: "Off to the school bus"
+layout: post
 date: "2024-04-29"
 ---
 

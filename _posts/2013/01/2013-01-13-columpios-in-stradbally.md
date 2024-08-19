@@ -1,5 +1,6 @@
 ---
 title: "Columpios in Stradbally"
+layout: post
 date: "2013-01-13"
 ---
 

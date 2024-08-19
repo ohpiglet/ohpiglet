@@ -1,5 +1,6 @@
 ---
 title: "With Molly"
+layout: post
 date: "2013-09-05"
 ---
 

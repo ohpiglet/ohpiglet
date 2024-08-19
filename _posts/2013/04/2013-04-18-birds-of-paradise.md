@@ -1,5 +1,6 @@
 ---
 title: "Birds of Paradise"
+layout: post
 date: "2013-04-18"
 ---
 

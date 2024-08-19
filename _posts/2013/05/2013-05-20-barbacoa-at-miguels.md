@@ -1,5 +1,6 @@
 ---
 title: "Barbacoa at Miguel's"
+layout: post
 date: "2013-05-20"
 ---
 

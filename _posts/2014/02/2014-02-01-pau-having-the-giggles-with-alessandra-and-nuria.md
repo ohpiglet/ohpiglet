@@ -1,5 +1,6 @@
 ---
 title: "Pau with Alessandra"
+layout: post
 date: "2014-02-01"
 ---
 

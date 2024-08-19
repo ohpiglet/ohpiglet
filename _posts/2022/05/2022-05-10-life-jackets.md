@@ -1,5 +1,6 @@
 ---
 title: "Life jackets"
+layout: post
 date: "2022-05-10"
 ---
 

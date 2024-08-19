@@ -1,5 +1,6 @@
 ---
 title: "Looking for the cagatio."
+layout: post
 date: "2016-12-23"
 ---
 

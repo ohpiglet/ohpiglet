@@ -1,5 +1,6 @@
 ---
 title: "The Eyebrows Have It"
+layout: post
 date: "2011-10-19"
 ---
 

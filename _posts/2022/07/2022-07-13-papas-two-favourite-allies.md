@@ -1,5 +1,6 @@
 ---
 title: "Papa's two favourite allies"
+layout: post
 date: "2022-07-13"
 ---
 

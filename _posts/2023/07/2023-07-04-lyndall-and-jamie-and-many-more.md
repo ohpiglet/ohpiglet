@@ -1,5 +1,6 @@
 ---
 title: "Lyndall and Jamie and many more"
+layout: post
 date: "2023-07-04"
 ---
 

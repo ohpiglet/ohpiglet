@@ -1,5 +1,6 @@
 ---
 title: "Not very old castle"
+layout: post
 date: "2023-04-01"
 ---
 

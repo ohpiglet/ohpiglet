@@ -1,5 +1,6 @@
 ---
 title: "Animal Collective"
+layout: post
 date: "2011-08-14"
 ---
 

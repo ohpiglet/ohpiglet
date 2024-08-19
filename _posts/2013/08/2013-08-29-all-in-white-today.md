@@ -1,5 +1,6 @@
 ---
 title: "All in White Today"
+layout: post
 date: "2013-08-29"
 ---
 

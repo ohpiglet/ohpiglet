@@ -1,5 +1,6 @@
 ---
 title: "I SEE YOU THERE"
+layout: post
 date: "2023-07-11"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Finale of the Correfoc"
+layout: post
 date: "2023-08-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Saoirse painting"
+layout: post
 date: "2022-09-05"
 ---
 

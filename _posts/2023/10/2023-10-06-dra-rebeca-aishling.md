@@ -1,5 +1,6 @@
 ---
 title: "Dra. Rebeca Aishling"
+layout: post
 date: "2023-10-06"
 ---
 

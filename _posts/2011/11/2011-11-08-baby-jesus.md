@@ -1,5 +1,6 @@
 ---
 title: "Baby Jesus"
+layout: post
 date: "2011-11-08"
 ---
 

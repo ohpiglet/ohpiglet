@@ -1,5 +1,6 @@
 ---
 title: "Bici con Papa"
+layout: post
 date: "2013-07-18"
 ---
 

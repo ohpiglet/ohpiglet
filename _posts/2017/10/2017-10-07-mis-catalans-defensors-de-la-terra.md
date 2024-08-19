@@ -1,5 +1,6 @@
 ---
 title: "Defensors de la terra"
+layout: post
 date: "2017-10-07"
 ---
 

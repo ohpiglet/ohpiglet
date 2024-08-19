@@ -1,5 +1,6 @@
 ---
 title: "Messing with filters"
+layout: post
 date: "2023-09-16"
 ---
 

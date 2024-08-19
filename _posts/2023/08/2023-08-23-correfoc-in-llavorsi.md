@@ -1,5 +1,6 @@
 ---
 title: "Correfoc in Llavorsí"
+layout: post
 date: "2023-08-23"
 ---
 

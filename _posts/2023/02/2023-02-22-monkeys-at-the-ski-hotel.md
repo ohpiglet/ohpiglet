@@ -1,5 +1,6 @@
 ---
 title: "Monkeys at the ski hotel"
+layout: post
 date: "2023-02-22"
 ---
 

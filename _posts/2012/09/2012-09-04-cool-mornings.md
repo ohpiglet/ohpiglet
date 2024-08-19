@@ -1,5 +1,6 @@
 ---
 title: "Cool Mornings"
+layout: post
 date: "2012-09-04"
 ---
 

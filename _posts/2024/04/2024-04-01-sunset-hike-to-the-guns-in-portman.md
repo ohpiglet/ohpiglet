@@ -1,5 +1,6 @@
 ---
 title: "Sunset hike to the guns in Portman"
+layout: post
 date: "2024-04-01"
 ---
 

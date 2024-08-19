@@ -1,5 +1,6 @@
 ---
 title: "Burrito, First Attempt"
+layout: post
 date: "2011-08-14"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Visiting Ireland"
+layout: post
 date: "2012-03-21"
 ---
 

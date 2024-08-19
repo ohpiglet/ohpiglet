@@ -1,5 +1,6 @@
 ---
 title: "Girls' day out"
+layout: post
 date: "2023-02-14"
 ---
 

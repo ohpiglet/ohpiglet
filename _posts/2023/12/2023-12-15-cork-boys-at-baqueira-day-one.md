@@ -1,5 +1,6 @@
 ---
 title: "Cork boys at Baqueira, day one"
+layout: post
 date: "2023-12-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Giddy up little horsey"
+layout: post
 date: "2023-04-21"
 ---
 

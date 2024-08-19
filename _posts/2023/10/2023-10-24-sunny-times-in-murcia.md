@@ -1,5 +1,6 @@
 ---
 title: "Sunny times in Murcia"
+layout: post
 date: "2023-10-24"
 ---
 

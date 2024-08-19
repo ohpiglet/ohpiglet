@@ -1,5 +1,6 @@
 ---
 title: "Life Companion"
+layout: post
 date: "2013-11-23"
 ---
 

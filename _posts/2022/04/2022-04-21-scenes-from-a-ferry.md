@@ -1,5 +1,6 @@
 ---
 title: "Scenes from a ferry"
+layout: post
 date: "2022-04-21"
 ---
 

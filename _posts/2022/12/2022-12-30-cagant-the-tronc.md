@@ -1,5 +1,6 @@
 ---
 title: "Cagant the Tronc"
+layout: post
 date: "2022-12-30"
 ---
 

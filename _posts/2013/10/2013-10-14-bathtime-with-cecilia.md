@@ -1,5 +1,6 @@
 ---
 title: "Bathtime with Cecilia"
+layout: post
 date: "2013-10-14"
 ---
 

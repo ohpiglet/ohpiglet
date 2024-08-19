@@ -1,5 +1,6 @@
 ---
 title: "Contemplating in Carlow"
+layout: post
 date: "2011-12-15"
 ---
 

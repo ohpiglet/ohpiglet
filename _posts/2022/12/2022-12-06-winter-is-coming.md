@@ -1,5 +1,6 @@
 ---
 title: "Winter is coming"
+layout: post
 date: "2022-12-06"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Montse blocking up the road"
+layout: post
 date: "2023-09-13"
 ---
 

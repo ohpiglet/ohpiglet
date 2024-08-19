@@ -1,5 +1,6 @@
 ---
 title: "Studying at Josie's Place"
+layout: post
 date: "2013-01-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Just Waiting"
+layout: post
 date: "2011-08-06"
 ---
 

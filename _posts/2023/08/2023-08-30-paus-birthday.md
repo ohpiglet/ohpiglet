@@ -1,5 +1,6 @@
 ---
 title: "Pau's birthday"
+layout: post
 date: "2023-08-30"
 ---
 

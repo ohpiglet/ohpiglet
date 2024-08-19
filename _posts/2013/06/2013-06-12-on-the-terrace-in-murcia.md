@@ -1,5 +1,6 @@
 ---
 title: "On the Terrace in Murcia"
+layout: post
 date: "2013-06-12"
 ---
 

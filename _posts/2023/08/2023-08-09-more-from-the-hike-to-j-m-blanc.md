@@ -1,5 +1,6 @@
 ---
 title: "More from the hike to J.M. Blanc"
+layout: post
 date: "2023-08-09"
 ---
 

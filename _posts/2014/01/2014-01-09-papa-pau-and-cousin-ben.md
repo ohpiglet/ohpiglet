@@ -1,5 +1,6 @@
 ---
 title: "Papa, Pau, and Cousin Ben"
+layout: post
 date: "2014-01-09"
 ---
 

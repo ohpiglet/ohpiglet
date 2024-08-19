@@ -1,5 +1,6 @@
 ---
 title: "Splash at La Marelle"
+layout: post
 date: "2013-04-12"
 ---
 

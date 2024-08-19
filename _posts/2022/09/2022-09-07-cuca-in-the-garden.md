@@ -1,5 +1,6 @@
 ---
 title: "Cuca in the garden"
+layout: post
 date: "2022-09-07"
 ---
 

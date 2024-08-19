@@ -1,5 +1,6 @@
 ---
 title: "First Meeting"
+layout: post
 date: "2013-08-19"
 ---
 

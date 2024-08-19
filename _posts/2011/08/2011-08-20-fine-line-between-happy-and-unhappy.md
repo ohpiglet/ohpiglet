@@ -1,5 +1,6 @@
 ---
 title: "Fine Line Between Happy and Unhappy"
+layout: post
 date: "2011-08-20"
 ---
 

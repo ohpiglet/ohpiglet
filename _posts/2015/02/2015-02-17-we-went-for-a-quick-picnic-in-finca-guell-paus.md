@@ -1,5 +1,6 @@
 ---
 title: "Quick picnic in Finca Guell"
+layout: post
 date: "2015-02-17"
 ---
 

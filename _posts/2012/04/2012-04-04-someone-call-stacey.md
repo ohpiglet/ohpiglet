@@ -1,5 +1,6 @@
 ---
 title: "Someone Call Stacey!"
+layout: post
 date: "2012-04-04"
 ---
 

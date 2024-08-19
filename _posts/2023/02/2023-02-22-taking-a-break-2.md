@@ -1,5 +1,6 @@
 ---
 title: "Taking a break"
+layout: post
 date: "2023-02-22"
 ---
 

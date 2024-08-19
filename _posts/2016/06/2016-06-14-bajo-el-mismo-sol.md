@@ -1,5 +1,6 @@
 ---
 title: "Bajo el mismo sol"
+layout: post
 date: "2016-06-14"
 ---
 

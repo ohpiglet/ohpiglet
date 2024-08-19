@@ -1,5 +1,6 @@
 ---
 title: "Pau Exploring Ben's House"
+layout: post
 date: "2014-08-07"
 ---
 

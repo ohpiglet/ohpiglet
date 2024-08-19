@@ -1,5 +1,6 @@
 ---
 title: "Sagrada Familia"
+layout: post
 date: "2012-06-19"
 ---
 

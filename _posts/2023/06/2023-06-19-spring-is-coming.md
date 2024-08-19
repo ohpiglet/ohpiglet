@@ -1,5 +1,6 @@
 ---
 title: "Spring is coming"
+layout: post
 date: "2023-06-19"
 ---
 

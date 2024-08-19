@@ -1,5 +1,6 @@
 ---
 title: "Saoirse's existential moment"
+layout: post
 date: "2023-07-13"
 ---
 

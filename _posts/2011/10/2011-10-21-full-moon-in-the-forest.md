@@ -1,5 +1,6 @@
 ---
 title: "Full Moon in the Forest"
+layout: post
 date: "2011-10-21"
 ---
 

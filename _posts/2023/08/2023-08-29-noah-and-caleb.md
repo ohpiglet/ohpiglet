@@ -1,5 +1,6 @@
 ---
 title: "Noah and Caleb"
+layout: post
 date: "2023-08-29"
 ---
 

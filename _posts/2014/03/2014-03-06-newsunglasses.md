@@ -1,5 +1,6 @@
 ---
 title: "New Sunglasses"
+layout: post
 date: "2014-03-06"
 ---
 

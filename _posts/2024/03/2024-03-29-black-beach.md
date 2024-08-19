@@ -1,5 +1,6 @@
 ---
 title: "Black beach"
+layout: post
 date: "2024-03-29"
 ---
 

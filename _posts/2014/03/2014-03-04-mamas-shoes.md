@@ -1,5 +1,6 @@
 ---
 title: "Mama's Shoes"
+layout: post
 date: "2014-03-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Her little laugh swells my heart"
+layout: post
 date: "2012-04-20"
 ---
 

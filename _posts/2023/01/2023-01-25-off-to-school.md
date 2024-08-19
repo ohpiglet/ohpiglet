@@ -1,5 +1,6 @@
 ---
 title: "Off to school"
+layout: post
 date: "2023-01-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Riu Goes to Visit Castellfollit de La Roca"
+layout: post
 date: "2013-04-06"
 ---
 

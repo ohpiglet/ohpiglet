@@ -1,5 +1,6 @@
 ---
 title: "Building my Bed"
+layout: post
 date: "2012-07-12"
 ---
 

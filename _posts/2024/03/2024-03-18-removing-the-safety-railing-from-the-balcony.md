@@ -1,5 +1,6 @@
 ---
 title: "Removing the safety railing from the balcony"
+layout: post
 date: "2024-03-18"
 ---
 

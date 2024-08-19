@@ -1,5 +1,6 @@
 ---
 title: "Piggy Playpen"
+layout: post
 date: "2011-10-06"
 ---
 

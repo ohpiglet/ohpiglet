@@ -1,5 +1,6 @@
 ---
 title: "MORE Birthday Presents!"
+layout: post
 date: "2012-08-09"
 ---
 

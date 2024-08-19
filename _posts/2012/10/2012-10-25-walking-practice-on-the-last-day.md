@@ -1,5 +1,6 @@
 ---
 title: "Walking Practice on the Last Day"
+layout: post
 date: "2012-10-25"
 ---
 

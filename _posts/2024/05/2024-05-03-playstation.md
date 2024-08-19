@@ -1,5 +1,6 @@
 ---
 title: "PlayStation"
+layout: post
 date: "2024-05-03"
 ---
 

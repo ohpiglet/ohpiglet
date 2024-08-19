@@ -1,5 +1,6 @@
 ---
 title: "Un amor sin igual"
+layout: post
 date: "2012-02-14"
 ---
 

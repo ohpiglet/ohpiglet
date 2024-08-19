@@ -1,5 +1,6 @@
 ---
 title: "On the Phone"
+layout: post
 date: "2012-12-11"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Kayaking with Boí"
+layout: post
 date: "2023-09-24"
 ---
 

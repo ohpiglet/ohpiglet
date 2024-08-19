@@ -1,5 +1,6 @@
 ---
 title: "Nana and Granny"
+layout: post
 date: "2023-06-22"
 ---
 

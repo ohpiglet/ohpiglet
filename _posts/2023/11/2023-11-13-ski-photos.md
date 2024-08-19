@@ -1,5 +1,6 @@
 ---
 title: "Ski photos"
+layout: post
 date: "2023-11-13"
 ---
 

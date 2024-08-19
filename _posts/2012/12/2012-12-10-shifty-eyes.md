@@ -1,5 +1,6 @@
 ---
 title: "Shifty Eyes"
+layout: post
 date: "2012-12-10"
 ---
 

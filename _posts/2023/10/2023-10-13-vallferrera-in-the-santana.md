@@ -1,5 +1,6 @@
 ---
 title: "Vallferrera in the Santana"
+layout: post
 date: "2023-10-13"
 ---
 

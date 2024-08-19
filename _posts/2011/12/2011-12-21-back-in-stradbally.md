@@ -1,5 +1,6 @@
 ---
 title: "Back in Stradbally"
+layout: post
 date: "2011-12-21"
 ---
 

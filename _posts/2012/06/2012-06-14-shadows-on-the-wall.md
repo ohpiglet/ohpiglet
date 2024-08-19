@@ -1,5 +1,6 @@
 ---
 title: "Shadows on the Wall"
+layout: post
 date: "2012-06-14"
 ---
 

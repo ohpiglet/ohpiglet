@@ -1,5 +1,6 @@
 ---
 title: "Little Man"
+layout: post
 date: "2013-08-17"
 ---
 

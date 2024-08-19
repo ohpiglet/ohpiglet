@@ -1,5 +1,6 @@
 ---
 title: "Two children"
+layout: post
 date: "2023-01-08"
 ---
 

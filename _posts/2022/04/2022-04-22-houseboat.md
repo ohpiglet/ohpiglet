@@ -1,5 +1,6 @@
 ---
 title: "Houseboat"
+layout: post
 date: "2022-04-22"
 ---
 

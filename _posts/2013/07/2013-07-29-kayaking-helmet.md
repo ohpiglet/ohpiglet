@@ -1,5 +1,6 @@
 ---
 title: "Kayaking Helmet"
+layout: post
 date: "2013-07-29"
 ---
 

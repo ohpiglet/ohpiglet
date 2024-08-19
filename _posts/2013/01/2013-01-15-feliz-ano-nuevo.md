@@ -1,5 +1,6 @@
 ---
 title: "Feliz Año Nuevo!"
+layout: post
 date: "2013-01-15"
 ---
 

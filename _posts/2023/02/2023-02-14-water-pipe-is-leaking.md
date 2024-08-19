@@ -1,5 +1,6 @@
 ---
 title: "Water pipe is leaking"
+layout: post
 date: "2023-02-14"
 ---
 

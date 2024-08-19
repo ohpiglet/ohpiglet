@@ -1,5 +1,6 @@
 ---
 title: "Saoirse and Rayane in the Santana"
+layout: post
 date: "2024-02-18"
 ---
 

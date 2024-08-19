@@ -1,5 +1,6 @@
 ---
 title: "Hiking the Wilds of Placa Catalunya"
+layout: post
 date: "2012-03-14"
 ---
 

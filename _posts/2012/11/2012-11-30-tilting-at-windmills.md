@@ -1,5 +1,6 @@
 ---
 title: "Tilting at Windmills"
+layout: post
 date: "2012-11-30"
 ---
 

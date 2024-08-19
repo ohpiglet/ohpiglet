@@ -1,5 +1,6 @@
 ---
 title: "Saint Patrick's Day"
+layout: post
 date: "2024-03-17"
 ---
 

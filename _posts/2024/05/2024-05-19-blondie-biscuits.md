@@ -1,5 +1,6 @@
 ---
 title: "Blondie biscuits"
+layout: post
 date: "2024-05-19"
 ---
 

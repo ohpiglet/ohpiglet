@@ -1,5 +1,6 @@
 ---
 title: "Down and Out in Barcelona Christmas Day"
+layout: post
 date: "2012-01-11"
 ---
 

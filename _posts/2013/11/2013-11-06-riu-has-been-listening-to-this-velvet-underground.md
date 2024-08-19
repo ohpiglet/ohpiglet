@@ -1,5 +1,6 @@
 ---
 title: "Velvet Underground"
+layout: post
 date: "2013-11-06"
 ---
 

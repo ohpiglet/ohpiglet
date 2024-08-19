@@ -1,5 +1,6 @@
 ---
 title: "Driving the tractor"
+layout: post
 date: "2022-04-15"
 ---
 

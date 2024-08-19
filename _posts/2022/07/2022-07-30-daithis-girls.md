@@ -1,5 +1,6 @@
 ---
 title: "Daithi's girls"
+layout: post
 date: "2022-07-30"
 ---
 

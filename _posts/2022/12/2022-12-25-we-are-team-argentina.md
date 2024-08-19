@@ -1,5 +1,6 @@
 ---
 title: "We are Team Argentina"
+layout: post
 date: "2022-12-25"
 ---
 

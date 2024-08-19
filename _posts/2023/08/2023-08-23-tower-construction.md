@@ -1,5 +1,6 @@
 ---
 title: "Tower construction"
+layout: post
 date: "2023-08-23"
 ---
 

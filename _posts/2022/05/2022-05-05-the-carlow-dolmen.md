@@ -1,5 +1,6 @@
 ---
 title: "The Carlow dolmen"
+layout: post
 date: "2022-05-05"
 ---
 

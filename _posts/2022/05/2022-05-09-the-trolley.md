@@ -1,5 +1,6 @@
 ---
 title: "The trolley"
+layout: post
 date: "2022-05-09"
 ---
 

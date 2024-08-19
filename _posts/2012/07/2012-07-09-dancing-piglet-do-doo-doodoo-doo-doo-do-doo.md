@@ -1,5 +1,6 @@
 ---
 title: "Dancing Piglet"
+layout: post
 date: "2012-07-09"
 ---
 

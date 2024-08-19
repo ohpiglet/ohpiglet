@@ -1,5 +1,6 @@
 ---
 title: "NOMNOMNOMNOM"
+layout: post
 date: "2012-05-02"
 ---
 

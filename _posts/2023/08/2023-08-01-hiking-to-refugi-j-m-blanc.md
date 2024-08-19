@@ -1,5 +1,6 @@
 ---
 title: "Hiking to Refugi J.M. Blanc"
+layout: post
 date: "2023-08-01"
 ---
 

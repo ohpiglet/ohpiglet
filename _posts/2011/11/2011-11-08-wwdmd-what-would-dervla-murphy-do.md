@@ -1,5 +1,6 @@
 ---
 title: "WWDMD? (What Would Dervla Murphy do?)"
+layout: post
 date: "2011-11-08"
 ---
 

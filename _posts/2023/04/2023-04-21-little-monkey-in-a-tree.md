@@ -1,5 +1,6 @@
 ---
 title: "Little monkey in a tree"
+layout: post
 date: "2023-04-21"
 ---
 

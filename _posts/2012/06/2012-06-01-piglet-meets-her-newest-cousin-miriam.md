@@ -1,5 +1,6 @@
 ---
 title: "Piglet meets her Newest Cousin, Miriam"
+layout: post
 date: "2012-06-01"
 ---
 

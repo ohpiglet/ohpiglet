@@ -1,5 +1,6 @@
 ---
 title: "Summer smiles"
+layout: post
 date: "2022-09-06"
 ---
 

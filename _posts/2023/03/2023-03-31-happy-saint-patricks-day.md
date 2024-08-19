@@ -1,5 +1,6 @@
 ---
 title: "Happy Saint Patrick's Day"
+layout: post
 date: "2023-03-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Papa and Mama"
+layout: post
 date: "2024-02-09"
 ---
 

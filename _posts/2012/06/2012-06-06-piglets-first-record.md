@@ -1,5 +1,6 @@
 ---
 title: "Piglet's First Record"
+layout: post
 date: "2012-06-06"
 ---
 

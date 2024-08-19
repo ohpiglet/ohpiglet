@@ -1,5 +1,6 @@
 ---
 title: "Ants at the Science Museum"
+layout: post
 date: "2012-06-22"
 ---
 

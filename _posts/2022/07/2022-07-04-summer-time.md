@@ -1,5 +1,6 @@
 ---
 title: "Summer time!"
+layout: post
 date: "2022-07-04"
 ---
 

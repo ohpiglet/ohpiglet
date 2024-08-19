@@ -1,5 +1,6 @@
 ---
 title: "Boí summited a peak"
+layout: post
 date: "2023-02-14"
 ---
 

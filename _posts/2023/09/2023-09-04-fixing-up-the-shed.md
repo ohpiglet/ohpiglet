@@ -1,5 +1,6 @@
 ---
 title: "Fixing up the shed"
+layout: post
 date: "2023-09-04"
 ---
 

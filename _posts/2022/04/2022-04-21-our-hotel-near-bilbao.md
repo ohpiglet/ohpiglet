@@ -1,5 +1,6 @@
 ---
 title: "Our hotel near Bilbao"
+layout: post
 date: "2022-04-21"
 ---
 

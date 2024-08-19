@@ -1,5 +1,6 @@
 ---
 title: "Happy Birthday Papa"
+layout: post
 date: "2012-05-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Portraits at J.M. Blanc"
+layout: post
 date: "2023-08-04"
 ---
 

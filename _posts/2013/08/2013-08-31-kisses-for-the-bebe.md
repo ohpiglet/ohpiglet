@@ -1,5 +1,6 @@
 ---
 title: "Kisses for the ´Bebe´"
+layout: post
 date: "2013-08-31"
 ---
 

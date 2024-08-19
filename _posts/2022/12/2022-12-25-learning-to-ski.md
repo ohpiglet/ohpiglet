@@ -1,5 +1,6 @@
 ---
 title: "Learning to ski"
+layout: post
 date: "2022-12-25"
 ---
 

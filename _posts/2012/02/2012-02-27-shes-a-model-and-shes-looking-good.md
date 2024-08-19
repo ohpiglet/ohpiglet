@@ -1,5 +1,6 @@
 ---
 title: "She's a model and she's looking good."
+layout: post
 date: "2012-02-27"
 ---
 

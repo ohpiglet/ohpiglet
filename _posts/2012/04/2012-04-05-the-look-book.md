@@ -1,5 +1,6 @@
 ---
 title: "The Look Book"
+layout: post
 date: "2012-04-05"
 ---
 

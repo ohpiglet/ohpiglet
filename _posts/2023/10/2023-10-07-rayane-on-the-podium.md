@@ -1,5 +1,6 @@
 ---
 title: "Rayane on the podium"
+layout: post
 date: "2023-10-07"
 ---
 

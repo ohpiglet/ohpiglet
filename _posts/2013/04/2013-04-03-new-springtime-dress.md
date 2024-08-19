@@ -1,5 +1,6 @@
 ---
 title: "New Springtime Dress"
+layout: post
 date: "2013-04-03"
 ---
 

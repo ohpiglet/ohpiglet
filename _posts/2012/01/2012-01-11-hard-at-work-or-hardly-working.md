@@ -1,5 +1,6 @@
 ---
 title: "Hard at work or hardly working"
+layout: post
 date: "2012-01-11"
 ---
 

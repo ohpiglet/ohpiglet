@@ -1,5 +1,6 @@
 ---
 title: "Little Sleeping Boy"
+layout: post
 date: "2014-02-11"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Beach fun in Murcia"
+layout: post
 date: "2024-03-30"
 ---
 

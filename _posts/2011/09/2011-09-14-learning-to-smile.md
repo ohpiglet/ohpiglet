@@ -1,5 +1,6 @@
 ---
 title: "Learning to Smile"
+layout: post
 date: "2011-09-14"
 ---
 

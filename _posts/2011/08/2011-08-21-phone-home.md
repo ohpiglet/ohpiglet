@@ -1,5 +1,6 @@
 ---
 title: "Phone Home"
+layout: post
 date: "2011-08-21"
 ---
 

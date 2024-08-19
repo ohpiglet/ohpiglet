@@ -1,5 +1,6 @@
 ---
 title: "Doggies on the toilet paper"
+layout: post
 date: "2015-02-11"
 ---
 

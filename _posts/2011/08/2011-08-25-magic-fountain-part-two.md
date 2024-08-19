@@ -1,5 +1,6 @@
 ---
 title: "Magic Fountain (Part Two)"
+layout: post
 date: "2011-08-25"
 ---
 

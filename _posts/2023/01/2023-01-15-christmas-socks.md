@@ -1,5 +1,6 @@
 ---
 title: "Christmas socks"
+layout: post
 date: "2023-01-15"
 ---
 

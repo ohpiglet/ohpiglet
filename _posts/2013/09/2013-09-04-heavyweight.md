@@ -1,5 +1,6 @@
 ---
 title: "Heavyweight"
+layout: post
 date: "2013-09-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Boí, Saoirse, and Rayane"
+layout: post
 date: "2024-03-10"
 ---
 

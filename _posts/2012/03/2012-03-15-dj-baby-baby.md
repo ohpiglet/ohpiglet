@@ -1,5 +1,6 @@
 ---
 title: "DJ Baby, baby"
+layout: post
 date: "2012-03-15"
 ---
 

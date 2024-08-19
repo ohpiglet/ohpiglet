@@ -1,5 +1,6 @@
 ---
 title: "Water baby"
+layout: post
 date: "2014-07-12"
 ---
 

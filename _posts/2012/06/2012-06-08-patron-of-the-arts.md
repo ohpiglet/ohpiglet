@@ -1,5 +1,6 @@
 ---
 title: "Patron of the Arts"
+layout: post
 date: "2012-06-08"
 ---
 

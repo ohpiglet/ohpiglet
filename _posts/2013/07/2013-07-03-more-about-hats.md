@@ -1,5 +1,6 @@
 ---
 title: "More About Hats"
+layout: post
 date: "2013-07-03"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Hammock Boí"
+layout: post
 date: "2023-08-29"
 ---
 

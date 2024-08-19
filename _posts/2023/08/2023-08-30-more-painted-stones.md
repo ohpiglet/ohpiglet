@@ -1,5 +1,6 @@
 ---
 title: "More painted stones"
+layout: post
 date: "2023-08-30"
 ---
 

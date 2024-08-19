@@ -1,5 +1,6 @@
 ---
 title: "Chilling in the raft"
+layout: post
 date: "2023-08-29"
 ---
 

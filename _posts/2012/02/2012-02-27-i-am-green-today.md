@@ -1,5 +1,6 @@
 ---
 title: "I am green today"
+layout: post
 date: "2012-02-27"
 ---
 

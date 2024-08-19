@@ -1,5 +1,6 @@
 ---
 title: "Adios Juan y Cecilia"
+layout: post
 date: "2013-03-22"
 ---
 

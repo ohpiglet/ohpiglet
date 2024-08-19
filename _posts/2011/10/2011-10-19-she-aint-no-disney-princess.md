@@ -1,5 +1,6 @@
 ---
 title: "She ain't no Disney Princess"
+layout: post
 date: "2011-10-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Piglet and Pig"
+layout: post
 date: "2013-04-19"
 ---
 

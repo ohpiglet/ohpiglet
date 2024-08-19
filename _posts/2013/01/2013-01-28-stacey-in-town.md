@@ -1,5 +1,6 @@
 ---
 title: "Stacey in Town"
+layout: post
 date: "2013-01-28"
 ---
 

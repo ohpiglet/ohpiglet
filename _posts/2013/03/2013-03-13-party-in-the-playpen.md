@@ -1,5 +1,6 @@
 ---
 title: "Party in the Playpen"
+layout: post
 date: "2013-03-13"
 ---
 

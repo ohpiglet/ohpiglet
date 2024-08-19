@@ -1,5 +1,6 @@
 ---
 title: "Making biccies"
+layout: post
 date: "2022-07-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Riu brushing her teeth"
+layout: post
 date: "2016-10-11"
 ---
 

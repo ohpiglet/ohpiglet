@@ -1,5 +1,6 @@
 ---
 title: "Spuds/Potato"
+layout: post
 date: "2014-04-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Beyond the Camino"
+layout: post
 date: "2012-10-27"
 ---
 

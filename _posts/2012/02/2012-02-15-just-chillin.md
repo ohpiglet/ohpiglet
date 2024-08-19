@@ -1,5 +1,6 @@
 ---
 title: "Just chillin'"
+layout: post
 date: "2012-02-15"
 ---
 

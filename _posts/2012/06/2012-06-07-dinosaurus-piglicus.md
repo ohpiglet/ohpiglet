@@ -1,5 +1,6 @@
 ---
 title: "Dinosaurus Piglicus"
+layout: post
 date: "2012-06-07"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Rebecca loves B+W photos"
+layout: post
 date: "2011-08-13"
 ---
 

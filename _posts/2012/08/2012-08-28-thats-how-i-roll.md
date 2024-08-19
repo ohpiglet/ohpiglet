@@ -1,5 +1,6 @@
 ---
 title: "That's How I Roll"
+layout: post
 date: "2012-08-28"
 ---
 

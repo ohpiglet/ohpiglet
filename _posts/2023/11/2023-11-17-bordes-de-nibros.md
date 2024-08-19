@@ -1,5 +1,6 @@
 ---
 title: "Bordes de Nibrós"
+layout: post
 date: "2023-11-17"
 ---
 

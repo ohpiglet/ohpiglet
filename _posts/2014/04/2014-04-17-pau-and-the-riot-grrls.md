@@ -1,5 +1,6 @@
 ---
 title: "Pau and the Riot Grrls"
+layout: post
 date: "2014-04-17"
 ---
 

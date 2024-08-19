@@ -1,5 +1,6 @@
 ---
 title: "Small / Far away"
+layout: post
 date: "2013-09-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Steam Train"
+layout: post
 date: "2014-02-11"
 ---
 

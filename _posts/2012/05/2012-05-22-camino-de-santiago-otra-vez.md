@@ -1,5 +1,6 @@
 ---
 title: "Camino de Santiago - Otra Vez"
+layout: post
 date: "2012-05-22"
 ---
 

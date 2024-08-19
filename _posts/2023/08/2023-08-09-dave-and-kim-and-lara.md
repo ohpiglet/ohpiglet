@@ -1,5 +1,6 @@
 ---
 title: "Dave and Kim and Lara"
+layout: post
 date: "2023-08-09"
 ---
 

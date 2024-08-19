@@ -1,5 +1,6 @@
 ---
 title: "New Friend Aran"
+layout: post
 date: "2014-09-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Rock, paper, scissors"
+layout: post
 date: "2017-01-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Ski season is coming"
+layout: post
 date: "2023-11-06"
 ---
 

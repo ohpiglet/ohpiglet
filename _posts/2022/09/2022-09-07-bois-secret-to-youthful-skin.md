@@ -1,5 +1,6 @@
 ---
 title: "Boí's secret to youthful skin"
+layout: post
 date: "2022-09-07"
 ---
 

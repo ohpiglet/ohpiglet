@@ -1,5 +1,6 @@
 ---
 title: "A new swing"
+layout: post
 date: "2023-02-14"
 ---
 

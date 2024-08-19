@@ -1,5 +1,6 @@
 ---
 title: "Hiking to refugi Gerber Mataró"
+layout: post
 date: "2022-12-10"
 ---
 

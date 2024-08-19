@@ -1,5 +1,6 @@
 ---
 title: "We went to the street art museum in Amsterdam"
+layout: post
 date: "2023-04-18"
 ---
 

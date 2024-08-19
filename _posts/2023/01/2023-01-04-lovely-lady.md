@@ -1,5 +1,6 @@
 ---
 title: "Lovely lady"
+layout: post
 date: "2023-01-04"
 ---
 

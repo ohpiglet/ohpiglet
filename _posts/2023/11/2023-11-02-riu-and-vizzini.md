@@ -1,5 +1,6 @@
 ---
 title: "Riu and Vizzini"
+layout: post
 date: "2023-11-02"
 ---
 

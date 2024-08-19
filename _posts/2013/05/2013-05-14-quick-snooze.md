@@ -1,5 +1,6 @@
 ---
 title: "Quick Snooze"
+layout: post
 date: "2013-05-14"
 ---
 

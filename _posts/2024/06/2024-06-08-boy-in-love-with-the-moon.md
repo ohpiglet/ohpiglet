@@ -1,5 +1,6 @@
 ---
 title: "The boy in love with the moon"
+layout: post
 date: "2024-06-08"
 ---
 

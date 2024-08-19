@@ -1,5 +1,6 @@
 ---
 title: "Origami Flamingos"
+layout: post
 date: "2011-08-18"
 ---
 

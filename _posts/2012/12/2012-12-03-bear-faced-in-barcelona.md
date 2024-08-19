@@ -1,5 +1,6 @@
 ---
 title: "Bear-faced in Barcelona"
+layout: post
 date: "2012-12-03"
 ---
 

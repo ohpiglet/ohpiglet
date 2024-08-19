@@ -1,5 +1,6 @@
 ---
 title: "Staring Into the Far Distance"
+layout: post
 date: "2011-08-27"
 ---
 

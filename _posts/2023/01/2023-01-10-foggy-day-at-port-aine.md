@@ -1,5 +1,6 @@
 ---
 title: "Foggy day at Port Aine"
+layout: post
 date: "2023-01-10"
 ---
 

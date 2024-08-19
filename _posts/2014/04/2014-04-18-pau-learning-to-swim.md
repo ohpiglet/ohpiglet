@@ -1,5 +1,6 @@
 ---
 title: "Pau learning to swim"
+layout: post
 date: "2014-04-18"
 ---
 

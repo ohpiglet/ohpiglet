@@ -1,5 +1,6 @@
 ---
 title: "Pau and Stripey Horse"
+layout: post
 date: "2014-04-21"
 ---
 

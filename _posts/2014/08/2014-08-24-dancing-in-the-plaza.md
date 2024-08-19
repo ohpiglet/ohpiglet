@@ -1,5 +1,6 @@
 ---
 title: "Dancing in the Plaza"
+layout: post
 date: "2014-08-24"
 ---
 

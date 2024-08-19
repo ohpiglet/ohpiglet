@@ -1,5 +1,6 @@
 ---
 title: "Caballito in the Cold"
+layout: post
 date: "2012-12-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "With love from the Scooby Doo"
+layout: post
 date: "2023-09-18"
 ---
 

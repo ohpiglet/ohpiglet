@@ -1,5 +1,6 @@
 ---
 title: "Full moon rising"
+layout: post
 date: "2023-03-16"
 ---
 

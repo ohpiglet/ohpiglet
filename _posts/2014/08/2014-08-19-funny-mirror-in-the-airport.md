@@ -1,5 +1,6 @@
 ---
 title: "Funny Mirror in the Airport"
+layout: post
 date: "2014-08-19"
 ---
 

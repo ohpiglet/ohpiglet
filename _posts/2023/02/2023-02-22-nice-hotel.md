@@ -1,5 +1,6 @@
 ---
 title: "Nice hotel"
+layout: post
 date: "2023-02-22"
 ---
 

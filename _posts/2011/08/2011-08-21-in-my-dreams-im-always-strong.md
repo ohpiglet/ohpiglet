@@ -1,5 +1,6 @@
 ---
 title: "In My Dreams I'm Always Strong"
+layout: post
 date: "2011-08-21"
 ---
 

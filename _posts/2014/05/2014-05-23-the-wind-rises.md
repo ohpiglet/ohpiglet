@@ -1,5 +1,6 @@
 ---
 title: "The Wind Rises"
+layout: post
 date: "2014-05-23"
 ---
 

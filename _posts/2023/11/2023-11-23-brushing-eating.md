@@ -1,5 +1,6 @@
 ---
 title: "Brushing, eating"
+layout: post
 date: "2023-11-23"
 ---
 

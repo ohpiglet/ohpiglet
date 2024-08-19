@@ -1,5 +1,6 @@
 ---
 title: "I'm wondering about doing a few days of the Camino with a 3-month-old as well. Can you tell me more about using washable diapers (nappies?) and where you slept at night? Thanks!"
+layout: post
 date: "2012-01-13"
 ---
 

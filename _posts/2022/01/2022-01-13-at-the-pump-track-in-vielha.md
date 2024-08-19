@@ -1,5 +1,6 @@
 ---
 title: "Pump track in Vielha"
+layout: post
 date: "2022-01-13"
 ---
 

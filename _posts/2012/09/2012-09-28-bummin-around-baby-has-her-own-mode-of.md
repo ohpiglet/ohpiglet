@@ -1,5 +1,6 @@
 ---
 title: "Bummin’ around"
+layout: post
 date: "2012-09-28"
 ---
 

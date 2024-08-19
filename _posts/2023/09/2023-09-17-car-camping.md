@@ -1,5 +1,6 @@
 ---
 title: "Car camping"
+layout: post
 date: "2023-09-17"
 ---
 

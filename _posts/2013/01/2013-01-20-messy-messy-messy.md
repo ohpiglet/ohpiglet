@@ -1,5 +1,6 @@
 ---
 title: "Messy, Messy, Messy"
+layout: post
 date: "2013-01-20"
 ---
 

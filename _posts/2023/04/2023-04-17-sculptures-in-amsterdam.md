@@ -1,5 +1,6 @@
 ---
 title: "Sculptures in Amsterdam"
+layout: post
 date: "2023-04-17"
 ---
 

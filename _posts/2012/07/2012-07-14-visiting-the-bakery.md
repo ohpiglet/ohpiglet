@@ -1,5 +1,6 @@
 ---
 title: "Visiting the Bakery"
+layout: post
 date: "2012-07-14"
 ---
 

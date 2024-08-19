@@ -1,5 +1,6 @@
 ---
 title: "In the Snow"
+layout: post
 date: "2012-12-12"
 ---
 

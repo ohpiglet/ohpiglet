@@ -1,5 +1,6 @@
 ---
 title: "New puppy"
+layout: post
 date: "2017-01-09"
 ---
 

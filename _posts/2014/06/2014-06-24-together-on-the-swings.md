@@ -1,5 +1,6 @@
 ---
 title: "Together on the Swings"
+layout: post
 date: "2014-06-24"
 ---
 

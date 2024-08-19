@@ -1,5 +1,6 @@
 ---
 title: "Parking for yellow and red two-wheelers"
+layout: post
 date: "2023-08-29"
 ---
 

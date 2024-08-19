@@ -1,5 +1,6 @@
 ---
 title: "Art Appreciation"
+layout: post
 date: "2012-04-01"
 ---
 

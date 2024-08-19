@@ -1,5 +1,6 @@
 ---
 title: "Pau's first football match"
+layout: post
 date: "2024-04-13"
 ---
 

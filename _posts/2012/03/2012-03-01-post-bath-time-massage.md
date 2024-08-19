@@ -1,5 +1,6 @@
 ---
 title: "Post-bath-time Massage"
+layout: post
 date: "2012-03-01"
 ---
 

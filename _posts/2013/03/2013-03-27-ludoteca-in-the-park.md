@@ -1,5 +1,6 @@
 ---
 title: "Ludoteca in the Park"
+layout: post
 date: "2013-03-27"
 ---
 

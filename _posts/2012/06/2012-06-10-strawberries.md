@@ -1,5 +1,6 @@
 ---
 title: "Strawberries"
+layout: post
 date: "2012-06-10"
 ---
 

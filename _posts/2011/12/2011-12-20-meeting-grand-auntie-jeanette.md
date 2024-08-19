@@ -1,5 +1,6 @@
 ---
 title: "Meeting Grand-Auntie Jeanette"
+layout: post
 date: "2011-12-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Mi furgoneta"
+layout: post
 date: "2012-08-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Leaving on holidays"
+layout: post
 date: "2022-04-16"
 ---
 

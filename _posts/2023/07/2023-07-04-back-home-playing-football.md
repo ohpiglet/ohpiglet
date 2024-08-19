@@ -1,5 +1,6 @@
 ---
 title: "Back home, playing football"
+layout: post
 date: "2023-07-04"
 ---
 

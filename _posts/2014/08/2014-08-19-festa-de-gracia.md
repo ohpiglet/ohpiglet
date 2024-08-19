@@ -1,5 +1,6 @@
 ---
 title: "Festa de Gracia"
+layout: post
 date: "2014-08-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Easter Flowers"
+layout: post
 date: "2013-04-08"
 ---
 

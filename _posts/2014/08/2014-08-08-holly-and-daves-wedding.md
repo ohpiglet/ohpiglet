@@ -1,5 +1,6 @@
 ---
 title: "Holly and Dave's Wedding"
+layout: post
 date: "2014-08-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Loveheart"
+layout: post
 date: "2022-09-05"
 ---
 

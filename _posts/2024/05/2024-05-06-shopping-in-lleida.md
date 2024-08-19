@@ -1,5 +1,6 @@
 ---
 title: "Shopping in Lleida"
+layout: post
 date: "2024-05-06"
 ---
 

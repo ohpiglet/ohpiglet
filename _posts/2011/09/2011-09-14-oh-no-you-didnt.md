@@ -1,5 +1,6 @@
 ---
 title: "Oh No You Didn't!"
+layout: post
 date: "2011-09-14"
 ---
 

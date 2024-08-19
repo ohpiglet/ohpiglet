@@ -1,5 +1,6 @@
 ---
 title: "Lovely ladies"
+layout: post
 date: "2022-12-25"
 ---
 

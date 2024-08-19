@@ -1,5 +1,6 @@
 ---
 title: "Family Trip to Parc Guell"
+layout: post
 date: "2012-06-03"
 ---
 

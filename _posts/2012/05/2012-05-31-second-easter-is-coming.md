@@ -1,5 +1,6 @@
 ---
 title: "Second Easter is coming"
+layout: post
 date: "2012-05-31"
 ---
 

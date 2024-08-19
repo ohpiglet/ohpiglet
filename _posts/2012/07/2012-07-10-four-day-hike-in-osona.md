@@ -1,5 +1,6 @@
 ---
 title: "Four-day Hike in Osona"
+layout: post
 date: "2012-07-10"
 ---
 

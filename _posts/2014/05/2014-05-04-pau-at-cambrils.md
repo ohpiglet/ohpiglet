@@ -1,5 +1,6 @@
 ---
 title: "Pau at Cambrils"
+layout: post
 date: "2014-05-04"
 ---
 

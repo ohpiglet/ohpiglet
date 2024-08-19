@@ -1,5 +1,6 @@
 ---
 title: "Piglet Goes Home"
+layout: post
 date: "2011-08-14"
 ---
 

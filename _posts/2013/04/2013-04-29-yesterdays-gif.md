@@ -1,5 +1,6 @@
 ---
 title: "Yesterday's GIF"
+layout: post
 date: "2013-04-29"
 ---
 

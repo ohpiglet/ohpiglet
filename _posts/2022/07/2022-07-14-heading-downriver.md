@@ -1,5 +1,6 @@
 ---
 title: "Heading downriver"
+layout: post
 date: "2022-07-14"
 ---
 

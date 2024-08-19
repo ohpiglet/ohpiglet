@@ -1,5 +1,6 @@
 ---
 title: "Summer Camp Update"
+layout: post
 date: "2013-07-23"
 ---
 

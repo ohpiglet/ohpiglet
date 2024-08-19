@@ -1,5 +1,6 @@
 ---
 title: "A land war in Asia"
+layout: post
 date: "2022-11-28"
 ---
 

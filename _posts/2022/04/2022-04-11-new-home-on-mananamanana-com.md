@@ -1,5 +1,6 @@
 ---
 title: "New home on mananamanana.com!"
+layout: post
 date: "2022-04-11"
 ---
 

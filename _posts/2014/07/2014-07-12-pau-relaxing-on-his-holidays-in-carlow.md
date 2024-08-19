@@ -1,5 +1,6 @@
 ---
 title: "Pau relaxing"
+layout: post
 date: "2014-07-12"
 ---
 

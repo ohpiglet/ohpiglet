@@ -1,5 +1,6 @@
 ---
 title: "Riu with Juan"
+layout: post
 date: "2013-10-21"
 ---
 

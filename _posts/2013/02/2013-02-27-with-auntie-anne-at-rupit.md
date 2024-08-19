@@ -1,5 +1,6 @@
 ---
 title: "With Auntie Anne at Rupit"
+layout: post
 date: "2013-02-27"
 ---
 

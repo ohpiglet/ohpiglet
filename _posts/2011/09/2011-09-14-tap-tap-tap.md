@@ -1,5 +1,6 @@
 ---
 title: "Tap, tap, tap"
+layout: post
 date: "2011-09-14"
 ---
 

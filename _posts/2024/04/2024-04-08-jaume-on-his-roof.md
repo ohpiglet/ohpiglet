@@ -1,5 +1,6 @@
 ---
 title: "Jaume on his roof"
+layout: post
 date: "2024-04-08"
 ---
 

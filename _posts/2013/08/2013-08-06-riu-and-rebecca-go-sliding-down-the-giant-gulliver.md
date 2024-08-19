@@ -1,5 +1,6 @@
 ---
 title: "Gulliver"
+layout: post
 date: "2013-08-06"
 ---
 

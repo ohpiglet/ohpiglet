@@ -1,5 +1,6 @@
 ---
 title: "On the Nature of Self; Dawning of Awareness"
+layout: post
 date: "2011-08-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Milkspill"
+layout: post
 date: "2024-04-04"
 ---
 

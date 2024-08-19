@@ -1,5 +1,6 @@
 ---
 title: "All drugged up on Mother's Milk"
+layout: post
 date: "2011-09-15"
 ---
 

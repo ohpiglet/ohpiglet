@@ -1,5 +1,6 @@
 ---
 title: "Rebecca Snowboarding"
+layout: post
 date: "2012-12-12"
 ---
 

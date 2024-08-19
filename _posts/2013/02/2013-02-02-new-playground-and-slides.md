@@ -1,5 +1,6 @@
 ---
 title: "New Playground and Slides!"
+layout: post
 date: "2013-02-02"
 ---
 

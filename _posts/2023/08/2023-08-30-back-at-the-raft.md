@@ -1,5 +1,6 @@
 ---
 title: "Back at the raft"
+layout: post
 date: "2023-08-30"
 ---
 

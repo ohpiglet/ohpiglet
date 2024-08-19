@@ -1,5 +1,6 @@
 ---
 title: "Pau/Haaland"
+layout: post
 date: "2023-11-24"
 ---
 

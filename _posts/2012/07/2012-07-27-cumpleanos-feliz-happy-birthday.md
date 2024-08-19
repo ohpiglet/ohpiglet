@@ -1,5 +1,6 @@
 ---
 title: "Cumpleaños Feliz - Happy Birthday!"
+layout: post
 date: "2012-07-27"
 ---
 

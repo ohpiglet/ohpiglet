@@ -1,5 +1,6 @@
 ---
 title: "Hanging Out in Santiago"
+layout: post
 date: "2012-10-30"
 ---
 

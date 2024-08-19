@@ -1,5 +1,6 @@
 ---
 title: "More from Spannabis"
+layout: post
 date: "2013-02-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "The Market in Stradbally"
+layout: post
 date: "2022-05-02"
 ---
 

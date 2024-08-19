@@ -1,5 +1,6 @@
 ---
 title: "Christmas Dinner"
+layout: post
 date: "2014-01-03"
 ---
 

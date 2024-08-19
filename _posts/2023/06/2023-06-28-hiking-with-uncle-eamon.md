@@ -1,5 +1,6 @@
 ---
 title: "Hiking with Uncle Eamon"
+layout: post
 date: "2023-06-28"
 ---
 

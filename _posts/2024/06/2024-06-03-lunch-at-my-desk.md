@@ -1,5 +1,6 @@
 ---
 title: "Lunch at my desk"
+layout: post
 date: "2024-06-03"
 ---
 

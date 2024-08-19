@@ -1,5 +1,6 @@
 ---
 title: "The Second Tallest Girl in the Family"
+layout: post
 date: "2012-06-15"
 ---
 

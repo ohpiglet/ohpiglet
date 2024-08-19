@@ -1,5 +1,6 @@
 ---
 title: "Pear harvest"
+layout: post
 date: "2023-11-12"
 ---
 

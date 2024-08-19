@@ -1,5 +1,6 @@
 ---
 title: "Breakfast Time"
+layout: post
 date: "2014-04-20"
 ---
 

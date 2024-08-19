@@ -1,5 +1,6 @@
 ---
 title: "Camino de Santiago"
+layout: post
 date: "2011-10-22"
 ---
 

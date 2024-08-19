@@ -1,5 +1,6 @@
 ---
 title: "Bathtime for Democracy"
+layout: post
 date: "2011-10-14"
 ---
 

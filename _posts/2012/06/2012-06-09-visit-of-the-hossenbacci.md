@@ -1,5 +1,6 @@
 ---
 title: "Visit of the Hossenbacci"
+layout: post
 date: "2012-06-09"
 ---
 

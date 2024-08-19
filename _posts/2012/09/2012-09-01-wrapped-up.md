@@ -1,5 +1,6 @@
 ---
 title: "Wrapped Up"
+layout: post
 date: "2012-09-01"
 ---
 

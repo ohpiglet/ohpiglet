@@ -1,5 +1,6 @@
 ---
 title: "Riu graduates from Primary School"
+layout: post
 date: "2023-07-11"
 ---
 

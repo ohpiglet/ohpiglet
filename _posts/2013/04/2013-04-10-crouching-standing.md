@@ -1,5 +1,6 @@
 ---
 title: "Crouching ... Standing"
+layout: post
 date: "2013-04-10"
 ---
 

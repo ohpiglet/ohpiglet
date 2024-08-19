@@ -1,5 +1,6 @@
 ---
 title: "Àrea de Joc Infantil"
+layout: post
 date: "2013-03-20"
 ---
 

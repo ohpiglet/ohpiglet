@@ -1,5 +1,6 @@
 ---
 title: "Dragon"
+layout: post
 date: "2017-05-08"
 ---
 

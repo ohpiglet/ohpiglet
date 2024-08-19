@@ -1,5 +1,6 @@
 ---
 title: "I'll Be Your Mirror"
+layout: post
 date: "2014-10-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Ambidextrous, or amphibious"
+layout: post
 date: "2011-08-11"
 ---
 

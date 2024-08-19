@@ -1,5 +1,6 @@
 ---
 title: "Hiking Santiago to Finisterre"
+layout: post
 date: "2012-10-31"
 ---
 

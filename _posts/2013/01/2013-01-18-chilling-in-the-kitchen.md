@@ -1,5 +1,6 @@
 ---
 title: "Chilling in the Kitchen"
+layout: post
 date: "2013-01-18"
 ---
 

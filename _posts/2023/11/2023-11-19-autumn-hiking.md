@@ -1,5 +1,6 @@
 ---
 title: "Autumn hiking"
+layout: post
 date: "2023-11-19"
 ---
 

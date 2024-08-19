@@ -1,5 +1,6 @@
 ---
 title: "Danny McCasco"
+layout: post
 date: "2024-05-28"
 ---
 

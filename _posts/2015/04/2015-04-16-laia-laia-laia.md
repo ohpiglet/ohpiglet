@@ -1,5 +1,6 @@
 ---
 title: "LAIA, LAIA, LAIA!"
+layout: post
 date: "2015-04-16"
 ---
 

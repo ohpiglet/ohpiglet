@@ -1,5 +1,6 @@
 ---
 title: "Pau Close Up"
+layout: post
 date: "2013-11-28"
 ---
 

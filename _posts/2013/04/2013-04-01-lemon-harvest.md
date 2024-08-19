@@ -1,5 +1,6 @@
 ---
 title: "Lemon Harvest"
+layout: post
 date: "2013-04-01"
 ---
 

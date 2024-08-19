@@ -1,5 +1,6 @@
 ---
 title: "Christmas Lights"
+layout: post
 date: "2011-12-01"
 ---
 

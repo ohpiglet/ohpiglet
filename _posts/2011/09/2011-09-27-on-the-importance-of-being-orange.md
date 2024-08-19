@@ -1,5 +1,6 @@
 ---
 title: "On the Importance of Being Orange"
+layout: post
 date: "2011-09-27"
 ---
 

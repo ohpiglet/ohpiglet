@@ -1,5 +1,6 @@
 ---
 title: "A Lifetime of Mystery Begins..."
+layout: post
 date: "2011-11-30"
 ---
 

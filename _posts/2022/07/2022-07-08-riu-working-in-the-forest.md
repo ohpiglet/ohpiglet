@@ -1,5 +1,6 @@
 ---
 title: "Riu working in the forest"
+layout: post
 date: "2022-07-08"
 ---
 

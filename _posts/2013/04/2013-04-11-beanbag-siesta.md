@@ -1,5 +1,6 @@
 ---
 title: "Beanbag Siesta"
+layout: post
 date: "2013-04-11"
 ---
 

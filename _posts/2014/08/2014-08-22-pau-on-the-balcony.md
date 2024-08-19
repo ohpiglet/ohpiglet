@@ -1,5 +1,6 @@
 ---
 title: "Pau on the Balcony"
+layout: post
 date: "2014-08-22"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "At the Beach Beach"
+layout: post
 date: "2013-07-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Danger danger"
+layout: post
 date: "2022-07-31"
 ---
 

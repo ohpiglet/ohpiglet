@@ -1,5 +1,6 @@
 ---
 title: "Pausa on the Stairs"
+layout: post
 date: "2013-04-22"
 ---
 

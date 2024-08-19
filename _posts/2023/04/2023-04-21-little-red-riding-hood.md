@@ -1,5 +1,6 @@
 ---
 title: "Little Red Riding Hood"
+layout: post
 date: "2023-04-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "El Cid's Castle"
+layout: post
 date: "2012-11-30"
 ---
 

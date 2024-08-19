@@ -1,5 +1,6 @@
 ---
 title: "With Nana at the Science Museum"
+layout: post
 date: "2013-09-16"
 ---
 

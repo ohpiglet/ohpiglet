@@ -1,5 +1,6 @@
 ---
 title: "Sleeping Piglets"
+layout: post
 date: "2013-07-11"
 ---
 

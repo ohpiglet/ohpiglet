@@ -1,5 +1,6 @@
 ---
 title: "Fish at the Science Museum"
+layout: post
 date: "2013-09-12"
 ---
 

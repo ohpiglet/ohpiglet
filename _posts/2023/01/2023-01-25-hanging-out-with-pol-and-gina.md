@@ -1,5 +1,6 @@
 ---
 title: "Hanging out with Pol and Gina"
+layout: post
 date: "2023-01-25"
 ---
 

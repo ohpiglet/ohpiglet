@@ -1,5 +1,6 @@
 ---
 title: "Testing the Furgoneta"
+layout: post
 date: "2012-08-25"
 ---
 

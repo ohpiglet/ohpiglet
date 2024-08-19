@@ -1,5 +1,6 @@
 ---
 title: "Rainbow on the road home"
+layout: post
 date: "2022-05-10"
 ---
 

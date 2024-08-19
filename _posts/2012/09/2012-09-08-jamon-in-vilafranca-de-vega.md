@@ -1,5 +1,6 @@
 ---
 title: "Jamon in Vilafranca de Vega"
+layout: post
 date: "2012-09-08"
 ---
 

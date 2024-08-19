@@ -1,5 +1,6 @@
 ---
 title: "Boí and Papa going for a walk"
+layout: post
 date: "2023-02-22"
 ---
 

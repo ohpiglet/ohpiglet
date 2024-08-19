@@ -1,5 +1,6 @@
 ---
 title: "We love it when friends visit from Ireland"
+layout: post
 date: "2024-05-29"
 ---
 

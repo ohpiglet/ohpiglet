@@ -1,5 +1,6 @@
 ---
 title: "Baby Laia and her Abuelo"
+layout: post
 date: "2014-09-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Making Friends at the Calcotada"
+layout: post
 date: "2012-03-22"
 ---
 

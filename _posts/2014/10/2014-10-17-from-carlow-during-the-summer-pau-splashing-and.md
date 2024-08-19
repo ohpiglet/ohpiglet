@@ -1,5 +1,6 @@
 ---
 title: "Pau in the pool, in Carlow"
+layout: post
 date: "2014-10-17"
 ---
 

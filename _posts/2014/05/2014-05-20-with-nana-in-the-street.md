@@ -1,5 +1,6 @@
 ---
 title: "With Nana in the Street"
+layout: post
 date: "2014-05-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Multiple, quick visits to the Netherlands. Germany, and Belgium"
+layout: post
 date: "2023-05-10"
 ---
 

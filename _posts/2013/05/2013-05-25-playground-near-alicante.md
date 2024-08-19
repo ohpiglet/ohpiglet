@@ -1,5 +1,6 @@
 ---
 title: "Playground near Alicante"
+layout: post
 date: "2013-05-25"
 ---
 

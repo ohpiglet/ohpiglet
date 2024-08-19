@@ -1,5 +1,6 @@
 ---
 title: "Boí has learned how to climb the stairs"
+layout: post
 date: "2016-09-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Pinkie out"
+layout: post
 date: "2024-06-03"
 ---
 

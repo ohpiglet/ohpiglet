@@ -1,5 +1,6 @@
 ---
 title: "Kick the ball, retrieve the ball"
+layout: post
 date: "2024-02-27"
 ---
 

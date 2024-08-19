@@ -1,5 +1,6 @@
 ---
 title: "Boí at CosmoCaixa"
+layout: post
 date: "2017-12-14"
 ---
 

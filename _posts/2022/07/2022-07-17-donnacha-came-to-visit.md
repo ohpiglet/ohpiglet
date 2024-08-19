@@ -1,5 +1,6 @@
 ---
 title: "Donnacha came to visit"
+layout: post
 date: "2022-07-17"
 ---
 

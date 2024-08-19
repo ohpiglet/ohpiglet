@@ -1,5 +1,6 @@
 ---
 title: "Fun on the slide in Sort"
+layout: post
 date: "2017-01-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Riu and Sansa"
+layout: post
 date: "2023-06-22"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Return to the Camino de Santiago"
+layout: post
 date: "2012-03-20"
 ---
 

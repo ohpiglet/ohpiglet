@@ -1,5 +1,6 @@
 ---
 title: "The Littlest Barista"
+layout: post
 date: "2012-03-13"
 ---
 

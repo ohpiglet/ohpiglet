@@ -1,5 +1,6 @@
 ---
 title: "Super blue moon"
+layout: post
 date: "2023-08-31"
 ---
 

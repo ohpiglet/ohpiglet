@@ -1,5 +1,6 @@
 ---
 title: "More Sleeping"
+layout: post
 date: "2011-08-28"
 ---
 

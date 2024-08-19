@@ -1,5 +1,6 @@
 ---
 title: "Ari and Riu, Best Friends Forever"
+layout: post
 date: "2013-12-05"
 ---
 

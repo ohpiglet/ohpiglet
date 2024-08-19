@@ -1,5 +1,6 @@
 ---
 title: "Post-cargol Art"
+layout: post
 date: "2014-03-01"
 ---
 

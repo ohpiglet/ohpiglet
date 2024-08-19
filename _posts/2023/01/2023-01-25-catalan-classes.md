@@ -1,5 +1,6 @@
 ---
 title: "Catalan classes"
+layout: post
 date: "2023-01-25"
 ---
 

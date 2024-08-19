@@ -1,5 +1,6 @@
 ---
 title: "Springtime"
+layout: post
 date: "2012-03-18"
 ---
 

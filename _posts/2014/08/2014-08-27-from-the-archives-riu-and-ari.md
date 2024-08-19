@@ -1,5 +1,6 @@
 ---
 title: "From the Archives - Riu and Ari"
+layout: post
 date: "2014-08-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "First steps"
+layout: post
 date: "2012-12-14"
 ---
 

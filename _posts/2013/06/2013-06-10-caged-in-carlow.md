@@ -1,5 +1,6 @@
 ---
 title: "Caged in Carlow"
+layout: post
 date: "2013-06-10"
 ---
 

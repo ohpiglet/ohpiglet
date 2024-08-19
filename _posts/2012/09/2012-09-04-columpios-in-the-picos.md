@@ -1,5 +1,6 @@
 ---
 title: "Columpios in the Picos"
+layout: post
 date: "2012-09-04"
 ---
 

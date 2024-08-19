@@ -1,5 +1,6 @@
 ---
 title: "More from the Sunday Walk"
+layout: post
 date: "2013-03-16"
 ---
 

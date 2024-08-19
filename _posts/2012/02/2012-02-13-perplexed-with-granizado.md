@@ -1,5 +1,6 @@
 ---
 title: "Perplexed with Granizado"
+layout: post
 date: "2012-02-13"
 ---
 

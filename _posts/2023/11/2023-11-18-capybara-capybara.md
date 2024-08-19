@@ -1,5 +1,6 @@
 ---
 title: "Capybara, capybara"
+layout: post
 date: "2023-11-18"
 ---
 

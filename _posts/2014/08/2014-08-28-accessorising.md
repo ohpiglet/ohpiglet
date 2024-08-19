@@ -1,5 +1,6 @@
 ---
 title: "Accessorising"
+layout: post
 date: "2014-08-28"
 ---
 

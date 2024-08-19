@@ -1,5 +1,6 @@
 ---
 title: "AEP ski jackets"
+layout: post
 date: "2023-12-07"
 ---
 

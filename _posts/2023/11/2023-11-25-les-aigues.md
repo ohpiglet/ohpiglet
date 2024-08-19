@@ -1,5 +1,6 @@
 ---
 title: "Les Aigües"
+layout: post
 date: "2023-11-25"
 ---
 

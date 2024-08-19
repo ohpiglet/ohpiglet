@@ -1,5 +1,6 @@
 ---
 title: "Observatorio"
+layout: post
 date: "2013-04-25"
 ---
 

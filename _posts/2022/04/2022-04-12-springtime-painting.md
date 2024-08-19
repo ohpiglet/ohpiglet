@@ -1,5 +1,6 @@
 ---
 title: "Springtime painting"
+layout: post
 date: "2022-04-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Learning to Fly"
+layout: post
 date: "2011-09-14"
 ---
 

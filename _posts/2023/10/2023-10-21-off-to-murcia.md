@@ -1,5 +1,6 @@
 ---
 title: "Off to Murcia"
+layout: post
 date: "2023-10-21"
 ---
 

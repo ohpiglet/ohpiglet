@@ -1,5 +1,6 @@
 ---
 title: "Mad Hair Day"
+layout: post
 date: "2012-08-28"
 ---
 

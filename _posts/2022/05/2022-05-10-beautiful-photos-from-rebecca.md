@@ -1,5 +1,6 @@
 ---
 title: "Beautiful photos from Rebecca"
+layout: post
 date: "2022-05-10"
 ---
 

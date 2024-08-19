@@ -1,5 +1,6 @@
 ---
 title: "Where the river meets the sea"
+layout: post
 date: "2012-02-28"
 ---
 

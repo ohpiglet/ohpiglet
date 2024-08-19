@@ -1,5 +1,6 @@
 ---
 title: "Reyes Magos"
+layout: post
 date: "2012-02-08"
 ---
 

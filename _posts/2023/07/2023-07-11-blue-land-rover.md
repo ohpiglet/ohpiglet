@@ -1,5 +1,6 @@
 ---
 title: "Blue Land Rover"
+layout: post
 date: "2023-07-11"
 ---
 

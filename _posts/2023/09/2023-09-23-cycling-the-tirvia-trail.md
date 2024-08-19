@@ -1,5 +1,6 @@
 ---
 title: "Cycling the Tirvia trail"
+layout: post
 date: "2023-09-23"
 ---
 

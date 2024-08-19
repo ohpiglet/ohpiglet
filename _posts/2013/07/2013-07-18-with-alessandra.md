@@ -1,5 +1,6 @@
 ---
 title: "With Alessandra"
+layout: post
 date: "2013-07-18"
 ---
 

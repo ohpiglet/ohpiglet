@@ -1,5 +1,6 @@
 ---
 title: "First day at Summer Camp"
+layout: post
 date: "2013-07-22"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "This Little Piggie went to the Modern Art Museum"
+layout: post
 date: "2011-08-25"
 ---
 

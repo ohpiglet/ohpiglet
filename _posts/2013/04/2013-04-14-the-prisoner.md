@@ -1,5 +1,6 @@
 ---
 title: "The Prisoner"
+layout: post
 date: "2013-04-14"
 ---
 

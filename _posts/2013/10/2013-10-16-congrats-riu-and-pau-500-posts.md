@@ -1,4 +1,5 @@
 ---
+layout: post
 date: "2013-10-16"
 tags: 
   - "500-posts"

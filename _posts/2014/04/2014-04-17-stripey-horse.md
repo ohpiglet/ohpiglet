@@ -1,5 +1,6 @@
 ---
 title: "Stripey Horse"
+layout: post
 date: "2014-04-17"
 ---
 

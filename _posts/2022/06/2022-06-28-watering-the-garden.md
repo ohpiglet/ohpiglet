@@ -1,5 +1,6 @@
 ---
 title: "Watering the garden"
+layout: post
 date: "2022-06-28"
 ---
 

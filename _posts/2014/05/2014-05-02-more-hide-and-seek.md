@@ -1,5 +1,6 @@
 ---
 title: "More Hide-and-Seek"
+layout: post
 date: "2014-05-02"
 ---
 

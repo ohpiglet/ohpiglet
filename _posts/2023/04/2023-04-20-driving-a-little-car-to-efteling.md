@@ -1,5 +1,6 @@
 ---
 title: "Driving a little car to Efteling"
+layout: post
 date: "2023-04-20"
 ---
 

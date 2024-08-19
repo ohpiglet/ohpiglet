@@ -1,5 +1,6 @@
 ---
 title: "Columpios in San Sebastian"
+layout: post
 date: "2012-09-07"
 ---
 

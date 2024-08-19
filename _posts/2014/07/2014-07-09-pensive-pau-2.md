@@ -1,5 +1,6 @@
 ---
 title: "Pensive Pau"
+layout: post
 date: "2014-07-09"
 ---
 

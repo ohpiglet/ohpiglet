@@ -1,5 +1,6 @@
 ---
 title: "Any comments?"
+layout: post
 date: "2012-01-18"
 ---
 

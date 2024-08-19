@@ -1,5 +1,6 @@
 ---
 title: "Swimming on the Costa Brava"
+layout: post
 date: "2012-08-25"
 ---
 

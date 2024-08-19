@@ -1,5 +1,6 @@
 ---
 title: "Oscar, Ollie, Fionn, and Papa"
+layout: post
 date: "2024-02-03"
 ---
 

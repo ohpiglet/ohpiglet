@@ -1,5 +1,6 @@
 ---
 title: "Hard Day's Work"
+layout: post
 date: "2012-09-29"
 ---
 

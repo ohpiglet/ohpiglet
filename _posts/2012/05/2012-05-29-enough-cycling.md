@@ -1,5 +1,6 @@
 ---
 title: "Enough Cycling"
+layout: post
 date: "2012-05-29"
 ---
 

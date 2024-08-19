@@ -1,5 +1,6 @@
 ---
 title: "Open your eyes"
+layout: post
 date: "2013-09-09"
 ---
 

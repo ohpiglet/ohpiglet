@@ -1,5 +1,6 @@
 ---
 title: "Fin de Camino in Olveiroa"
+layout: post
 date: "2012-11-01"
 ---
 

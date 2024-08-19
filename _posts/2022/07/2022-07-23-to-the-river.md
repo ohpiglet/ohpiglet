@@ -1,5 +1,6 @@
 ---
 title: "To the river"
+layout: post
 date: "2022-07-23"
 ---
 

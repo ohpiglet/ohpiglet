@@ -1,5 +1,6 @@
 ---
 title: "Riu and Ale"
+layout: post
 date: "2014-06-27"
 ---
 

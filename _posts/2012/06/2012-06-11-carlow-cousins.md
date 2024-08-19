@@ -1,5 +1,6 @@
 ---
 title: "Carlow Cousins"
+layout: post
 date: "2012-06-11"
 ---
 

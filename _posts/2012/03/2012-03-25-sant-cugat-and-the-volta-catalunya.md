@@ -1,5 +1,6 @@
 ---
 title: "Sant Cugat and the Volta Catalunya"
+layout: post
 date: "2012-03-25"
 ---
 

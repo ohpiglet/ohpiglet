@@ -1,5 +1,6 @@
 ---
 title: "Cagatio with Aran and Kenza"
+layout: post
 date: "2014-12-28"
 ---
 

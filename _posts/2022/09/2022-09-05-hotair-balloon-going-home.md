@@ -1,5 +1,6 @@
 ---
 title: "Hotair balloon going home"
+layout: post
 date: "2022-09-05"
 ---
 

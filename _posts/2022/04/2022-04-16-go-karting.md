@@ -1,5 +1,6 @@
 ---
 title: "Go-karting"
+layout: post
 date: "2022-04-16"
 ---
 

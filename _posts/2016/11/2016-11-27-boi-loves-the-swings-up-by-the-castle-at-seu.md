@@ -1,5 +1,6 @@
 ---
 title: "Boí loves the swings"
+layout: post
 date: "2016-11-27"
 ---
 

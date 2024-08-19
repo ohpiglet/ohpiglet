@@ -1,5 +1,6 @@
 ---
 title: "We built a sofa"
+layout: post
 date: "2022-12-04"
 ---
 

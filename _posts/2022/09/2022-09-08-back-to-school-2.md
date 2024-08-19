@@ -1,5 +1,6 @@
 ---
 title: "Back to school"
+layout: post
 date: "2022-09-08"
 ---
 

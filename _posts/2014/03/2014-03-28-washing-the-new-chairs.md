@@ -1,5 +1,6 @@
 ---
 title: "Washing the new chairs"
+layout: post
 date: "2014-03-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Mural in Falset"
+layout: post
 date: "2022-12-06"
 ---
 

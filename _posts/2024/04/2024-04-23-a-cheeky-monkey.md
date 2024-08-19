@@ -1,5 +1,6 @@
 ---
 title: "A cheeky monkey"
+layout: post
 date: "2024-04-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Trying on a Hat in Carlow"
+layout: post
 date: "2014-08-26"
 ---
 

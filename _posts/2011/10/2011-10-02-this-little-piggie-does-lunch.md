@@ -1,5 +1,6 @@
 ---
 title: "This little Piggie does lunch"
+layout: post
 date: "2011-10-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "The North Sea"
+layout: post
 date: "2023-04-28"
 ---
 

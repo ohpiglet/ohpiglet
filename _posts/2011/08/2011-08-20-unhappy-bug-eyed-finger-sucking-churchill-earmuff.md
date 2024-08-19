@@ -1,5 +1,6 @@
 ---
 title: "Unhappy Bug-eyed Finger-sucking Churchill Earmuff Piglet"
+layout: post
 date: "2011-08-20"
 ---
 

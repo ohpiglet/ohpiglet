@@ -1,5 +1,6 @@
 ---
 title: "El regalo del Dia de San Valentin IV"
+layout: post
 date: "2012-02-15"
 ---
 

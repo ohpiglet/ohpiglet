@@ -1,5 +1,6 @@
 ---
 title: "Fun in Murcia"
+layout: post
 date: "2023-10-23"
 ---
 

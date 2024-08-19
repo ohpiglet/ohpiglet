@@ -1,5 +1,6 @@
 ---
 title: "La Castaneda"
+layout: post
 date: "2022-11-10"
 ---
 

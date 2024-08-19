@@ -1,5 +1,6 @@
 ---
 title: "Vikram's car"
+layout: post
 date: "2023-07-12"
 ---
 

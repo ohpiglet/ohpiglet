@@ -1,5 +1,6 @@
 ---
 title: "Pau at Arfa"
+layout: post
 date: "2023-06-28"
 ---
 

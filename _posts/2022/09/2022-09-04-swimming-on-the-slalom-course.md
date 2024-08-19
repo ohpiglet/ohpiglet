@@ -1,5 +1,6 @@
 ---
 title: "Swimming on the slalom course"
+layout: post
 date: "2022-09-04"
 ---
 

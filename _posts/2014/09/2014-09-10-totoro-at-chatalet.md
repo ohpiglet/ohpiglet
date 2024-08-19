@@ -1,5 +1,6 @@
 ---
 title: "Totoro at Châtelet"
+layout: post
 date: "2014-09-10"
 ---
 

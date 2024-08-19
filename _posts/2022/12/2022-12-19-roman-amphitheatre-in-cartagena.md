@@ -1,5 +1,6 @@
 ---
 title: "Roman amphitheatre in Cartagena"
+layout: post
 date: "2022-12-19"
 ---
 

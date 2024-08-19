@@ -1,5 +1,6 @@
 ---
 title: "Little Piggy Eyes"
+layout: post
 date: "2011-08-18"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "La Mujer y El Bebé"
+layout: post
 date: "2011-08-13"
 ---
 

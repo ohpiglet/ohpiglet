@@ -1,5 +1,6 @@
 ---
 title: "Fun with Ash and Ollie"
+layout: post
 date: "2024-02-09"
 ---
 

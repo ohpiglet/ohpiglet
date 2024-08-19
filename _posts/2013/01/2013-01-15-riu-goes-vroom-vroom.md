@@ -1,5 +1,6 @@
 ---
 title: "Riu Goes Vroom Vroom"
+layout: post
 date: "2013-01-15"
 ---
 

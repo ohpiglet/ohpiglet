@@ -1,5 +1,6 @@
 ---
 title: "Becoming Sentient"
+layout: post
 date: "2011-08-21"
 ---
 

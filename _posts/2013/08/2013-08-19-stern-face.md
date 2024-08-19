@@ -1,5 +1,6 @@
 ---
 title: "Stern Face"
+layout: post
 date: "2013-08-19"
 ---
 

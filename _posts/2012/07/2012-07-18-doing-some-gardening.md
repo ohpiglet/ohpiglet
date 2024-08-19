@@ -1,5 +1,6 @@
 ---
 title: "Doing Some Gardening"
+layout: post
 date: "2012-07-18"
 ---
 

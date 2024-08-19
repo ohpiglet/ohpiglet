@@ -1,5 +1,6 @@
 ---
 title: "Sculptures in Gernika"
+layout: post
 date: "2012-08-29"
 ---
 

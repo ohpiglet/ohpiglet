@@ -1,5 +1,6 @@
 ---
 title: "End of the ski season"
+layout: post
 date: "2024-03-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Birthday lunch with grandad"
+layout: post
 date: "2023-10-22"
 ---
 

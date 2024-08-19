@@ -1,5 +1,6 @@
 ---
 title: "Interpretative dance"
+layout: post
 date: "2019-03-07"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Caballito"
+layout: post
 date: "2016-12-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Wiggle Wiggle"
+layout: post
 date: "2011-11-18"
 ---
 

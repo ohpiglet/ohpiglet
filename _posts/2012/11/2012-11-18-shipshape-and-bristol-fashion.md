@@ -1,5 +1,6 @@
 ---
 title: "Shipshape and Bristol fashion"
+layout: post
 date: "2012-11-18"
 ---
 

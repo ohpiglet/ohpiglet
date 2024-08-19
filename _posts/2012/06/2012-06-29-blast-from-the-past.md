@@ -1,5 +1,6 @@
 ---
 title: "Blast from the Past"
+layout: post
 date: "2012-06-29"
 ---
 

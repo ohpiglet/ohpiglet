@@ -1,5 +1,6 @@
 ---
 title: "Carneval at Port Aine"
+layout: post
 date: "2024-02-11"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "School is finished!"
+layout: post
 date: "2022-07-04"
 ---
 

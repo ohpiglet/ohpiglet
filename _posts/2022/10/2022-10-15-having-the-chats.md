@@ -1,5 +1,6 @@
 ---
 title: "Having the chats"
+layout: post
 date: "2022-10-15"
 ---
 

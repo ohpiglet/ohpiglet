@@ -1,5 +1,6 @@
 ---
 title: "Pulpo for Lunch"
+layout: post
 date: "2012-10-25"
 ---
 

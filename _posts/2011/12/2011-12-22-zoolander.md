@@ -1,5 +1,6 @@
 ---
 title: "Zoolander"
+layout: post
 date: "2011-12-22"
 ---
 

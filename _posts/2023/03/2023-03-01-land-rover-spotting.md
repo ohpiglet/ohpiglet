@@ -1,5 +1,6 @@
 ---
 title: "Land Rover spotting"
+layout: post
 date: "2023-03-01"
 ---
 

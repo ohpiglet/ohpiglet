@@ -1,5 +1,6 @@
 ---
 title: "We've gone on holidays by mistake"
+layout: post
 date: "2023-04-17"
 ---
 

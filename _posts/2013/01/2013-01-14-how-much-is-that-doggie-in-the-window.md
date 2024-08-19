@@ -1,5 +1,6 @@
 ---
 title: "How Much Is That Doggie In The Window?"
+layout: post
 date: "2013-01-14"
 ---
 

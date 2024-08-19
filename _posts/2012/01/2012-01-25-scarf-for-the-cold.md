@@ -1,5 +1,6 @@
 ---
 title: "Scarf for the Cold"
+layout: post
 date: "2012-01-25"
 ---
 

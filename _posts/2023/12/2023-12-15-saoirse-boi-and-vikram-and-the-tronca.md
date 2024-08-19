@@ -1,5 +1,6 @@
 ---
 title: "Saoirse, Boí, and Vikram and the Tronca"
+layout: post
 date: "2023-12-15"
 ---
 

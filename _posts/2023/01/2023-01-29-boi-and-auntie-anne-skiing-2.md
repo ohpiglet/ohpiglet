@@ -1,5 +1,6 @@
 ---
 title: "Boí and Auntie Anne skiing"
+layout: post
 date: "2023-01-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Riu and Auntie Rachel"
+layout: post
 date: "2023-02-22"
 ---
 

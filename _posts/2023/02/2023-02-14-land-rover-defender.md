@@ -1,5 +1,6 @@
 ---
 title: "Land Rover Defender"
+layout: post
 date: "2023-02-14"
 ---
 

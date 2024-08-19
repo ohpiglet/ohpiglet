@@ -1,5 +1,6 @@
 ---
 title: "New supermarket"
+layout: post
 date: "2024-01-18"
 ---
 

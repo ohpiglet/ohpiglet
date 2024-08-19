@@ -1,5 +1,6 @@
 ---
 title: "Spiritualized Electric Mainline"
+layout: post
 date: "2013-07-10"
 ---
 

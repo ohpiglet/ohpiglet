@@ -1,5 +1,6 @@
 ---
 title: "This little piggie went to the market"
+layout: post
 date: "2011-09-14"
 ---
 

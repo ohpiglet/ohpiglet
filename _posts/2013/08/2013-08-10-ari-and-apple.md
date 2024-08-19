@@ -1,5 +1,6 @@
 ---
 title: "Ari and Apple"
+layout: post
 date: "2013-08-10"
 ---
 

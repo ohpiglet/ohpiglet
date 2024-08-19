@@ -1,5 +1,6 @@
 ---
 title: "Umbrellas"
+layout: post
 date: "2022-05-28"
 ---
 

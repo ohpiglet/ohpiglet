@@ -1,5 +1,6 @@
 ---
 title: "Saoirse on the swing with her Casal buddies"
+layout: post
 date: "2022-09-02"
 ---
 

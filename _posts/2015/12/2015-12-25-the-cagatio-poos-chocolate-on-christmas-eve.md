@@ -1,5 +1,6 @@
 ---
 title: "Cagatió"
+layout: post
 date: "2015-12-25"
 ---
 

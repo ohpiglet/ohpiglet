@@ -1,5 +1,6 @@
 ---
 title: "Pau can do the Eskimo roll"
+layout: post
 date: "2023-07-11"
 ---
 

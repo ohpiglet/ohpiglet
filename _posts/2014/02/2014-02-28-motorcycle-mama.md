@@ -1,5 +1,6 @@
 ---
 title: "Motorcycle Mama"
+layout: post
 date: "2014-02-28"
 ---
 

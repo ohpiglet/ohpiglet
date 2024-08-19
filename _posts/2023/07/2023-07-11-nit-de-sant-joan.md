@@ -1,5 +1,6 @@
 ---
 title: "Nit de Sant Joan"
+layout: post
 date: "2023-07-11"
 ---
 

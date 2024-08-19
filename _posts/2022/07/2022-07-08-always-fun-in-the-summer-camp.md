@@ -1,5 +1,6 @@
 ---
 title: "Always fun in the summer camp"
+layout: post
 date: "2022-07-08"
 ---
 

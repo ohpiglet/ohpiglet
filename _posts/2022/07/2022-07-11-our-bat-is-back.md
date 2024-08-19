@@ -1,5 +1,6 @@
 ---
 title: "Our bat is back"
+layout: post
 date: "2022-07-11"
 ---
 

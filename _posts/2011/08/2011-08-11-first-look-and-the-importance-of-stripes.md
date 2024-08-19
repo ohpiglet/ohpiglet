@@ -1,5 +1,6 @@
 ---
 title: "First Look, and the Importance of Stripes"
+layout: post
 date: "2011-08-11"
 ---
 

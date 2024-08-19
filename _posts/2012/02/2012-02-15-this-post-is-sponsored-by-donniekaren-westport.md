@@ -1,5 +1,6 @@
 ---
 title: "This post is sponsored by DonnieKaren Westport"
+layout: post
 date: "2012-02-15"
 ---
 

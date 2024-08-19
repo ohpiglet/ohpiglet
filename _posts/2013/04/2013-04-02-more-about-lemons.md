@@ -1,5 +1,6 @@
 ---
 title: "More About Lemons"
+layout: post
 date: "2013-04-02"
 ---
 

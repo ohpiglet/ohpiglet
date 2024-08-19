@@ -1,5 +1,6 @@
 ---
 title: "I’m only dancing"
+layout: post
 date: "2014-07-17"
 ---
 

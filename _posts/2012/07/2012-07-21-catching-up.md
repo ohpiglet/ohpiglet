@@ -1,5 +1,6 @@
 ---
 title: "Catching Up"
+layout: post
 date: "2012-07-21"
 ---
 

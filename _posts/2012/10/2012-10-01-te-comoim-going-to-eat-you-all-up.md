@@ -1,5 +1,6 @@
 ---
 title: "Te como/I'm going to eat you all up"
+layout: post
 date: "2012-10-01"
 ---
 

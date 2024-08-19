@@ -1,5 +1,6 @@
 ---
 title: "Facing Into the World"
+layout: post
 date: "2012-02-07"
 ---
 

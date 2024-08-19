@@ -1,5 +1,6 @@
 ---
 title: "Bones Festes, Feliz Navidad, Nollaig Shona."
+layout: post
 date: "2011-12-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Pau at the bassa"
+layout: post
 date: "2023-06-22"
 ---
 

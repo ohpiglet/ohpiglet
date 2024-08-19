@@ -1,5 +1,6 @@
 ---
 title: "Outside Bilbao"
+layout: post
 date: "2022-04-16"
 ---
 

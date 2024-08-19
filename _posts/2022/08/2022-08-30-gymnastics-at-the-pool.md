@@ -1,5 +1,6 @@
 ---
 title: "Gymnastics at the pool"
+layout: post
 date: "2022-08-30"
 ---
 

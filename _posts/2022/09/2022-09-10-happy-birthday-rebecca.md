@@ -1,5 +1,6 @@
 ---
 title: "Happy birthday Rebecca"
+layout: post
 date: "2022-09-10"
 ---
 

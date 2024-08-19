@@ -1,5 +1,6 @@
 ---
 title: "Barcelona Bound - On The Road Again"
+layout: post
 date: "2012-11-22"
 ---
 

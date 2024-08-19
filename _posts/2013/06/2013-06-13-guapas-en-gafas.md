@@ -1,5 +1,6 @@
 ---
 title: "Guapas en Gafas"
+layout: post
 date: "2013-06-13"
 ---
 

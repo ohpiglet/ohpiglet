@@ -1,5 +1,6 @@
 ---
 title: "Winter sun"
+layout: post
 date: "2022-12-25"
 ---
 

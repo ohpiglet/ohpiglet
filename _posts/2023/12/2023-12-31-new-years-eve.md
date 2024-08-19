@@ -1,5 +1,6 @@
 ---
 title: "New Year's eve"
+layout: post
 date: "2023-12-31"
 tags: 
   - "2023"

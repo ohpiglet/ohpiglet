@@ -1,5 +1,6 @@
 ---
 title: "Serious face, fun face"
+layout: post
 date: "2022-07-12"
 ---
 

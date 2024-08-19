@@ -1,5 +1,6 @@
 ---
 title: "With Cousin Caleb in Carlow"
+layout: post
 date: "2013-02-18"
 ---
 

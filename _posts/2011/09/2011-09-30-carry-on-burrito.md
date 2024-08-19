@@ -1,5 +1,6 @@
 ---
 title: "Carry-on Burrito"
+layout: post
 date: "2011-09-30"
 ---
 

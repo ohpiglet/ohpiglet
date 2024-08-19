@@ -1,5 +1,6 @@
 ---
 title: "The entrance to Efteling"
+layout: post
 date: "2023-04-26"
 ---
 

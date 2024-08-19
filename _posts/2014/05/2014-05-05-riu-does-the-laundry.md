@@ -1,5 +1,6 @@
 ---
 title: "Riu does the laundry"
+layout: post
 date: "2014-05-05"
 ---
 

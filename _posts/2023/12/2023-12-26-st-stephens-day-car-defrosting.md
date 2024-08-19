@@ -1,5 +1,6 @@
 ---
 title: "St. Stephen’s Day, car defrosting"
+layout: post
 date: "2023-12-26"
 ---
 

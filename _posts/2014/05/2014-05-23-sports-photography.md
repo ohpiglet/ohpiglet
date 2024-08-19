@@ -1,5 +1,6 @@
 ---
 title: "Sports Photography"
+layout: post
 date: "2014-05-23"
 ---
 

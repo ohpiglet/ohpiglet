@@ -1,5 +1,6 @@
 ---
 title: "Aplec de Buise"
+layout: post
 date: "2023-06-19"
 ---
 

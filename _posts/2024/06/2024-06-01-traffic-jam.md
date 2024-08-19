@@ -1,5 +1,6 @@
 ---
 title: "Traffic jam"
+layout: post
 date: "2024-06-01"
 ---
 

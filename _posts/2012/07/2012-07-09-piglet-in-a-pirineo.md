@@ -1,5 +1,6 @@
 ---
 title: "Piglet in a Pirineo"
+layout: post
 date: "2012-07-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "To Burgos and Beyond"
+layout: post
 date: "2012-05-24"
 ---
 

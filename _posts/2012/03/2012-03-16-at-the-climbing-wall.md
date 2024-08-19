@@ -1,5 +1,6 @@
 ---
 title: "At the Climbing Wall"
+layout: post
 date: "2012-03-16"
 ---
 

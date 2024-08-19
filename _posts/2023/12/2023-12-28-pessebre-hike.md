@@ -1,5 +1,6 @@
 ---
 title: "Pessebre hike"
+layout: post
 date: "2023-12-28"
 ---
 

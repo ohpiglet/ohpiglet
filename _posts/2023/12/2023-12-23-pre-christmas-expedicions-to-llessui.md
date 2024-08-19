@@ -1,5 +1,6 @@
 ---
 title: "Pre-Christmas expedicions to Llessui"
+layout: post
 date: "2023-12-23"
 ---
 

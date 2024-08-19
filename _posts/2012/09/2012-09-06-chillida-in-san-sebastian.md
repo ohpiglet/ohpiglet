@@ -1,5 +1,6 @@
 ---
 title: "Chillida in San Sebastian"
+layout: post
 date: "2012-09-06"
 ---
 

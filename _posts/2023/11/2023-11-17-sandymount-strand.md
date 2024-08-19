@@ -1,5 +1,6 @@
 ---
 title: "Sandymount Strand"
+layout: post
 date: "2023-11-17"
 ---
 

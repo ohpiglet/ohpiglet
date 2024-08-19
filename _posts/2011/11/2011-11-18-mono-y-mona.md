@@ -1,5 +1,6 @@
 ---
 title: "Mono y Mona"
+layout: post
 date: "2011-11-18"
 ---
 

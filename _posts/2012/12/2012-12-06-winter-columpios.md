@@ -1,5 +1,6 @@
 ---
 title: "Winter Columpios"
+layout: post
 date: "2012-12-06"
 ---
 

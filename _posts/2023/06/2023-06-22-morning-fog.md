@@ -1,5 +1,6 @@
 ---
 title: "Morning fog"
+layout: post
 date: "2023-06-22"
 ---
 

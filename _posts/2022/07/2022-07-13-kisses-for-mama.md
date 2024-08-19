@@ -1,5 +1,6 @@
 ---
 title: "Kisses for Mama"
+layout: post
 date: "2022-07-13"
 ---
 

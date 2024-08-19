@@ -1,5 +1,6 @@
 ---
 title: "Portraits in the van"
+layout: post
 date: "2023-08-29"
 ---
 

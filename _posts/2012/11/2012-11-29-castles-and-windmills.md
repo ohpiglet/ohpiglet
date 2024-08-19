@@ -1,5 +1,6 @@
 ---
 title: "Castles and Windmills"
+layout: post
 date: "2012-11-29"
 ---
 

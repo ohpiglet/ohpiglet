@@ -1,5 +1,6 @@
 ---
 title: "Hola el mundo"
+layout: post
 date: "2011-08-06"
 ---
 

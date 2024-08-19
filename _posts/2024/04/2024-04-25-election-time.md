@@ -1,5 +1,6 @@
 ---
 title: "Election time"
+layout: post
 date: "2024-04-25"
 ---
 

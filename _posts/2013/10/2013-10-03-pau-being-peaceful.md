@@ -1,5 +1,6 @@
 ---
 title: "Pau, being Peaceful"
+layout: post
 date: "2013-10-03"
 ---
 

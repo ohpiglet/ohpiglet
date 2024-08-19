@@ -1,5 +1,6 @@
 ---
 title: "Perros Outside the Ludoteca"
+layout: post
 date: "2012-12-05"
 ---
 

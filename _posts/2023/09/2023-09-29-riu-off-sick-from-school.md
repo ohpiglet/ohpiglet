@@ -1,5 +1,6 @@
 ---
 title: "Riu off 'sick' from school"
+layout: post
 date: "2023-09-29"
 ---
 

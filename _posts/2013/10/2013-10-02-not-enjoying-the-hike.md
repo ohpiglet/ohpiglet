@@ -1,5 +1,6 @@
 ---
 title: "Not Enjoying the Hike"
+layout: post
 date: "2013-10-02"
 ---
 

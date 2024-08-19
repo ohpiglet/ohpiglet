@@ -1,5 +1,6 @@
 ---
 title: "Pau and his Totoro hat"
+layout: post
 date: "2014-11-08"
 ---
 

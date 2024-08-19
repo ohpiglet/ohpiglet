@@ -1,5 +1,6 @@
 ---
 title: "Panaderia"
+layout: post
 date: "2013-04-21"
 ---
 

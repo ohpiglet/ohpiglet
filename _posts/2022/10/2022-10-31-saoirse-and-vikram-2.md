@@ -1,5 +1,6 @@
 ---
 title: "Saoirse and Vikram"
+layout: post
 date: "2022-10-31"
 ---
 

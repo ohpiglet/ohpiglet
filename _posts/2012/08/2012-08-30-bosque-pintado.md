@@ -1,5 +1,6 @@
 ---
 title: "Bosque Pintado"
+layout: post
 date: "2012-08-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Piglet on a horse"
+layout: post
 date: "2012-07-23"
 ---
 

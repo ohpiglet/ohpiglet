@@ -1,5 +1,6 @@
 ---
 title: "Riu at the Water Font"
+layout: post
 date: "2013-07-15"
 ---
 

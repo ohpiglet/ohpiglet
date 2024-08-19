@@ -1,5 +1,6 @@
 ---
 title: "Green, No Stripes"
+layout: post
 date: "2011-08-13"
 ---
 

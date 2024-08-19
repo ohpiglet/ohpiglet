@@ -1,5 +1,6 @@
 ---
 title: "OH HAI THERE"
+layout: post
 date: "2023-01-04"
 ---
 

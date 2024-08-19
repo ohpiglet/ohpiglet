@@ -1,5 +1,6 @@
 ---
 title: "Planting the garden"
+layout: post
 date: "2022-04-16"
 ---
 

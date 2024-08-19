@@ -1,5 +1,6 @@
 ---
 title: "Carcassone"
+layout: post
 date: "2012-11-17"
 ---
 

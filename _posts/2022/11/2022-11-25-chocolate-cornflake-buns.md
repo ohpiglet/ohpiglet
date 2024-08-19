@@ -1,5 +1,6 @@
 ---
 title: "Chocolate cornflake buns"
+layout: post
 date: "2022-11-25"
 ---
 

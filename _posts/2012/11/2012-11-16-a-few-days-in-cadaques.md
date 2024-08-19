@@ -1,5 +1,6 @@
 ---
 title: "A Few Days in Cadaqués"
+layout: post
 date: "2012-11-16"
 ---
 

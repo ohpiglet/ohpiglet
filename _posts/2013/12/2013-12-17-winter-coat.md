@@ -1,5 +1,6 @@
 ---
 title: "Winter Coat"
+layout: post
 date: "2013-12-17"
 ---
 

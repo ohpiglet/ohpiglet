@@ -1,5 +1,6 @@
 ---
 title: "Slalom at Arfa"
+layout: post
 date: "2022-09-18"
 ---
 

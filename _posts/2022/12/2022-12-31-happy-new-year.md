@@ -1,5 +1,6 @@
 ---
 title: "Happy New Year"
+layout: post
 date: "2022-12-31"
 ---
 

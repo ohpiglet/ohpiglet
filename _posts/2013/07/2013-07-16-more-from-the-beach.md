@@ -1,5 +1,6 @@
 ---
 title: "More from the Beach"
+layout: post
 date: "2013-07-16"
 ---
 

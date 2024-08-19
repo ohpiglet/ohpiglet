@@ -1,5 +1,6 @@
 ---
 title: "Meeting Some Fans"
+layout: post
 date: "2013-11-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Uncle Eamon"
+layout: post
 date: "2011-11-29"
 ---
 

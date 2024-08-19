@@ -1,5 +1,6 @@
 ---
 title: "Hanging Out in Dublin"
+layout: post
 date: "2012-11-21"
 ---
 

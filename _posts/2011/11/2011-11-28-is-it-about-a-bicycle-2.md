@@ -1,5 +1,6 @@
 ---
 title: "Is It About A Bicycle?"
+layout: post
 date: "2011-11-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Riu and Conall"
+layout: post
 date: "2013-08-03"
 ---
 

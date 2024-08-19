@@ -1,5 +1,6 @@
 ---
 title: "OMFG fans, what's floating in the bath?"
+layout: post
 date: "2012-02-23"
 ---
 

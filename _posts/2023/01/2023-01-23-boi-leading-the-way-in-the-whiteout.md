@@ -1,5 +1,6 @@
 ---
 title: "Boí leading the way in the whiteout"
+layout: post
 date: "2023-01-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Wednesday"
+layout: post
 date: "2022-12-30"
 ---
 

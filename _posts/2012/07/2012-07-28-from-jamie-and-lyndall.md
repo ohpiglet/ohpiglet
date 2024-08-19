@@ -1,5 +1,6 @@
 ---
 title: "From Jamie and Lyndall"
+layout: post
 date: "2012-07-28"
 ---
 

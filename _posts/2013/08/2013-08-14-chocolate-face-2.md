@@ -1,5 +1,6 @@
 ---
 title: "Chocolate Face"
+layout: post
 date: "2013-08-14"
 ---
 

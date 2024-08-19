@@ -1,5 +1,6 @@
 ---
 title: "Your Name In Lights"
+layout: post
 date: "2012-11-17"
 ---
 

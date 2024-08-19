@@ -1,5 +1,6 @@
 ---
 title: "Pumptrack portraits"
+layout: post
 date: "2024-03-28"
 ---
 

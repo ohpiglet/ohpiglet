@@ -1,5 +1,6 @@
 ---
 title: "Laughing Piglet on the Camino"
+layout: post
 date: "2011-11-26"
 ---
 

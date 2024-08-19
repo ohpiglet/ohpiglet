@@ -1,5 +1,6 @@
 ---
 title: "Women's World Cup preparations"
+layout: post
 date: "2023-08-04"
 ---
 

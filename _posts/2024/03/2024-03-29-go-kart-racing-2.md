@@ -1,5 +1,6 @@
 ---
 title: "Go-kart racing"
+layout: post
 date: "2024-03-29"
 ---
 

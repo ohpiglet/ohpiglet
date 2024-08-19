@@ -1,5 +1,6 @@
 ---
 title: "Random CloseUp"
+layout: post
 date: "2012-08-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Running the AEP shop"
+layout: post
 date: "2022-11-17"
 ---
 

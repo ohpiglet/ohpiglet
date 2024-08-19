@@ -1,5 +1,6 @@
 ---
 title: "Day Off on Croaghpatrick"
+layout: post
 date: "2012-11-21"
 ---
 

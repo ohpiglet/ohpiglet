@@ -1,5 +1,6 @@
 ---
 title: "Pau mountain biking"
+layout: post
 date: "2022-09-01"
 ---
 

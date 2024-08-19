@@ -1,5 +1,6 @@
 ---
 title: "Guarderia is Closed"
+layout: post
 date: "2014-04-16"
 ---
 

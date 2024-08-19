@@ -1,5 +1,6 @@
 ---
 title: "Tronc de Nadal"
+layout: post
 date: "2022-12-30"
 ---
 

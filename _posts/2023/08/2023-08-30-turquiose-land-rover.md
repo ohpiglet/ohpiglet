@@ -1,5 +1,6 @@
 ---
 title: "Turquiose Land Rover"
+layout: post
 date: "2023-08-30"
 ---
 

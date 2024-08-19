@@ -1,5 +1,6 @@
 ---
 title: "On the Research into the Identification and Incidence of Tortugous primus and Dolphinius' azuleus e roseus in the Natural Porcine Bathing Ground"
+layout: post
 date: "2012-02-24"
 ---
 

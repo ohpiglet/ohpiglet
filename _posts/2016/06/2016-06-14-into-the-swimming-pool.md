@@ -1,5 +1,6 @@
 ---
 title: "Into the swimming pool"
+layout: post
 date: "2016-06-14"
 ---
 

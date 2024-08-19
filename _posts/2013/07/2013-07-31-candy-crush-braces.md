@@ -1,5 +1,6 @@
 ---
 title: "Candy Crush Braces"
+layout: post
 date: "2013-07-31"
 ---
 

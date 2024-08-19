@@ -1,5 +1,6 @@
 ---
 title: "Tobogan Technique"
+layout: post
 date: "2013-04-13"
 ---
 

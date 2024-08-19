@@ -1,5 +1,6 @@
 ---
 title: "Pau is a wriggler"
+layout: post
 date: "2013-11-14"
 tags: 
   - "vimeo"

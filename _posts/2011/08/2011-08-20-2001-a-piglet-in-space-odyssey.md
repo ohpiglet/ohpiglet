@@ -1,5 +1,6 @@
 ---
 title: "2001: A Piglet in Space Odyssey"
+layout: post
 date: "2011-08-20"
 ---
 

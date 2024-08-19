@@ -1,5 +1,6 @@
 ---
 title: "Steam train"
+layout: post
 date: "2023-04-28"
 ---
 

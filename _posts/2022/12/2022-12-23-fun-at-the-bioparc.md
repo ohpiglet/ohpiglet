@@ -1,5 +1,6 @@
 ---
 title: "Fun at the Bioparc"
+layout: post
 date: "2022-12-23"
 ---
 

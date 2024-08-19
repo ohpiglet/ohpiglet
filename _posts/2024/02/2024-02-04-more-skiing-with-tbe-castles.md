@@ -1,5 +1,6 @@
 ---
 title: "More skiing with the Castles"
+layout: post
 date: "2024-02-04"
 ---
 

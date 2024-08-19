@@ -1,5 +1,6 @@
 ---
 title: "Meet our new Baby-sitter"
+layout: post
 date: "2012-02-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Exceptional ballerina"
+layout: post
 date: "2012-07-17"
 ---
 

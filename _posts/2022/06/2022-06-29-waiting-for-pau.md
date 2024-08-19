@@ -1,5 +1,6 @@
 ---
 title: "Waiting for Pau"
+layout: post
 date: "2022-06-29"
 ---
 

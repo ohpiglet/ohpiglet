@@ -1,5 +1,6 @@
 ---
 title: "Flip Flops"
+layout: post
 date: "2013-07-22"
 ---
 

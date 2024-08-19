@@ -1,5 +1,6 @@
 ---
 title: "A long day snowboarding"
+layout: post
 date: "2023-02-24"
 ---
 

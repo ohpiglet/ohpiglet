@@ -1,5 +1,6 @@
 ---
 title: "She Laughs"
+layout: post
 date: "2013-03-08"
 ---
 

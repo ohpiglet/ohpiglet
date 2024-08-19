@@ -1,5 +1,6 @@
 ---
 title: "Llavorsí at night"
+layout: post
 date: "2023-07-11"
 ---
 

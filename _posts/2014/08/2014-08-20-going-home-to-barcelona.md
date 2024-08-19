@@ -1,5 +1,6 @@
 ---
 title: "Going home to Barcelona"
+layout: post
 date: "2014-08-20"
 ---
 

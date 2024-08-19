@@ -1,5 +1,6 @@
 ---
 title: "Hola piglet!"
+layout: post
 date: "2022-04-08"
 ---
 

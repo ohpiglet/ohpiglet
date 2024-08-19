@@ -1,5 +1,6 @@
 ---
 title: "Croissant in Les Aigües"
+layout: post
 date: "2023-02-24"
 ---
 

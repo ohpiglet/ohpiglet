@@ -1,5 +1,6 @@
 ---
 title: "Hola, ¿que tal?"
+layout: post
 date: "2024-02-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "More Photography from Riu"
+layout: post
 date: "2014-09-30"
 ---
 

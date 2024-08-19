@@ -1,5 +1,6 @@
 ---
 title: "Another Closeup"
+layout: post
 date: "2013-06-11"
 ---
 

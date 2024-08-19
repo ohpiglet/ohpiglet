@@ -1,5 +1,6 @@
 ---
 title: "The Cork Lads are here"
+layout: post
 date: "2023-12-13"
 ---
 

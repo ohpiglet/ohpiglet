@@ -1,5 +1,6 @@
 ---
 title: "Pau is walking"
+layout: post
 date: "2014-11-24"
 ---
 

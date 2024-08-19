@@ -1,5 +1,6 @@
 ---
 title: "Hiking to Besan"
+layout: post
 date: "2023-08-30"
 ---
 

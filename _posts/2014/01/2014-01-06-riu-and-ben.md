@@ -1,5 +1,6 @@
 ---
 title: "Riu and Ben"
+layout: post
 date: "2014-01-06"
 ---
 

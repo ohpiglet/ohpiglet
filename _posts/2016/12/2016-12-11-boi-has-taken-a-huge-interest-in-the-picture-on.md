@@ -1,5 +1,6 @@
 ---
 title: "Chatting to the fridge"
+layout: post
 date: "2016-12-11"
 ---
 

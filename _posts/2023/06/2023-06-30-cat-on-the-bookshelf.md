@@ -1,5 +1,6 @@
 ---
 title: "Cat on the bookshelf"
+layout: post
 date: "2023-06-30"
 ---
 

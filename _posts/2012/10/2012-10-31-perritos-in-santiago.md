@@ -1,5 +1,6 @@
 ---
 title: "Perritos in Santiago"
+layout: post
 date: "2012-10-31"
 ---
 

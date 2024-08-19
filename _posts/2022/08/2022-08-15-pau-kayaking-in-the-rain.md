@@ -1,5 +1,6 @@
 ---
 title: "Pau kayaking in the rain"
+layout: post
 date: "2022-08-15"
 ---
 

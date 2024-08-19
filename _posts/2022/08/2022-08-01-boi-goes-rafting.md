@@ -1,5 +1,6 @@
 ---
 title: "Boí goes rafting"
+layout: post
 date: "2022-08-01"
 ---
 

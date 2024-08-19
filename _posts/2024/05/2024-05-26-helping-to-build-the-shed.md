@@ -1,5 +1,6 @@
 ---
 title: "Helping to build the shed"
+layout: post
 date: "2024-05-26"
 ---
 

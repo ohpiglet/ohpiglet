@@ -1,5 +1,6 @@
 ---
 title: "A day in Lleida"
+layout: post
 date: "2024-06-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Riu and Ari"
+layout: post
 date: "2013-08-07"
 ---
 

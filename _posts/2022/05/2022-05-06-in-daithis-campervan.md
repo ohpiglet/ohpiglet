@@ -1,5 +1,6 @@
 ---
 title: "In Daithi's campervan"
+layout: post
 date: "2022-05-06"
 ---
 

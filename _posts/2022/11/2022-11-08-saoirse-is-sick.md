@@ -1,5 +1,6 @@
 ---
 title: "Saoirse is sick"
+layout: post
 date: "2022-11-08"
 ---
 

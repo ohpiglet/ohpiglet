@@ -1,5 +1,6 @@
 ---
 title: "Little Piggy Mouth"
+layout: post
 date: "2011-08-18"
 ---
 

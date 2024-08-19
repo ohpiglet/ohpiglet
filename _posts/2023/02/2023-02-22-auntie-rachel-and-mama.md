@@ -1,5 +1,6 @@
 ---
 title: "Auntie Rachel and Mama"
+layout: post
 date: "2023-02-22"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Happy birthday Aniol and Iria"
+layout: post
 date: "2022-09-20"
 ---
 

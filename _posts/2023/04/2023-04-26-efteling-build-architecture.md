@@ -1,5 +1,6 @@
 ---
 title: "Efteling build architecture"
+layout: post
 date: "2023-04-26"
 ---
 

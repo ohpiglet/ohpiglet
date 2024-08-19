@@ -1,5 +1,6 @@
 ---
 title: "More Piglet and Vietnamese Pig"
+layout: post
 date: "2013-04-30"
 ---
 

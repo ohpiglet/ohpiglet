@@ -1,5 +1,6 @@
 ---
 title: "Accredited Peregrino"
+layout: post
 date: "2011-11-18"
 ---
 

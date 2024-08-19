@@ -1,5 +1,6 @@
 ---
 title: "La Diada with Auntie Anne"
+layout: post
 date: "2014-09-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Spring in Plaza Joanic"
+layout: post
 date: "2013-04-20"
 ---
 

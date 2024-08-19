@@ -1,5 +1,6 @@
 ---
 title: "At the lake in Stradbally"
+layout: post
 date: "2022-04-25"
 ---
 

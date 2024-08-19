@@ -1,5 +1,6 @@
 ---
 title: "At the Airport"
+layout: post
 date: "2013-12-02"
 ---
 

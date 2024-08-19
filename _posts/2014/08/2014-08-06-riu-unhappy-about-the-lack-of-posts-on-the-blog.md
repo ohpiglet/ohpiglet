@@ -1,5 +1,6 @@
 ---
 title: "Riu Unhappy About The Lack of Posts On The Blog Lately"
+layout: post
 date: "2014-08-06"
 ---
 

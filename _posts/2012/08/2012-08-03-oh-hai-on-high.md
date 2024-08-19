@@ -1,5 +1,6 @@
 ---
 title: "OH HAI (on High)"
+layout: post
 date: "2012-08-03"
 ---
 

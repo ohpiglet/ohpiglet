@@ -1,5 +1,6 @@
 ---
 title: "Swimming in the Jungle"
+layout: post
 date: "2012-06-14"
 ---
 

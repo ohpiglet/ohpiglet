@@ -1,5 +1,6 @@
 ---
 title: "Walking out of Vega"
+layout: post
 date: "2012-10-04"
 ---
 

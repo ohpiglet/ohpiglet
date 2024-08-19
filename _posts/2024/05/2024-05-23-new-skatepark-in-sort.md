@@ -1,5 +1,6 @@
 ---
 title: "New skatepark in Sort"
+layout: post
 date: "2024-05-23"
 youtubeId: xwYGtbSmJqnKxQc8
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Pau's Shoes"
+layout: post
 date: "2013-12-21"
 ---
 

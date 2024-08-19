@@ -1,5 +1,6 @@
 ---
 title: "Bed Bunting"
+layout: post
 date: "2013-08-05"
 ---
 

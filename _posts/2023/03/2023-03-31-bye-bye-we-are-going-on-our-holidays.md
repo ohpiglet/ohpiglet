@@ -1,5 +1,6 @@
 ---
 title: "Bye bye, we are going on our holidays"
+layout: post
 date: "2023-03-31"
 ---
 

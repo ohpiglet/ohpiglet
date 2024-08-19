@@ -19,6 +19,7 @@ Add content of the form:
 ```
 ---
 title: "Foo bar"
+layout: post
 date: "2024-12-31"
 ---
 

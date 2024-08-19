@@ -1,5 +1,6 @@
 ---
 title: "Winter Wrapped"
+layout: post
 date: "2012-12-04"
 ---
 

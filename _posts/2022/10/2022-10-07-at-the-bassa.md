@@ -1,5 +1,6 @@
 ---
 title: "At the bassa"
+layout: post
 date: "2022-10-07"
 ---
 

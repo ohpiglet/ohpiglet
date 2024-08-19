@@ -1,5 +1,6 @@
 ---
 title: "Jigsaw from Pau's birthday"
+layout: post
 date: "2022-09-04"
 ---
 

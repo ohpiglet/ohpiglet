@@ -1,5 +1,6 @@
 ---
 title: "Santa Claus is coming to town"
+layout: post
 date: "2023-12-08"
 ---
 

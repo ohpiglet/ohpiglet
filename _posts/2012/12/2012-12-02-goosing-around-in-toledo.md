@@ -1,5 +1,6 @@
 ---
 title: "Goosing Around in Toledo"
+layout: post
 date: "2012-12-02"
 ---
 

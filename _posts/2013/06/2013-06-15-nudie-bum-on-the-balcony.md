@@ -1,5 +1,6 @@
 ---
 title: "Nudie Bum on the Balcony"
+layout: post
 date: "2013-06-15"
 ---
 

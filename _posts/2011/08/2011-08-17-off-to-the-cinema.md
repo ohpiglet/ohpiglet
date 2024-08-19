@@ -1,5 +1,6 @@
 ---
 title: "Off to the Cinema"
+layout: post
 date: "2011-08-17"
 ---
 

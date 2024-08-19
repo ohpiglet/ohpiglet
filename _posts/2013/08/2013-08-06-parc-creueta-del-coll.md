@@ -1,5 +1,6 @@
 ---
 title: "Parc Creueta del Coll"
+layout: post
 date: "2013-08-06"
 ---
 

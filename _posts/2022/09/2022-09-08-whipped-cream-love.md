@@ -1,5 +1,6 @@
 ---
 title: "Whipped cream love"
+layout: post
 date: "2022-09-08"
 ---
 

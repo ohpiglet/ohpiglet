@@ -1,5 +1,6 @@
 ---
 title: "We went to Barcelona"
+layout: post
 date: "2022-08-12"
 ---
 

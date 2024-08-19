@@ -1,5 +1,6 @@
 ---
 title: "Riu the Drummer"
+layout: post
 date: "2013-12-19"
 ---
 

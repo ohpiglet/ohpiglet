@@ -1,5 +1,6 @@
 ---
 title: "Mannequin in the Bin"
+layout: post
 date: "2013-01-27"
 ---
 

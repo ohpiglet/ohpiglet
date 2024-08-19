@@ -1,5 +1,6 @@
 ---
 title: "Palau de la Musica"
+layout: post
 date: "2013-01-29"
 ---
 

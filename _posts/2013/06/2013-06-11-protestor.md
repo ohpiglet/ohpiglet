@@ -1,5 +1,6 @@
 ---
 title: "Protestor"
+layout: post
 date: "2013-06-11"
 ---
 

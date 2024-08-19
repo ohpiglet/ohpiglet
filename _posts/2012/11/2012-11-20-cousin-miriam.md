@@ -1,5 +1,6 @@
 ---
 title: "Cousin Miriam"
+layout: post
 date: "2012-11-20"
 ---
 

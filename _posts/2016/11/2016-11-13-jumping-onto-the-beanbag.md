@@ -1,5 +1,6 @@
 ---
 title: "Jumping onto the beanbag"
+layout: post
 date: "2016-11-13"
 ---
 

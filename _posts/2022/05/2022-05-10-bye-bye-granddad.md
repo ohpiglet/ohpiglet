@@ -1,5 +1,6 @@
 ---
 title: "Bye bye granddad"
+layout: post
 date: "2022-05-10"
 ---
 

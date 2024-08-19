@@ -1,5 +1,6 @@
 ---
 title: "Message for Richard"
+layout: post
 date: "2023-05-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Explosions in the Sky"
+layout: post
 date: "2014-03-10"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Window and cat"
+layout: post
 date: "2024-04-25"
 ---
 

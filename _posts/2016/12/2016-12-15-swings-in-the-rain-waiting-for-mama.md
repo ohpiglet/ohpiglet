@@ -1,5 +1,6 @@
 ---
 title: "Swings in the rain"
+layout: post
 date: "2016-12-15"
 ---
 

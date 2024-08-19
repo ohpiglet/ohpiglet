@@ -1,5 +1,6 @@
 ---
 title: "Riu and Assua"
+layout: post
 date: "2023-12-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Canalside Caballito"
+layout: post
 date: "2012-11-18"
 ---
 

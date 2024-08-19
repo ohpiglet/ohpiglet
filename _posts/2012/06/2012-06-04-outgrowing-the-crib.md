@@ -1,5 +1,6 @@
 ---
 title: "Outgrowing the Crib"
+layout: post
 date: "2012-06-04"
 ---
 

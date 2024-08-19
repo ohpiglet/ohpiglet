@@ -1,5 +1,6 @@
 ---
 title: "Coming home from school"
+layout: post
 date: "2023-10-03"
 ---
 

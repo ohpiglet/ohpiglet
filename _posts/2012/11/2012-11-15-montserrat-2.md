@@ -1,5 +1,6 @@
 ---
 title: "Montserrat"
+layout: post
 date: "2012-11-15"
 ---
 

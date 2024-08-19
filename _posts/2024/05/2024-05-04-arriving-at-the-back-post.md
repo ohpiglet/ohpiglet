@@ -1,5 +1,6 @@
 ---
 title: "Arriving at the back post"
+layout: post
 date: "2024-05-04"
 ---
 

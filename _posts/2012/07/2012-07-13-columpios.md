@@ -1,5 +1,6 @@
 ---
 title: "Columpios"
+layout: post
 date: "2012-07-13"
 ---
 

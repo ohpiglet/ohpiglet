@@ -1,5 +1,6 @@
 ---
 title: "The Llavorsí school blog!"
+layout: post
 date: "2020-03-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Yogi Baby - Bhujangasana"
+layout: post
 date: "2012-02-16"
 ---
 

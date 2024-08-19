@@ -1,5 +1,6 @@
 ---
 title: "Cousin Ben"
+layout: post
 date: "2012-11-19"
 ---
 

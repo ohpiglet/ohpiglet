@@ -1,5 +1,6 @@
 ---
 title: "Happy Birthday to Donnacha"
+layout: post
 date: "2022-01-13"
 ---
 

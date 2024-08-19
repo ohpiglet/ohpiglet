@@ -1,5 +1,6 @@
 ---
 title: "In the loft, trying on new hats"
+layout: post
 date: "2022-09-25"
 ---
 

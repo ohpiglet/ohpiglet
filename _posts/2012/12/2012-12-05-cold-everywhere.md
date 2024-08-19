@@ -1,5 +1,6 @@
 ---
 title: "Cold Everywhere"
+layout: post
 date: "2012-12-05"
 ---
 

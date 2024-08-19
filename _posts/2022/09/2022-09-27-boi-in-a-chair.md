@@ -1,5 +1,6 @@
 ---
 title: "Boí in a chair"
+layout: post
 date: "2022-09-27"
 ---
 

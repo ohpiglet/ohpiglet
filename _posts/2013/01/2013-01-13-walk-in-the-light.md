@@ -1,5 +1,6 @@
 ---
 title: "Walk In The Light"
+layout: post
 date: "2013-01-13"
 ---
 

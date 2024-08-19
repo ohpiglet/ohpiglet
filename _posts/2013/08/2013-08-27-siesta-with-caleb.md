@@ -1,5 +1,6 @@
 ---
 title: "Siesta with Caleb"
+layout: post
 date: "2013-08-27"
 ---
 

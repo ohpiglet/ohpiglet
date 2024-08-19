@@ -1,5 +1,6 @@
 ---
 title: "El Indio in Pamplona"
+layout: post
 date: "2012-09-09"
 ---
 

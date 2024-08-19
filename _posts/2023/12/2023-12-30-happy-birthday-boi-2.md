@@ -1,5 +1,6 @@
 ---
 title: "Happy birthday Boí!"
+layout: post
 date: "2023-12-30"
 ---
 

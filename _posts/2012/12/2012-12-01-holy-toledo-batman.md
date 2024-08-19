@@ -1,5 +1,6 @@
 ---
 title: "Holy Toledo, Batman"
+layout: post
 date: "2012-12-01"
 ---
 

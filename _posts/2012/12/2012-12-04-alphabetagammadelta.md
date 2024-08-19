@@ -1,5 +1,6 @@
 ---
 title: "Alphabetagammadelta"
+layout: post
 date: "2012-12-04"
 ---
 

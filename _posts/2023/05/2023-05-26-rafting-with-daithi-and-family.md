@@ -1,5 +1,6 @@
 ---
 title: "Rafting with Daithi and family"
+layout: post
 date: "2023-05-26"
 ---
 

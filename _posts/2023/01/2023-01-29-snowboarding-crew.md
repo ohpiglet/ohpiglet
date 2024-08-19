@@ -1,5 +1,6 @@
 ---
 title: "Snowboarding crew"
+layout: post
 date: "2023-01-29"
 ---
 

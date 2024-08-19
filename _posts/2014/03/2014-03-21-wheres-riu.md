@@ -1,5 +1,6 @@
 ---
 title: "Where's Riu?"
+layout: post
 date: "2014-03-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Shoes and shadows"
+layout: post
 date: "2022-06-16"
 ---
 

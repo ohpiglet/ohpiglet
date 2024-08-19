@@ -1,5 +1,6 @@
 ---
 title: "Gelateria Argentina"
+layout: post
 date: "2014-06-03"
 ---
 

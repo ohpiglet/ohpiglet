@@ -1,5 +1,6 @@
 ---
 title: "Winning prizes in Andorra"
+layout: post
 date: "2024-02-25"
 ---
 

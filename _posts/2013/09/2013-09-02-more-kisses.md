@@ -1,5 +1,6 @@
 ---
 title: "More Kisses"
+layout: post
 date: "2013-09-02"
 ---
 

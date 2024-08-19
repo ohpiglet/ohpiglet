@@ -1,5 +1,6 @@
 ---
 title: "Boí and Papa"
+layout: post
 date: "2023-09-24"
 ---
 

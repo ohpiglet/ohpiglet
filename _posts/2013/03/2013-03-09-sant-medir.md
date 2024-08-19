@@ -1,5 +1,6 @@
 ---
 title: "Sant Medir"
+layout: post
 date: "2013-03-09"
 ---
 

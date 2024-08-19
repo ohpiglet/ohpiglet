@@ -1,5 +1,6 @@
 ---
 title: "The Rain in Spain"
+layout: post
 date: "2012-05-23"
 ---
 

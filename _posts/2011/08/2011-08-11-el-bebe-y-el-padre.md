@@ -1,5 +1,6 @@
 ---
 title: "El Bebé y el Padre"
+layout: post
 date: "2011-08-11"
 ---
 

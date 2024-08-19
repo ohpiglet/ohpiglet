@@ -1,5 +1,6 @@
 ---
 title: "Walking to the Cathedral"
+layout: post
 date: "2012-10-26"
 ---
 

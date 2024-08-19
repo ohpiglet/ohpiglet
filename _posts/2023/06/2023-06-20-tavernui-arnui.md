@@ -1,5 +1,6 @@
 ---
 title: "Taverna Arnui"
+layout: post
 date: "2023-06-20"
 ---
 

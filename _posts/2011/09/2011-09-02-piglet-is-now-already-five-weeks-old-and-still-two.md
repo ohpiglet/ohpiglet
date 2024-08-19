@@ -1,5 +1,6 @@
 ---
 title: "Piglet is now already five weeks old"
+layout: post
 date: "2011-09-02"
 ---
 

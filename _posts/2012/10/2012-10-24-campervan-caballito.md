@@ -1,5 +1,6 @@
 ---
 title: "Campervan Caballito"
+layout: post
 date: "2012-10-24"
 ---
 

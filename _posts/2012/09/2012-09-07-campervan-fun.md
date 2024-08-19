@@ -1,5 +1,6 @@
 ---
 title: "Campervan Fun"
+layout: post
 date: "2012-09-07"
 ---
 
