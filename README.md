@@ -54,9 +54,9 @@ bundle exec jekyll serve
 
 ## TODO
 
-### wp string
+### wp-content string
 
-Search for wp-content as a string to find all stray photo links:
+Search for wp-content as a string (exclude _site) to find all stray photo links and fixvideo:
 
 Yes:
  ```
