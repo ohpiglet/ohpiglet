@@ -54,18 +54,6 @@ bundle exec jekyll serve
 
 ## TODO
 
-### Favicons
-
-```
-Okay now it's time for favicons. A favicon is a site icon. You'll need an image in png format for this. Once you are ready with your image, open the following website and use it to generate the favicons,
-
-https://favycon.vercel.app/
-
-This site will let you download the generated favicons in a zip file. Unzip that file and then in your GitHub repository go to assets -> image folder and upload all the extracted image files via Add file -> Upload files. Don't upload any xml or json files please.
-```
-
-### Fix images links
-
 ### Enable comments
 
 ### Enable web analytics
