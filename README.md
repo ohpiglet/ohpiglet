@@ -54,13 +54,13 @@ bundle exec jekyll serve
 
 ## TODO
 
-### wp-content string
+### wp-content and fixvideo strings
 
-Search for wp-content as a string (exclude _site) to find all stray photo links and fixvideo:
+Search for wp-content and fixvideo as strings (exclude _site) to find all stray photo links and broken videos. There are 67 and 63.
 
 Yes:
  ```
-![yo yo]({{ site.baseurl }}/assets/images/2016/tumblr_o9sj8aC6U51r16syio1_1280-768x1024.jpg)]
+![yo yo]({{ site.baseurl }}/assets/images/2016/tumblr_o9sj8aC6U51r16syio1_1280-768x1024.jpg)
  ```
 
 No:
@@ -78,7 +78,7 @@ No:
 
 Videos should be uploaded to Vimeo and then displayed using the default embed code.
 
-- there are 296 fixvideo strings.
+- there are 63 fixvideo strings.
 
 - all wp videos are now added to assets/videos and /extravideos
 
