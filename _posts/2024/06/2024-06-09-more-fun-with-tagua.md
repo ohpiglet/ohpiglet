@@ -1,7 +1,7 @@
 ---
 title: "More fun with Tagua"
 layout: post
-date: "2024-06-13"
+date: "2024-06-09"
 ---
 
 More fun with Tagua.
