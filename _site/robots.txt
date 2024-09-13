@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ohpiglet.mananamanana.com/sitemap.xml
