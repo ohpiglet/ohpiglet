@@ -27,7 +27,7 @@ url: https://jimken123.github.io
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: "/ohpiglet"
+# baseurl: "/ohpiglet"
 
 # Navigation menu
 navigation_links:
