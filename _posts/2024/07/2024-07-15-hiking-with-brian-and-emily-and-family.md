@@ -4,7 +4,7 @@ layout: post
 date: "2024-07-15"
 ---
 
-We spent some time at the swimmiming pool in Llavorsí.
+We spent some time at the swimming pool in Llavorsí.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2024/ smiths10-49-jpeg.jpeg)
 
