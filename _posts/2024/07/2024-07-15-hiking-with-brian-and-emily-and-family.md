@@ -8,7 +8,7 @@ We spent some time at the swimmiming pool in Llavorsí.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2024/1000025728.jpg)
 
-We ent to explore the village of Arestui.
+We went to explore the village of Arestui.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2024/1000025751.jpg)
 
@@ -39,6 +39,10 @@ The girls are best friends now.
 ![yo yo]({{ site.baseurl }}/assets/images/2024/1000025766.jpg)
 
 ![yo yo]({{ site.baseurl }}/assets/images/2024/1000025768.jpg)
+
+We went for dinner in the campsite.
+
+![yo yo]({{ site.baseurl }}/assets/images/2024/smiths-campsite-dinner.jpg)
 
 Hanging out in the loft.
 
