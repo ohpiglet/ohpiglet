@@ -10,35 +10,35 @@ We spent some time at the swimmiming pool in Llavorsí.
 
 We went to explore the village of Arestui.
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/smiths10-57-jpeg.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/smiths10-57-jpeg.jpeg)
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/smiths11-00-jpeg.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/smiths11-00-jpeg.jpeg)
 
 Then we hiked to Baiasca along the river.
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/smiths10-49-2-jpeg.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/smiths10-49-2-jpeg.jpeg)
 
 We built a wooden bridge to cross the river.
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/ smiths10-50-jpeg.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/ smiths10-50-jpeg.jpeg)
 
 Checking out this tree!
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/smiths10-53-jpeg.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/smiths10-53-jpeg.jpeg)
 
 Back in Llavorsí on the path down to Yeti.
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/smiths-00001.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/smiths-00001.jpeg)
 
 Cooling down at the Yeti beach.
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/ smiths11-02-jpeg.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/ smiths11-02-jpeg.jpeg)
 
 The girls are best friends now.
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/girlsbbf.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/girlsbbf.jpeg)
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/ smiths11-03-jpeg.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/ smiths11-03-jpeg.jpeg)
 
 We went for dinner in the campsite.
 
@@ -46,4 +46,4 @@ We went for dinner in the campsite.
 
 Hanging out in the loft.
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/ smiths11-04-jpeg.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2024/ smiths11-04-jpeg.jpeg)
