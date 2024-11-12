@@ -1,6 +1,6 @@
 # README
 
-This repo is a fork of [Forever Jekyll](https://foredver-jekyll.github.io) and, minimalist at that origin repo is, I've removed a bunch of stuff that I don't need.
+This repo is a fork of [Forever Jekyll](https://forever-jekyll.github.io) and, minimalist at that origin repo is, I've removed a bunch of stuff that I don't need.
 
 I am using it to migrate my **/ohpiglet** blog away from WordPress and into Jekyll.
 
