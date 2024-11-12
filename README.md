@@ -4,7 +4,7 @@ This repo is a fork of [Forever Jekyll](https://foredver-jekyll.github.io) and, 
 
 I am using it to migrate my **/ohpiglet** blog away from WordPress and into Jekyll.
 
-This repo builds at [ohpiglet/mananamanana.com](https:ohpiglet.mananamanana.com/).
+This repo builds at [ohpiglet.mananamanana.com](https://ohpiglet.mananamanana.com).
 
 ## Write a post
 
