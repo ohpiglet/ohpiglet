@@ -52,6 +52,17 @@ bundle exec jekyll serve
 
 - https://www.deadlinkchecker.com/
 
+## Fix weird things
+
+Sometimes there are too many files to upload (/ohpiglet is now about 2 GB in size).
+
+So, sometimes it helps to do:
+
+ ```
+git config --global lfs.activitytimeout 120
+git config --global http.postBuffer 557286400
+ ```
+
 ## TODO
 
 ### wp-content and fixvideo strings
