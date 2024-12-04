@@ -17,3 +17,7 @@ There are other, more smaller monkeys too.
 Monkeys love football…
 
 ![]({{ site.baseurl }}/assets/image/about3.jpg)
+
+Monkeys love driving too.
+
+![]({{ site.baseurl }}/assets/image/about4.png)
