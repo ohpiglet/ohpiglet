@@ -4,7 +4,12 @@ layout: default
 
 <img src="/ohpiglet/assets/image/hero.png">
 
-<h5><button id="button">Button</button></h5>
+<h5><button id="button">One/button></h5>
+
+<button onclick = "uselessWebButton()" > Two </button>
+
+<button onclick = "uselessWebButton(button)" > Three </button>
+
 
 <div class="posts">
   {% for post in paginator.posts %}
