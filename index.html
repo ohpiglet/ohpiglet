@@ -9,21 +9,30 @@ layout: default
     function redirectToRandomPage() { 
       // Array of specific pages on the website 
       const pages = [ 
-          'https://sliding.toys/mystic-square/8-puzzle/daily/',
-          'https://sliding.toys/mystic-square/8-puzzle/daily/',
-          'https://longdogechallenge.com/',
-          'https://maze.toys/mazes/mini/daily/',
-          'https://optical.toys',
-          'https://paint.toys/calligram/',
-          'https://puginarug.com',
-          'https://memory.toys/classic/easy/',
-          'https://alwaysjudgeabookbyitscover.com',
-          'https://clicking.toys/flip-grid/neat-nine/3-holes/',
-          'http://www.staggeringbeauty.com/',
-          'http://burymewithmymoney.com/',
-          'https://toms.toys',
-          'https://memory.toys/monkey-challenge/easy/',
-          'https://memory.toys',
+          'https://ohpiglet.github.io//ohpiglet/2011/08/06/due-date/',
+          <! -- 2011-08-06T00:00:00+00:00 -->   
+          'https://ohpiglet.github.io//ohpiglet/2011/08/06/hola-el-mundo/',
+          <! -- 2011-08-06T00:00:00+00:00 -->   
+          'https://ohpiglet.github.io//ohpiglet/2011/08/06/there-was-a-sustained-period-of-waiting-around/',
+          <! -- 2011-08-06T00:00:00+00:00 -->   
+          'https://ohpiglet.github.io//ohpiglet/2011/08/11/el-bebe-y-el-padre/',
+          <! -- 2011-08-11T00:00:00+00:00 -->   
+          'https://ohpiglet.github.io//ohpiglet/2011/08/11/first-look-and-the-importance-of-stripes/',
+          <! -- 2011-08-11T00:00:00+00:00 -->   
+          'https://ohpiglet.github.io//ohpiglet/2011/08/11/this-baby-has-a-strong-left-foot-or-maybe-a/',
+          <! -- 2011-08-11T00:00:00+00:00 -->   
+          'https://ohpiglet.github.io//ohpiglet/2011/08/13/green-no-stripes-posterized/',
+          <! -- 2011-08-13T00:00:00+00:00 -->   
+          'https://ohpiglet.github.io//ohpiglet/2011/08/13/green-no-stripes/',
+          <! -- 2011-08-13T00:00:00+00:00 -->   
+          'https://ohpiglet.github.io//ohpiglet/2011/08/13/la-mujer-y-el-bebe/',
+          <! -- 2011-08-13T00:00:00+00:00 -->   
+          'https://ohpiglet.github.io//ohpiglet/2011/08/13/mona-y-mono/',
+          <! -- 2011-08-13T00:00:00+00:00 -->   
+          'https://ohpiglet.github.io//ohpiglet/2011/08/13/more-sleeping-more-b-w/',
+          <! -- 2011-08-13T00:00:00+00:00 -->   
+          'https://ohpiglet.github.io//ohpiglet/2011/08/13/rebecca-loves-b-w-photos/',
+          <! -- 2011-08-13T00:00:00+00:00 -->
       ]; 
       // Generate a random index 
       const randomIndex = Math.floor(Math.random() * pages.length); 
@@ -36,6 +45,8 @@ layout: default
 <body onclick="redirectToRandomPage()"> 
   <button type="randomisebutton" onclick="redirectToRandomPage()">OH HAI THERE, random page plz!</button>
 </body> 
+
+
 
 <div class="posts">
   {% for post in paginator.posts %}
