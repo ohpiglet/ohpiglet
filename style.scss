@@ -408,16 +408,16 @@ a[href^="#fnref:"] {
 .randombutton {
   display: inline-block;
   border-radius: 2px;
-  background-color: #00ff77;
+  background-color: none;
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 7%;
+  font-size: 12px;
+  padding: 10px;
+  width: 100px;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 5px;
+  margin: 3px;
 }
 
 .randombutton span {
