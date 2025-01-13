@@ -14,7 +14,7 @@ All the URLS in raw format.
   <ul>
     {% for post in yearMonth.items %}
       
-      '{{ site.url }}{{ post.url }}',
+      '{{ site.url }}{{ site.baseurl }}{{ post.url }}',
       
     {% endfor %}
   </ul>
