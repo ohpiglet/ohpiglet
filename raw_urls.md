@@ -14,7 +14,7 @@ All the URLS in raw format.
   <h2>{{ yearMonth.name }}</h2>
   <ul>
     {% for post in yearMonth.items %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      '<a href="{{ site.baseurl }}{{ post.url }}"></a>',
     {% endfor %}
   </ul>
 {% endfor %}
