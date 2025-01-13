@@ -7,13 +7,15 @@ title: Raw URLs
 
 All the URLS in raw format.
 
+{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
 {% for yearMonth in postsByYearMonth %}
 
-  <h2>{{ yearMonth.name }}</h2>
-  
   <ul>
     {% for post in yearMonth.items %}
-      <a href="{{ site.baseurl }}{{ post.url }}">'{{ site.baseurl }}{{ post.url }}',</a>
+      
+      '{{ site.url }}{{ post.url }}',
+      
     {% endfor %}
   </ul>
 {% endfor %}
