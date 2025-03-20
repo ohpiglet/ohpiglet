@@ -4,7 +4,7 @@ layout: post
 date: "2025-01-18"
 ---
 
-While Pau played football the rest of us went to se the castle in Rialp.
+While Pau played football the rest of us went to see the castle in Rialp.
 
 Saoirse, Rayane, and Boí.
 
