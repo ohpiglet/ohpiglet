@@ -5,7 +5,9 @@ title: Archive
 
 # Archive
 
-Browse all posts by year.
+Browse all posts by year. If that's too much, trythe Random button.
+
+<button class="randombutton" onclick="randompage()"><span>Random</span></button>
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
