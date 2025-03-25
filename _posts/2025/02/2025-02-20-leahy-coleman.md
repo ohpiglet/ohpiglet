@@ -1,5 +1,5 @@
 ---
-title: "Thje Leahy/Coleman ski trip"
+title: "The Leahy/Coleman ski trip"
 layout: post
 date: "2025-02-20"
 ---
@@ -16,9 +16,11 @@ Families lunch.
 
 Skiing at the black run!
 
-![yo yo]({{ site.baseurl }}/assets/images/2025/IMG-20250220-WA0016.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2025/IMG_20250220_145206.jpg)
 
-![yo yo]({{ site.baseurl }}/assets/images/2025/IMG-20250220-145206.jpg)
+Snowman!
+
+![yo yo]({{ site.baseurl }}/assets/images/2025/IMG-20250220-WA0016.jpg)
 
 Relaxing in the evening.
 
