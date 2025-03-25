@@ -42,7 +42,7 @@ Videos should be uploaded to Vimeo and then displayed using the default embed co
 
 ## Build locally first
 
-Built a totally unreliable local build:
+Build a totally unreliable local build:
 
  ```
 bundle exec jekyll serve
@@ -83,7 +83,11 @@ No:
 
 ### Enable web analytics
 
+Add Plausible Analytics.
+
 ### Add Year table to Archive page
+
+I don't know how to do this.
 
 ### Video
 
@@ -94,10 +98,6 @@ Videos should be uploaded to Vimeo and then displayed using the default embed co
 - all wp videos are now added to assets/videos and /extravideos
 
 - the fix is to upload to vimeo and display with the default embed code.
-
-### Pagination
-
-- add pagination, make shorter number
 
 ### Dark Mode snag
 
