@@ -9,8 +9,8 @@ Browse all posts by year. If that's too much, try the Random button.
 
 foo
 
-<a href="#2024">Go to 2024</a>
-<h2 id="moss">Moss</h2>
+<a href="#moss">Go to Moss</a>
+
 foo
 
 <button class="randombutton" onclick="randompage()"><span>Random</span></button>
@@ -27,3 +27,5 @@ foo
     {% endfor %}
   </ul>
 {% endfor %}
+
+<h2 id="moss">Moss</h2>
