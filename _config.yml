@@ -93,3 +93,6 @@ exclude:
 # Robots are welcome
 include:
   - robots.txt
+
+# Incremental rebuild, only rebuild the changed parts of the website
+incremental: true
