@@ -4,7 +4,7 @@ layout: post
 date: "2025-04-21"
 ---
 
-Pau and Boí hgave been building jumps for the bikes.
+Pau and Boí gave been building jumps for the bikes.
 
 Boí jumps over a big boulder, one of the ones that fell down the mountain during the recent rains.
 
@@ -30,7 +30,7 @@ Boí lands...
 
 ![yo yo]({{ site.baseurl }}/assets/images/2025/IMG_20250421_182853.jpg)
 
-Pau took this photo of Bioi1 from high above.
+Pau took this photo of Boí from high above.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2025/IMG_20250421_183449.jpg)
 
