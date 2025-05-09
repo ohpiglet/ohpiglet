@@ -4,7 +4,7 @@ layout: post
 date: "2025-04-21"
 ---
 
-Pau and Boí gave been building jumps for the bikes.
+Pau and Boí have been building jumps for the bikes.
 
 Boí jumps over a big boulder, one of the ones that fell down the mountain during the recent rains.
 
