@@ -67,7 +67,7 @@ git config --global http.postBuffer 557286400
 
 ### wp-content and fixvideo strings
 
-Search for wp-content and fixvideo as strings (exclude _site) to find all stray photo links and broken videos. There are 67 and 63.
+Search for wp-content and fixvideo as strings (exclude _site) to find all stray photo links and broken videos. There are 65 and 63.
 
 Yes:
  ```
