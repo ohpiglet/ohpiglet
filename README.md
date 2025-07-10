@@ -79,8 +79,6 @@ No:
 (https://mananamanana.com/ohpiglet/wp-content/uploads/2016/07/tumblr_o9sj8aC6U51r16syio1_1280.jpg)
  ```
 
-### Enable comments
-
 ### Enable web analytics
 
 Add Plausible Analytics.
@@ -99,6 +97,6 @@ Videos should be uploaded to Vimeo and then displayed using the default embed co
 
 - the fix is to upload to vimeo and display with the default embed code.
 
-### Dark Mode snag
+### Fix Dark Mode snag
 
 - Input Search-box text is invisible in Dark Mode 
