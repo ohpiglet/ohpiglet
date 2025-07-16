@@ -8,6 +8,6 @@ Pau and his beloved teacher Susanna celebrate Pau's graduation.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2025/IMG_20250619_211618.jpg)
 
-They love each really!
+They love each other really!
 
 ![yo yo]({{ site.baseurl }}/assets/images/2025/IMG_20250619_211607.jpg)
