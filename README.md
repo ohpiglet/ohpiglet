@@ -79,6 +79,30 @@ No:
 (https://mananamanana.com/ohpiglet/wp-content/uploads/2016/07/tumblr_o9sj8aC6U51r16syio1_1280.jpg)
  ```
 
+### Fix image size
+
+Make images fit on the screen, responsively.
+
+Use
+
+```
+img {
+  width: 100%;
+  height: auto;
+}
+```
+
+Or
+
+```
+img {
+  max-width: 100%;
+  height: auto;
+}
+```
+
+Test this in a branch.
+
 ### Enable web analytics
 
 Add Plausible Analytics.
