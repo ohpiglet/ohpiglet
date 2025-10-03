@@ -63,6 +63,20 @@ git config --global lfs.activitytimeout 120
 git config --global http.postBuffer 557286400
  ```
 
+## Upload images from phone to Mac
+
+- On phone, copy photos of interest to the 'Favs for ohp' folder
+
+- Connect Mac to phone via USB-to-USB cable
+
+- On Mac, open MacDroid
+
+- On phone, allow whatever permissions it asks
+
+- On Mac, open Finder, click into MacDroid in the sidebar, go to 'Favs for ohp' folder
+
+- Drag photos to the /assets/images/... folder
+
 ## TODO
 
 ### wp-content and fixvideo strings
