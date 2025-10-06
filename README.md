@@ -67,15 +67,17 @@ git config --global http.postBuffer 557286400
 
 - On phone, copy photos of interest to the 'Favs for ohp' folder
 
-- Connect Mac to phone via USB-to-USB cable
+- Connect Mac to phone via a good USB-to-USB cable
 
 - On Mac, open MacDroid
 
-- On phone, allow whatever permissions it asks
+- On phone, allow whatever permissions it asks, if it asks
 
 - On Mac, open Finder, click into MacDroid in the sidebar, go to 'Favs for ohp' folder
 
-- Drag photos to the /assets/images/... folder
+- Copy the images you want 
+
+- Paste the images you want into a folder on the Mac
 
 ## TODO
 
