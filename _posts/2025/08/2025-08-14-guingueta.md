@@ -15,3 +15,7 @@ Boí really high up.
 Saoirse checking her harness.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2025/IMG_20250814_185944.jpg)
+
+Rebecca high up in the trees overlooking the lake.
+
+![yo yo]({{ site.baseurl }}/assets/images/2025/IMG_20250814_194925.jpg)
