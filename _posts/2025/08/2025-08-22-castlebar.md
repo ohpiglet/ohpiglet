@@ -12,6 +12,6 @@ She's heading to Dublin.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2025/IMG-20250822-WA0009.jpg)
 
-This is the midlands of Irleand.
+This is the midlands of Ireland.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2025/IMG-20250822-WA0011.jpg)
