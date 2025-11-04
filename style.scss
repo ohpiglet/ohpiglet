@@ -10,6 +10,13 @@
     url(/fonts/CooperBlack-StdItal.woff) format("woff");
 }
 
+@font-face {
+  font-family: 'Cooper Black Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Cooper Black Regular'), url('/fonts/COOPBL.woff') format('woff');
+  }
+
 html {
   font-size: 100%;
 }
@@ -55,7 +62,7 @@ ul, ol, dl, figure,
 h1 {
   margin: 01em 0 15px;
   color: $orange;
-  font-family: "Cooper Black";
+  font-family: "Cooper Black Regular";
   font-weight: 700;
   line-height: 1.66666666667;
 }
@@ -63,7 +70,7 @@ h1 {
 h2, h3, h4, h5, h6 {
   margin: 01em 0 15px;
   color: $darkerGray;
-  font-family: "Cooper Black";
+  font-family: "Cooper Black Regular";
   font-weight: 700;
   line-height: 1.66666666667;
 }
