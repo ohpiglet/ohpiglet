@@ -3,6 +3,13 @@
 
 @import "variables";
 
+@font-face { 
+  font-family: "Cooper Black";
+  src: 
+    url(/fonts/CooperBlack-Std.woff) format("woff"),
+    url(/fonts/CooperBlack-StdItal.woff) format("woff");
+}
+
 html {
   font-size: 100%;
 }
