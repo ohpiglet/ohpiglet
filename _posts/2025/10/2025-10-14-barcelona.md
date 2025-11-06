@@ -10,7 +10,7 @@ We went on holidays to Barcelona. There was fun on the metro.
 
 We sat on the Gaudi benches on Passeig de Gracià.
 
-![yo yo]({{ site.baseurl }}/assets/images/2025/IMG_20251014_105708)
+![yo yo]({{ site.baseurl }}/assets/images/2025/IMG_20251014_105708.jpg)
 
 We went to Casa Batlló and didn't take very many photos.
  
