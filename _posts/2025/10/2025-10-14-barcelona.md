@@ -20,7 +20,7 @@ Boí in the artworks.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2025/IMG_20251014_121102.jpg)
 
-We crisscrossed Plaça Catalyuna many times.
+We crisscrossed Plaça Catalunya many times.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2025/IMG-20251014-WA0005.jpg)
 
