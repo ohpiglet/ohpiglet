@@ -14,6 +14,6 @@ Papa's goalhanging instinct never fails.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2024/img-20240525-wa00002797967410752936980-768x1024.jpg)
 
-End of the game, the scored was Papa 3, Pau zero.
+End of the game, the score was Papa 3, Pau zero.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2024/img-20240525-wa00176134965922257379711-1024x768.jpg)
