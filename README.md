@@ -71,11 +71,13 @@ git config --global http.postBuffer 557286400
 
 - On Mac, open MacDroid
 
-- On phone, allow whatever permissions it asks, if it asks
+- On phone, allow whatever permissions it asks, if it asks. This might be Transferir fitxers / Android Auto
+
+- Make sure the phone is 'mounted'
 
 - On Mac, open Finder, click into MacDroid in the sidebar, go to 'Favs for ohp' folder
 
-- Copy the images you want 
+- Copy the images you want
 
 - Paste the images you want into a folder on the Mac
 
