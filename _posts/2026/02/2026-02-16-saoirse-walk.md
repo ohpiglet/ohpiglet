@@ -1,9 +1,9 @@
 ---
-title: "Saoirse made this garden"
+title: "Saoirse went for a walk"
 layout: post
-date: "2026-02-20"
+date: "2026-02-16"
 ---
 
-Saoirse made this little garden, isn't it lovely?
+Saoirse went for a walk down by Yeti.
 
-![yo yo]({{ site.baseurl }}/assets/images/2026/IMG_20260220_202743.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/2026/IMG_20260216_165045.jpg)
