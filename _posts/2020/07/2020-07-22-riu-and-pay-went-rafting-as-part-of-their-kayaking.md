@@ -3,7 +3,7 @@ layout: post
 date: "2020-07-22"
 ---
 
-Riu and Pay went rafting as part of their kayaking course, and Papa went along in his kayak.
+Riu and Pau went rafting as part of their kayaking course, and Papa went along in his kayak.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2020/8a3fdeac78b423727cb9b17d504b0d7c937a754d.jpg)
 
