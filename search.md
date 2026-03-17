@@ -5,4 +5,4 @@ permalink: /search
 
 # Search
 
-{% include search.html %}
+{% include search-lunr.html %}
