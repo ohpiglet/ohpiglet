@@ -114,7 +114,3 @@ Videos should be uploaded to Vimeo and then displayed using the default embed co
 - all wp videos are now added to assets/videos and /extravideos
 
 - the fix is to upload to vimeo and display with the default embed code.
-
-### Fix Dark Mode snag
-
-- Input Search-box text is invisible in Dark Mode 
